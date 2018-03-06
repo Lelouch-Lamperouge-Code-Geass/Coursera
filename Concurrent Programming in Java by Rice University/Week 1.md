@@ -41,3 +41,16 @@ https://docs.oracle.com/javase/tutorial/essential/concurrency/newlocks.html
 
 https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/locks/Lock.html
 
+## 1.4 Liveness and Progress Guarantees
+
+Lecture Summary: In this lecture, we studied three ways in which a parallel program may enter a state in which it stops making forward progress. For sequential programs, an “infinite loop” is a common way for a program to stop making forward progress, but there are other ways to obtain an absence of progress in a parallel program. The first is __deadlock__, in which all threads are blocked indefinitely, thereby preventing any forward progress. The second is __livelock__, in which all threads repeatedly perform an interaction that prevents forward progress, e.g., an infinite “loop” of repeating lock acquire/release patterns. The third is __starvation__, in which at least one thread is prevented from making any forward progress.
+
+__The term “liveness” refers to a progress guarantee.__ The three progress guarantees that correspond to the absence of the conditions listed above are _deadlock freedom, livelock freedom, and starvation freedom_.
+
+#### Optional Reading:
+
+https://docs.oracle.com/javase/tutorial/essential/concurrency/deadlock.html
+
+https://docs.oracle.com/javase/tutorial/essential/concurrency/starvelive.html
+
+https://en.wikipedia.org/wiki/Deadlock  
