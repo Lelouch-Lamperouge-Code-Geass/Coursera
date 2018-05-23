@@ -36,3 +36,20 @@ Materialism can refer either to the simple preoccupation with the material world
 唯物论，哲学理论，肯定世界的基本组成为物质，物质形式与过程是我们认识世界的主要途径，持着只有事实上的物质才是存在的实体的这一种观点，并且被认为是物理主义的一种形式。该理论的基础，所有的实体（和概念）都是物质的一种构成或者表达，并且，所有的现象（包括意识）都是物质相互作用的结果，在意识与物质之间，物质决定了意识，而意识则是客观世界在人脑中的生理反应，也就是有机物形成的对物质的反应。因此，物质是唯一事实上存在的实体。作为一个理论体系，唯物主义属于一元本体论，其本身又不同于以二元论或多元论为基础的本体论，作为对现实世界的一种解释，它是唯心主义的一个对立面。
 
 唯物主义有机械唯物主义和辩证唯物主义的区别，机械唯物主义认为物质世界是由各个个体组成的，如同各种机械零件组成一个大机器，不会变化；辩证唯物主义认为物质世界永远处于运动与变化之中，它是互相影响，互相关联的。机械唯物论的代表人物：费尔巴哈、赫拉克利特、培根等；辩证唯物论的代表：马克思、恩格斯、列宁等。
+
+### Sigmund Freud
+
+Sigmund Freud, the father of psychoanalysis, was a physiologist, medical doctor, psychologist and influential thinker of the early twentieth century. Working initially in close collaboration with Joseph Breuer, Freud elaborated the theory that the mind is a complex energy-system, the structural investigation of which is the proper province of psychology. He articulated and refined the concepts of the unconscious, infantile sexuality and repression, and he proposed a tripartite account of the mind’s structure—all as part of a radically new conceptual and therapeutic frame of reference for the understanding of human psychological development and the treatment of abnormal mental conditions. Notwithstanding the multiple manifestations of psychoanalysis as it exists today, it can in almost all fundamental respects be traced directly back to Freud’s original work.
+
+Freud’s innovative treatment of human actions, dreams, and indeed of cultural artifacts as invariably possessing implicit symbolic significance has proven to be extraordinarily fruitful, and has had massive implications for a wide variety of fields including psychology, anthropology, semiotics, and artistic creativity and appreciation. However, Freud’s most important and frequently re-iterated claim, that with psychoanalysis he had invented a successful science of the mind, remains the subject of much critical debate and controversy.
+
+西格蒙德·弗洛伊德（Sigmund Freud，1856年5月6日—1939年9月23日），奥地利精神病医师、心理学家、精神分析学派创始人。1873年入维也纳大学医学院学习，1881年获医学博士学位。1882—1885年在维也纳综合医院担任医师，从事脑解剖和病理学研究。然后私人开业治疗精神病。1895年正式提出精神分析的概念。1899年出版《梦的解析》，被认为是精神分析心理学的正式形成。 1919年成立国际精神分析学会，标志着精神分析学派最终形成。1930年被授予歌德奖。1936年成为英国皇家学会会员。1938年奥地利被德国侵占，赴英国避难，次年于伦敦逝世。他开创了潜意识研究的新领域，促进了动力心理学、人格心理学和变态心理学的发展，奠定了现代医学模式的新基础，为20世纪西方人文学科提供了重要理论支柱。
+
+
+
+### wilhelm wundt
+
+Wilhelm Maximilian Wundt ( 16 August 1832 – 31 August 1920) was a German physician, physiologist, philosopher, and professor, known today as one of the founding figures of modern psychology. Wundt, who noted psychology as a science apart from philosophy and biology, was the first person ever to call himself a psychologist. He is widely regarded as the "father of experimental psychology". In 1879, Wundt founded the first formal laboratory for psychological research at the University of Leipzig. This marked psychology as an independent field of study. By creating this laboratory he was able to establish psychology as a separate science from other topics. He also formed the first academic journal for psychological research, Philosophische Studien (from 1881 to 1902), set up to publish the Institute's research.
+
+威廉·冯特（Wilhelm Wundt，1832年8月16日—1920年8月31日），德国生理学家、心理学家、哲学家，被公认为是实验心理学之父。他于1879年在莱比锡大学创立世界上第一个专门研究心理学的实验室，这被认为是心理学成为一门独立学科的标志。他学识渊博，著述甚丰，一生作品达540余篇，研究领域涉及哲学、心理学、生理学、物理学、逻辑学、语言学、伦理学、宗教等。
+
