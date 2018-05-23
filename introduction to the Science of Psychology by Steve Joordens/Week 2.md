@@ -45,7 +45,16 @@ Freud’s innovative treatment of human actions, dreams, and indeed of cultural 
 
 西格蒙德·弗洛伊德（Sigmund Freud，1856年5月6日—1939年9月23日），奥地利精神病医师、心理学家、精神分析学派创始人。1873年入维也纳大学医学院学习，1881年获医学博士学位。1882—1885年在维也纳综合医院担任医师，从事脑解剖和病理学研究。然后私人开业治疗精神病。1895年正式提出精神分析的概念。1899年出版《梦的解析》，被认为是精神分析心理学的正式形成。 1919年成立国际精神分析学会，标志着精神分析学派最终形成。1930年被授予歌德奖。1936年成为英国皇家学会会员。1938年奥地利被德国侵占，赴英国避难，次年于伦敦逝世。他开创了潜意识研究的新领域，促进了动力心理学、人格心理学和变态心理学的发展，奠定了现代医学模式的新基础，为20世纪西方人文学科提供了重要理论支柱。
 
+### What is id, ego, and superego?
 
+According to Freud, there are three primary structures or elements of personality. They are the Id, Ego and Superego. They reside in the unconscious as forces and can be inferred from the way people behave. It is important to remember that the Id, ego and superego are not real physical structures but concepts.
+
+Id: It is the source of a person's instinctual energy. It deals with immediate gratification of primitive needs, sexual desires and aggressive impulses. It works on the pleasure principle which assumes that people seek pleasure and try to avoid pain. Freud considered much of a person's instinctual energy to be sexual and the rest as aggressive. Id does not care for moral values, society or other individuals. The id is energized by two instinctual forces, called life instinct and death instinct. The instinctual life force that energizes the id is called libido.
+
+
+Ego: It grows out of Id and seeks to satisfy an individual's instinctual needs in accordance with reality. It works by the reality principle and often directs the id towards more appropriate ways of behaving. For instance, the id of a boy who wants an ice-cream will grab the ice-cream and eat it. The ego will tell him that if he grabs the ice-cream without asking, he may be punished. Working on the reality principle the boy knows that the best way to achieve gratification of his needs is to ask permission to eat the ice-cream. Thus, while the id is demanding and unrealistic, the ego is patient and reasonable.
+
+Superego: The best way to characterize the superego is to think of it as the moral branch of mental functioning. The superego tells the id and ego whether gratification in a particular instance is ethical. It helps control the id by internalizing the parental authority through the process of socialization. Going back to the ice-cream example, the superego decides whether his behavior in asking for the ice-cream is morally correct. This approach towards obtaining the ice-cream will not create guilt, fear or anxiety in the child.
 
 ### wilhelm wundt
 
