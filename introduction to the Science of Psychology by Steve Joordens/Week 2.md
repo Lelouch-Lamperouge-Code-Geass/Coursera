@@ -56,9 +56,35 @@ Ego: It grows out of Id and seeks to satisfy an individual's instinctual needs i
 
 Superego: The best way to characterize the superego is to think of it as the moral branch of mental functioning. The superego tells the id and ego whether gratification in a particular instance is ethical. It helps control the id by internalizing the parental authority through the process of socialization. Going back to the ice-cream example, the superego decides whether his behavior in asking for the ice-cream is morally correct. This approach towards obtaining the ice-cream will not create guilt, fear or anxiety in the child.
 
+### Clinical psychology
+
+Clinical psychology is an integration of science, theory and clinical knowledge for the purpose of understanding, preventing, and relieving psychologically-based distress or dysfunction and to promote subjective well-being and personal development. Central to its practice are psychological assessment, clinical formulation, and psychotherapy, although clinical psychologists also engage in research, teaching, consultation, forensic testimony, and program development and administration. In many countries, clinical psychology is a regulated mental health profession.
+
+临床心理学（clinical psychology）是根据心理学原理、知识和技术，解决人们心理问题的应用心理学科。该学科主要借助心理测验对病人的心理和行为进行评估，并通过心理咨询和心理治疗等途径调整和解决个体的心理问题。“临床心理学”这一术语由美国心理学家赖特纳·韦特默在1896年首次提出。到目前为止，临床心理学已经成为美国最大的心理学分支，从事这项工作的人很多，称之为临床心理学家或心理治疗师。临床心理学服务的人群也很广，工作范围遍布学效、医院、机关、政府、军事、商业和法律等。一般而言，临床心理学是医学心理学中的最大临床学科分支，属于应用心理学范畴，但在某些专著中，医学心理学与临床心理学的内容很接近，可将两者视为相似学科
+
 ### wilhelm wundt
 
 Wilhelm Maximilian Wundt ( 16 August 1832 – 31 August 1920) was a German physician, physiologist, philosopher, and professor, known today as one of the founding figures of modern psychology. Wundt, who noted psychology as a science apart from philosophy and biology, was the first person ever to call himself a psychologist. He is widely regarded as the "father of experimental psychology". In 1879, Wundt founded the first formal laboratory for psychological research at the University of Leipzig. This marked psychology as an independent field of study. By creating this laboratory he was able to establish psychology as a separate science from other topics. He also formed the first academic journal for psychological research, Philosophische Studien (from 1881 to 1902), set up to publish the Institute's research.
 
 威廉·冯特（Wilhelm Wundt，1832年8月16日—1920年8月31日），德国生理学家、心理学家、哲学家，被公认为是实验心理学之父。他于1879年在莱比锡大学创立世界上第一个专门研究心理学的实验室，这被认为是心理学成为一门独立学科的标志。他学识渊博，著述甚丰，一生作品达540余篇，研究领域涉及哲学、心理学、生理学、物理学、逻辑学、语言学、伦理学、宗教等。
+
+### Behaviorism
+
+Behaviorism was a movement in psychology and philosophy that emphasized the outward behavioral aspects of thought and dismissed the inward experiential, and sometimes the inner procedural, aspects as well; a movement harking back to the methodological proposals of John B. Watson, who coined the name. Watson's 1913 manifesto proposed abandoning Introspectionist attempts to make consciousness a subject of experimental investigation to focus instead on behavioral manifestations of intelligence. B. F. Skinner later hardened behaviorist strictures to exclude inner physiological processes along with inward experiences as items of legitimate psychological concern. Consequently, the successful "cognitive revolution" of the nineteen sixties styled itself a revolt against behaviorism even though the computational processes cognitivism hypothesized would be public and objective -- not the sort of private subjective processes Watson banned. Consequently (and ironically), would-be-scientific champions of consciousness now indict cognitivism for its "behavioristic" neglect of inward experience.
+
+The enduring philosophical interest of behaviorism concerns this methodological challenge to the scientific bona fides of consciousness (on behalf of empiricism) and, connectedly (in accord with materialism), its challenge to the supposed metaphysical inwardness, or subjectivity, of thought. Although behaviorism as an avowed movement may have few remaining advocates, various practices and trends in psychology and philosophy may still usefully be styled "behavioristic". As long as experimental rigor in psychology is held to require "operationalization" of variables, behaviorism's methodological mark remains. Recent attempts to revive doctrines of "ontological subjectivity" (Searle 1992) in philosophy and bring "consciousness research" under the aegis of Cognitive Science (see Horgan 1994) point up the continuing relevance of behaviorism's metaphysical and methodological challenges.
+
+行为主义心理学（behavioral psychology）是美国现代心理学的主要流派之一，也是对西方心理学影响最大的流派之一，其创始人是美国的心理学家华生。行为主义心理学主张以客观的方法研究人类的行为，从而预测和控制有机体的行为。它可区分为古典行为主义学派和新行为主义学派。古典行为主义的代表人物以华生为首，其次则有霍尔特、亨特、拉什里和魏斯。新行为主义的主要代表则为托尔曼、赫尔、斯金纳、班杜拉等。
+
+华生的行为主义有着深刻的哲学渊源，机械唯物主义、实证主义和实用主义等哲学思想都对行为主义产生了广泛的影响。工业革命以来，作为当时自然科学成果总结的哲学思想是机械唯物主义。华生在创立其行为主义体系时，显然接受了这种机械唯物主义思想，他认为“人也是机器，受刺激—反应规律的制约”。实证主义的基本原则是把一切科学知识建立在观察和实验的经验事实的基础上。早期的行为主义正是根据这一原则，放弃了对意识的研究转而研究可观察的行为。相对于机械唯物主义和实证主义，作为美国权威哲学的实用主义对早期的行为主义的影响更为直接和深刻。华生把不可直接观察和经验的意识排除在心理学研究之外，把人的行为活动简化为刺激—反应的行为模式，把有效地控制人的行为作为心理学的最终目的，都是实用主义哲学在心理学中的具体体现。
+
+### stimulus-response theory 
+
+The S-R Approach is the "stimulus-response" approach and is based on the premise of Contiguity, which states, for learning to occur, the response must occur in the presence of or very soon after a stimulus is presented, or an association will not occur. In essence, this is a behaviorist view based on the idea that learning will occur only if events occur relatively close together in time.
+一种消费者行为理论。美国行为主义心理学奠基人华生(John B.Watson，1878—1958)20世纪初期在巴甫洛夫 (Иван Петрович Павлов，1849—1936)条件反射实验的影 响下，提出“刺激-反应学习理论”(又称为“行为学习理 论”)。认为人类的复杂行为可以被分解为两部分：刺激和 反应。而人的行为是受到刺激的反应。学习的实质是形成 习惯，而习惯是通过学习将对刺激做出散乱、无组织、无条 件的反应，变成有组织、确定的条件反应的过程。
+刺激反应论认为，环境中的任何事物都可以成为激发儿童行为的刺激，并决定他的行为。若是控制了刺激，就可以塑造人们的行为，确定儿童的心理发展。因此，华生强调环境和训练的力量，他甚至声称：“给我一打健康的婴儿，我可以按自己的愿望培养，我保证把他们培养成我选择的任何特定的类型——医生、律师、艺术家、商人、领袖甚至乞丐和小偷。不拘他的祖先的天才、嗜好、脾气、能力、职业和种族如何。”(华生：《行为主义》第1 04页)。
+刺激反应论强调儿童行为的发展是经过后天学习而形成和改变的。并认为儿童学习行为的方式，主要有以下两种途径：一是形成条件反射。由于形成条件反射时，某些行为受到奖励，而其他行为则受到惩罚。因此，儿童就学会了新的行为方式。二是观察和模仿。儿童是通过观察和模仿别人的行为而获得新的行为方式。
+至于儿童如何学习复杂的行为，刺激反应论则认为有必要将示范、教导、奖励和惩罚结合起来。
+刺激反应论采用客观方法研究儿童心理发展，为西方心理学家所称颂。但是，由于刺激反应论者否定意识，否定人的主动性，将一切归诸于条件反射和观察、模仿，则对诸多心理发展的事实，如能力的发展变化、创造性的解决问题等等就难以解释，则又为西方心理学家们所非难
+
 
