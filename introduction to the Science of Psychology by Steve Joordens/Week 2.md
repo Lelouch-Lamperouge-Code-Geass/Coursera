@@ -21,6 +21,21 @@ This concept is difficult to accept for those with a secular humanist, materiali
 
 洛克的思想对于后代政治哲学的发展产生巨大影响，并且被广泛视为是启蒙时代最具影响力的思想家和自由主义者。他的著作也大为影响了伏尔泰和卢梭，以及许多苏格兰启蒙运动的思想家和美国开国元勋。他的理论被反映在美国的独立宣言上。
 
+### social psychology
+
+Social psychology is the study of how people's thoughts, feelings, and behaviors are influenced by the actual, imagined, or implied presence of others.[1] In this definition, scientific refers to the empirical investigation using the scientific method. The terms thoughts, feelings, and behavior refer to psychological variables that can be measured in humans. The statement that others' presence may be imagined or implied suggests that humans are malleable to social influences even when alone, such as when watching television or following internalized cultural norms. Social psychologists typically explain human behavior as a result of the interaction of mental states and social situations.
+
+Social psychologists examine factors that cause behaviors to unfold in a given way in the presence of others. They study conditions under which certain behavior, actions, and feelings occur. Social psychology is concerned with the way these feelings, thoughts, beliefs, intentions, and goals are cognitively constructed and how these mental representations, in turn, influence our interactions with others.
+
+社会心理学（social psychology）研究个体和群体在社会相互作用中的心理和行为发生及变化规律。社会心理学在个体水平和社会群体水平上对人际关系进行探讨。在个体水平上进行研究的内容有：个体社会化过程，交往，言语发展,伙伴，家庭和居住环境及学校对个人的影响等。在社会群体水平上进行研究的内容有：群体交往结构、群体规范,态度、种族偏见攻击行为、风俗习惯和骚乱等。
+
+
+
+
+
+
+
+
 洛克的精神哲学理论通常被视为是现代主义中“本体”以及自我理论的奠基者，也影响了后来大卫·休谟、让·雅各·卢梭、与伊曼努尔·康德等人的著作。洛克是第一个以连续的“意识”来定义自我概念的哲学家，他也提出了心灵是一块“白板”的假设。与笛卡尔或基督教哲学不同的是，洛克认为人生下来是不带有任何记忆和思想的。
 
 #### james mill
