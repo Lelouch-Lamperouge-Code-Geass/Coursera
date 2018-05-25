@@ -49,3 +49,50 @@ These single-cell fibers may extend a meter or even longer.
 In vertebrates, the axons of many neurons are sheathed in myelin, which is formed by either of two types of glial cells: Schwann cells ensheathing peripheral neurons and oligodendrocytes insulating those of the central nervous system.
 
 轴突，亦称“轴索”，是指神经元借以传导神经冲动以离开细胞体的细而长的突起
+
+### central nervous system
+
+<img src="https://www.ncbi.nlm.nih.gov/projects/pmh/PMH_Authoring/media/Images/medium_thumbs/N00879_L.jpg">  
+
+The nervous system is made up of all the nerve cells in your body. It is through the nervous system that we communicate with the outside world and, at the same time, many mechanisms inside our body are controlled. The nervous system takes in information through our senses, processes the information and triggers reactions, such as making your muscles move or causing you to feel pain. For example, if you touch a hot plate, you reflexively pull back your hand and your nerves simultaneously send pain signals to your brain. Metabolic processes are also controlled by the nervous system.
+
+There are many billions of nerve cells, also called neurons, in the nervous system. The brain alone has about 100 billion neurons in it. Each neuron has a cell body and various extensions. The shorter extensions (called dendrites) act like antennae: they receive signals from, for example, other neurons and pass them on to the cell body. The signals are then passed on via a long extension (the axon), which can be up to a meter long.
+
+The nervous system has two parts, called the central nervous system and the peripheral nervous system due to their location in the body. The central nervous system (CNS) includes the nerves in the brain and spinal cord. It is safely contained within the skull and vertebral canal of the spine. All of the other nerves in the body are part of the peripheral nervous system (PNS).
+
+### peripheral nervous system
+
+<img src="https://www.nf2is.org/nf_img/cnspns.png">
+
+The peripheral nervous system (PNS) is the division of the nervous system containing all the nerves that lie outside of the central nervous system (CNS). The primary role of the PNS is to connect the CNS to the organs, limbs, and skin. These nerves extend from the central nervous system to the outermost areas of the body. The peripheral system allows the brain and spinal cord to receive and send information to other areas of the body, which allows us to react to stimuli in our environment.
+
+The nerves that make up the peripheral nervous system are actually the axons or bundles of axons from neuron cells. In some cases, these nerves are very small but some nerve bundles are so large that they can be easily seen by the human eye.
+
+The peripheral nervous system itself is divided into two parts:
+
+* The somatic nervous system
+* The autonomic nervous system
+
+Each of these components plays a critical role in how the peripheral nervous system operates.  
+
+### The Somatic Nervous System
+
+The somatic system is the part of the peripheral nervous system responsible for carrying sensory and motor information to and from the central nervous system.
+
+
+The __somatic nervous system__ derives its name from the Greek word soma, which means "body."
+
+The __somatic system__ is responsible for transmitting sensory information as well as for voluntary movement. This system contains two major types of neurons:
+
+* Sensory neurons (or afferent neurons) that carry information from the nerves to the central nervous system. It is these sensory neurons that allow us to take in sensory information and send it to the brain and spinal cord.   
+* Motor neurons (or efferent neurons) that carry information from the brain and spinal cord to muscle fibers throughout the body. These motor neurons allow us to take physical action in response to stimuli in the environment.  
+
+### The Autonomic Nervous System
+
+The autonomic system is the part of the peripheral nervous system responsible for regulating involuntary body functions, such as blood flow, heartbeat, digestion, and breathing. In other words, it is the autonomic system that controls aspects of the body that are usually not under voluntary control. This system allows these functions to take place without needing to consciously think about them happening.
+
+This system is further divided into two branches:
+
+* The sympathetic system regulates the flight-or-fight responses. This system prepares the body to expend energy and deal with potential threats in the environment. When action is needed, the sympathetic system will trigger a response by speeding up the heart rate, increasing breathing rate, increasing blood flow to muscles, activating sweat secretion, and dilating the pupils. This allows the body to respond quickly in situations that require immediate action. In some cases, we might stay and fight the threat, while in other cases we may instead flee from the danger.  
+* The parasympathetic system helps maintain normal body functions and conserve physical resources. Once a threat has passed, this system will slow the heart rate, slow breathing, reduce blood flow to muscles, and constrict the pupils. This allows us to return our bodies to a normal resting state.  
+
