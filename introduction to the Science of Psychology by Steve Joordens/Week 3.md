@@ -204,3 +204,11 @@ The Temporal Lobe mainly revolves around hearing and selective listening. It rec
 
 颞叶(niè yè) 位于外侧裂下方，由颞上沟和颞下沟分为颞上回、颞中回、颞下回。隐在外侧裂内的是颞横回。在颞叶的侧面和底面，在颞下沟和侧副裂间为梭状回，侧副裂与海马裂之间为海马回，围绕海马裂前端的钩状部分称为海马钩回。负责处理听觉信息，也与记忆和情感有关。
 
+### Lateralization of brain function
+
+<img src="http://images.slideplayer.com/14/4280948/slides/slide_43.jpg">
+
+The lateralization of brain function is the tendency for some neural functions or cognitive processes to be specialized to one side of the brain or the other. The medial longitudinal fissure separates the human brain into two distinct cerebral hemispheres, connected by the corpus callosum. Although the macrostructure of the two hemispheres appears to be almost identical, different composition of neuronal networks allows for specialized function that is different in each hemisphere.
+
+Lateralization of brain structures is based on general trends expressed in healthy patients; however, there are numerous counterexamples to each generalization. Each human’s brain develops differently leading to unique lateralization in individuals. This is different from specialization as lateralization refers only to the function of one structure divided between two hemispheres. Specialization is much easier to observe as a trend since it has a stronger anthropological history.[1] The best example of an established lateralization is that of Broca's and Wernicke's areas where both are often found exclusively on the left hemisphere. These areas frequently correspond to handedness, however, meaning that the localization of these areas is regularly found on the hemisphere corresponding to the dominant hand (anatomically on the opposite side). Function lateralization such as semantics, intonation, accentuation, prosody, etc. has since been called into question and largely been found to have a neuronal basis in both hemispheres.[2] Another example is that each hemisphere in the brain tends to represent one side of the body. In the cerebellum this is the same bodyside, but in the forebrain this is predominantly the contralateral side.
+
