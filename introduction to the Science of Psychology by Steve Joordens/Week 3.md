@@ -190,3 +190,17 @@ The hippocampus has a unique shape, similar to that of a horseshoe. It not only 
 
 海马体（Hippocampus），又名海马回、海马区、大脑海马，海马体位于大脑丘脑和内侧颞叶之间，属于边缘系统的一部分，主要负责长时记忆的存储转换和定向等功能.
 
+### Occipital Lobe
+
+<img src="https://library.neura.edu.au/wp-content/uploads/frontal-lobe/Frontal-lobe.jpg">
+
+The occiptial lobe is important to being able to correctly understand what your eyes are seeing. These lobes have to be very fast to process the rapid information that our eyes are sending. Similar to how the temporal lobe makes sense of auditory information, the occipital lobe makes sense of visual information so that we are able to understand it. If our occipital lobe was impaired, or injured we would not be able to correctly process visual signals, thus visual confusion would result.
+
+枕叶（Occipital Lobe）是大脑皮层顶枕裂之后的部位。其距状裂两侧的纹区（第Ⅰ视区，或称17 区）是重要的视觉中枢，主要处理视觉信息，并控制同视觉有关的眼球运动和瞳孔调节的反射活动。刺激该区某一点，可在特定的视野区出现简单视象；刺激视网膜，可在纹皮质的单个细胞得到诱发反应。一侧枕叶皮质主要与两眼同侧的视网膜相联系，因而与两眼对侧的视野有关。
+
+### Temporal Lobe
+
+The Temporal Lobe mainly revolves around hearing and selective listening. It receives sensory information such as sounds and speech from the ears. It is also key to being able to comprehend, or understand meaningful speech. In fact, we would not be able to understand someone talking to us, if it wasn't for the temporal lobe. This lobe is special because it makes sense of the all the different sounds and pitches (different types of sound) being transmitted from the sensory receptors of the ears.
+
+颞叶(niè yè) 位于外侧裂下方，由颞上沟和颞下沟分为颞上回、颞中回、颞下回。隐在外侧裂内的是颞横回。在颞叶的侧面和底面，在颞下沟和侧副裂间为梭状回，侧副裂与海马裂之间为海马回，围绕海马裂前端的钩状部分称为海马钩回。负责处理听觉信息，也与记忆和情感有关。
+
