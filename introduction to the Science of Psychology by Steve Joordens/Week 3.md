@@ -214,11 +214,20 @@ Lateralization of brain structures is based on general trends expressed in healt
 
 ### Broca's area
 
+
+
 <img src="https://cdn.britannica.com/700x450/32/99532-004-2B7BE4E6.jpg">
 
 Broca area, also called convolution of Broca, region of the brain that contains neurons involved in speech function. This area, located in the frontal part of the left hemisphere of the brain, was discovered in 1861 by French surgeon Paul Broca, who found that it serves a vital role in the generation of articulate speech.
 
 Damage to the frontal lobe can result in a speech disorder known as Broca aphasia, which is characterized by deliberate, telegraphic speech with very simple grammatical structure, though the speaker may be quite clear as to what he or she wishes to say and may communicate successfully.
+
+布罗卡氏区 [1]  （Broca's area）又称布罗卡氏中枢、布罗卡氏回，即运动性言语中枢（说话中枢）。 布罗卡氏区的发现，不但使人想念神经系统内的机能各有其较特殊的定位，而且还找到了以脑沟回作为脑的机能分区的明确标志。
+
+发现者为皮埃尔·保尔·布罗卡，法国外科医生、神经病理学家、人类学家，也是最早发现大脑左半球语言中枢的生理学家。
+
+布罗卡氏区是大脑的一区，它主管语言讯息的处理、话语的产生。与韦尼克区Wernicke's area共同形成语言系统。布罗卡氏区与韦尼克区通常位于脑部的优势半脑(通常位于左侧)，这是由于大多数人(97%)是右利的缘故。布罗卡氏区与韦尼克区由额叶和颞叶间的神经通道弓状束(Arcuate fasciculus)连接。
+布罗卡区位于主侧大脑半球额下后部靠近岛盖处，即布鲁德曼第 44、45 区。在布罗卡的发现之前，P.弗卢朗学说坚持大脑的整体功能。布罗卡氏区损害导致运动性失语症，由于有关肌肉共济失调，不能将语言以口语方式表达出来。障碍程度轻重不等。轻者找到个合适的词，重复使用有限的词汇，句子简单，语法单调，表达中有较长的停顿。重者言语功能丧失，能发音，但构成不了词句。
 
 ### Wernicke area
 
@@ -227,4 +236,15 @@ Damage to the frontal lobe can result in a speech disorder known as Broca aphasi
 Wernicke area, region of the brain that contains motor neurons involved in the comprehension of speech. This area was first described in 1874 by German neurologist Carl Wernicke. The Wernicke area is located in the posterior third of the upper temporal convolution of the left hemisphere of the brain. Thus, it lies close to the auditory cortex. This area appears to be uniquely important for the comprehension of speech sounds and is considered to be the receptive language, or language comprehension, centre.
 
 Damage to the temporal lobe may result in a language disorder known as Wernicke aphasia. An individual with Wernicke aphasia has difficulty understanding language; speech is typically fluent but is empty of content and characterized by circumlocutions, a high incidence of vague words like “thing,” and sometimes neologisms and senseless “word salad.”
+
+1874年德国医生韦尼克发现左半球有一个不同于布洛卡区的重要的语言区域，可以控制语言理解的技能。韦尼克区（又称威尼克区、沃尼克区）是大脑写中枢，视觉性语言中枢，是神经心理学重要学术名词。在心理语言学领域也多有提及。
+
+###  The Parietal Lobe 
+
+The parietal lobe carries out some very specific functions. As a part of the cortex, it has a lot of responsibilities and has to be able to process sensory information within seconds. The parietal lobe is where information such as taste, temperature and touch are integrated, or processed. Humans would not be able to to feel sensations of touch, if the parietal lobe was damaged.
+
+顶叶（parietal lobe），大脑半球中部部分。其外侧面的前界是中央沟，后界是顶枕沟和由此沟末端到枕前切迹间的连线，下界为外侧裂向后至顶枕线的延线。与之下缘平行的顶间沟，将其除后中央回以外的部分分为顶上小叶和顶下小叶。顶下小叶包括围绕外侧裂末端的缘上回和围绕颞上沟末端的角回。缘上回为运动中枢，角回在优势半球为阅读中枢。后中央回为感觉中枢。顶上小叶为实体觉分析区。内侧面有旁中央小叶的后半部和楔前回。旁中央小叶是管理膀胱和直肠的中枢。与额、颞、枕叶、Rolando运动区、扣带回发生联系，通过胼胝体与对侧顶叶发生联系。发出纤维到丘脑，也接受来自丘脑的纤维。病变时，可出现感觉、知觉障碍，体象障碍，空间定向障碍，结构性失用症等。
+
+有研究表明，人的顶叶的大小在一定程度下与数学和逻辑方面能力的大小有关，一般成正比，即顶叶后区体积越大，一个人在数学，逻辑思维，发散思维等方面的能力越强（如爱因斯坦等，他的顶叶比一般人大百分之二十左右，盲人的顶叶也比一般人的大），顶叶前区越大，人的身体协调性，感觉等越发达。顶叶大小也与一个人的寿命长度和躯体平衡、协调性在一定程度上有关。
+
 
