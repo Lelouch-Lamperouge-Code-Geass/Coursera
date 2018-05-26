@@ -96,3 +96,97 @@ This system is further divided into two branches:
 * The sympathetic system regulates the flight-or-fight responses. This system prepares the body to expend energy and deal with potential threats in the environment. When action is needed, the sympathetic system will trigger a response by speeding up the heart rate, increasing breathing rate, increasing blood flow to muscles, activating sweat secretion, and dilating the pupils. This allows the body to respond quickly in situations that require immediate action. In some cases, we might stay and fight the threat, while in other cases we may instead flee from the danger.  
 * The parasympathetic system helps maintain normal body functions and conserve physical resources. Once a threat has passed, this system will slow the heart rate, slow breathing, reduce blood flow to muscles, and constrict the pupils. This allows us to return our bodies to a normal resting state.  
 
+### Sympathetic Nervous System
+
+<img src="http://activateanddominate.com/wp-content/uploads/2015/09/para_sympathetic.jpg">
+
+The sympathetic and parasympathetic nervous systems usually do opposite things in the body. The sympathetic nervous system prepares your body for physical and mental activity. It makes your heart beat faster and stronger, opens your airways so you can breathe more easily, and inhibits digestion.
+
+The parasympathetic nervous system is responsible for bodily functions when we are at rest: it stimulates digestion, activates various metabolic processes and helps us to relax. But the sympathetic and parasympathetic nervous systems do not always work in opposite directions; they sometimes complement each other too. 
+
+交感神经 sympathetic nerve： 的低级中枢位于脊髓胸1～腰2或腰3节段的灰质侧柱的中间带外侧核。交感神经节前纤维起自此核的细胞，因此交感神经又称交感部或胸腰部。
+交感神经的周围部包括交感干、交感神经节，以及由节发出的分支和交感神经丛等，根据交感神经节所在位置不同，又可分为椎旁节和椎前节。
+活动比较广泛，刺激交感神经能引起腹腔内脏及皮肤末梢血管收缩、心搏加强和加速、新陈代谢亢进、瞳孔散大、疲乏的肌肉工作能力增加等。交感神经的活动主要保证人体紧张状态时的生理需要。
+(1)对循环系统的作用：皮肤和横纹肌以及腹腔脏器的血管只接受交感神经的支配，冠状循环以及脑循环的血管都同时接受交感和副交感两种神经纤维，因此，刺 激交感神经一般可使周围动脉收缩，而在去除交感神经后可使周围动脉扩张。治疗周围血管疾患，施行交感神经切除术，即以此为依据。
+(2) 对消化系统的作用：交感神经对胃肠道的作用主要是抑制，使蠕动减慢，但当胃肠紧张性太低或不活动时，交感神经冲动则可以提高并兴奋之。对消化腺的分泌功 能，交感神经的作用甚不一致，对胰和唾液腺虽可促进其分泌，但因此部的血管收缩而分泌不明显，对胃液则阻止其分泌。
+(3)对呼吸系统的作用：交感神经兴奋时，对小支气管主要为抑制其平滑肌的活动，因而使小支气管扩大，空气出入畅通。气喘患者在注射麻黄素等制剂后得到暂时缓解，即因此故。
+(4)对泌尿系统的作用：交感神经的作用能使膀胱壁松弛，内括约肌收缩，因而阻止小便排出。
+此外，在生殖系统中对女性子宫平滑肌，对男性射精管和精囊的平滑肌等都有调节作用。
+
+###  Parasympathetic Nervous System
+
+The sympathetic and parasympathetic nervous systems usually do opposite things in the body. The sympathetic nervous system prepares your body for physical and mental activity. It makes your heart beat faster and stronger, opens your airways so you can breathe more easily, and inhibits digestion.
+
+The parasympathetic nervous system is responsible for bodily functions when we are at rest: it stimulates digestion, activates various metabolic processes and helps us to relax. But the sympathetic and parasympathetic nervous systems do not always work in opposite directions; they sometimes complement each other too. 
+
+副交感神经系统（Parasympathetic Division) 是植物性神经系统的主要部分，发自中脑、桥脑、延脑及脊髓的骶部。它的节前纤维在副交感神经节中交换神经元，再由此发出节后纤维，至平滑肌、心肌和腺体。副交感神经节一般位于脏器附近或脏器壁内。
+
+交感神经和副交感神经在机能上具有拮抗性质。一般讲，人们把交感神经看成机体应付
+紧急情况的机构。当人们挣扎、搏斗、恐惧和愤怒时，交感神经马上发生作用，它加速心脏的跳动；下令肝脏释放更多的血糖，使肌肉得以利用；暂时减缓或停止消化器官的活动，从而动员全身力量以应付危急。而副交感神经的作用则相反，它起着平衡作用，抑制体内各器官的过度兴奋，使它们获得心要的休息。 
+副交感神经系统可保持身体在安静状态下的生理平衡，其作用有三个方面：
+
+①增进胃肠的活动，消化腺的分泌，促进大小便的排出，保持身体的能量。  
+②瞳孔缩小以减少刺激，促进肝糖原的生成，以储蓄能源。  
+③心跳减慢，血压降低，支气管缩小，以节省不必要的消耗，协助生殖活动，如使生殖血管扩张，性器官分泌液增加。  
+
+### subcortical structure
+
+<img src="https://universe-review.ca/I10-13-subcortical.png">
+
+The subcortical structures of the nervous system have complex motor and non-motor functions. They are situated beneath the cerebral cortex, and receive extensive inputs from it and the peripheral sense organs and stretch receptors. Through recurrent feedback loops, the information received is processed and integrated to provide an output that contributes to scaling, sequencing, and timing of movements, in addition to learning and automatization of motor and non-motor behavior.
+
+The subcortical structures include: the limbic system, the diencephalon, and the ventricles.
+
+### Brainstem
+
+<img src="http://www.strokeeducation.info/images/brainstem%20and%20brain%20.jpg">
+
+Brainstem, area at the base of the brain that lies between the deep structures of the cerebral hemispheres and the cervical spinal cord. The brainstem is divided into three sections in humans: the midbrain (mesencephalon), the pons (metencephalon), and the medulla oblongata (myelencephalon).
+
+The brainstem houses many of the control centres for vital body functions, such as swallowing, breathing, and vasomotor control. All of the cranial nerve nuclei, except those associated with olfaction and vision, are located in the brainstem, providing motor and sensory function to structures of the cranium, including the facial muscles, tongue, pharynx, and larynx, as well as supplying the senses of taste, equilibrium, and hearing. The brainstem also has nuclei important for sympathetic and parasympathetic autonomic functions. All efferent and afferent pathways between the cerebrum and cerebellum course through the brainstem, and many of them decussate, or cross, within this structure.
+
+脑干（brainstem）位于大脑下方，是大脑和脊髓之间的较小部分，呈不规则的柱状形。脑干自下而上由延髓、脑桥、中脑三部分组成。延髓部分下连脊髓。
+脑干是脊髓向上延伸的部分,其下端与脊髓相连，上端与大脑相接。脑干自下面上可分为延髓、桥脑、中脑和间脑。
+上面脑神经。脑干内的白质由上、下行的传导束，以及脑干各部所发出的神经纤维所构成。是大脑、小脑与脊髓相互联系的重要通路。脑干内的灰质分散成大小不等的灰质块，叫“神经核”。神经核与接受外围的传入冲动和传出冲动支配器官的活动，以及上行下行传导束的传导有关。此外，在延髓和脑桥里有调节心血管运动、呼吸、吞咽、呕吐等重要生理活动的反射中枢。若这些中枢受损伤，将引起心搏、血压的严重障碍，甚至危及生命。
+延髓尾端在枕骨大孔处与脊髓接续，中脑头端与间脑相接。延髓和脑桥恰卧于颅底的斜坡上。
+脑干的功能主要是维持个体生命，包括心跳、呼吸、消化等重要生理功能，均与脑干的功能有关。
+经由脊髓传至脑的神经冲动，呈交叉方式进入。即左传右再入脑，右同理。
+
+### cerebellum
+
+<img src="https://anatomy.co.uk/wp-content/uploads/2017/06/cerebellum.jpg">
+
+The cerebellum is one of the most identifiable parts of the brain due to its unique shape and location. It is extremely important for being able to perform everyday voluntary (done with purpose and intent) tasks such as walking and writing. It is also essential to being able to stay balanced and upright. Patients who have suffered from damaged cerebellums often struggle with keeping their balance and maintaining proper muscle coordination.
+
+### limbic system
+
+<img src="https://image.slidesharecdn.com/2-170324150315/95/anatomy-of-limbic-system-3-638.jpg">
+
+The limbic system is comprised of telencephalic, diencephalic, and mesencephalic components that are located on both sides of the thalamus.
+
+It includes the large subcallosal cingulate and parahippocampal gyri of the medial surface of the cerebral hemisphere, as well as the hippocampal formation formed by the hippocampus proper, the dentate gyrus, the subicular complex and area 28 of the cortex. These structures are related to the terminations of the olfactory tracts in the frontal and medial temporal lobes.
+
+The limbic system is also associated with the subcortical nuclei, which includes the amygdala, the septum, the hypothalamus, the habenula, the anterior thalamic nuclei and parts of the basal ganglia. It is involved in emotional and behavioral processes, motivation, long-term memory, and olfaction.
+
+### Corpus Callosum 
+
+<img src="http://pegasus.cc.ucf.edu/~Brainmd1/brmodelc.gif">
+
+The Corpus Callosum is the part of the mind that allows communication between the two hemispheres of the brain. It is responsible for transmitting neural messages between both the right and left hemispheres. 
+
+### amygdala
+
+When you think of the amygdala, you should think of one word. Fear. The amygdala is the reason we are afraid of things outside our control. It also controls the way we react to certain stimuli, or an event that causes an emotion, that we see as potentially threatening or dangerous.
+
+杏仁核，附着在海马的末端，呈杏仁状，是边缘系统的一部分。是产生情绪，识别情绪和调节情绪，控制学习和记忆的脑部组织，而且研究发现，幼儿自闭症似乎也与扩大的杏仁核有关。
+
+刺激清醒动物的杏仁核，动物出现“停顿反应”，显得“高度注意”，表现迷惑、焦虑、恐惧、退缩反应或发怒、攻击反应。刺激杏仁首端引起逃避和恐惧，刺激杏仁尾端引起防御和攻击反应。诱发惧—怒反应时伴瞳孔扩大、竖毛、嗥叫等情绪表现。切除杏仁核，动物出现“心理性失明”：通过视觉看到的东西不知是否可以吃，必需放到嘴里才知道；“过度变态”：反复察看、触摸或以口检查各种物体，包括原先所畏惧的活蛇或活鼠；情感性行为发生显著变化或所有的情感反应完全丧失。关于情绪反应的产生机制，有人研究认为存在两条反射通路。（1）刺激—〉丘脑—〉扣带回—〉大脑各区域相应皮质（长通路）；（2）刺激—〉丘脑—〉杏仁核（短通路）。长通路的刺激信息经过皮质的精细加工，利于对情绪的控制和采取适当的应对方式，短通路的刺激信息未经皮质的精细加工，速度更快，保证对恐惧刺激作出迅速反应，这对包括人在内的所有生物的生存十分重要。由此可见，杏仁核的主要功能为产生和传入大脑新皮质的各种外界信息相适应的情绪。
+
+杏仁核是情绪学习和记忆的重要结构。和海马一样，杏仁核对新异刺激出现朝向反应，破坏两侧杏仁核的动物，对新异视觉刺激的朝向反应大为降低，缺乏对恐惧事件的辨识和反应。相反，在杏仁核正常的情况下，当你听说邻居家的狗咬伤了人，见到狗后你会感到恐惧而早早避之，尽管你未曾被它咬过。具有情绪意义的刺激会引起杏仁核电活动的强烈反应，并形成长期的痕迹储存于脑中。因此，触动人情绪反应强烈的事件会给人留下长期的记忆，甚至终身.
+
+### Hippocampus
+
+The hippocampus has a unique shape, similar to that of a horseshoe. It not only assists with the storage of long term memories, but is also responsible for the memory of the location of objects or people. We would not even be able to remember where our house is without the work of the hippocampus. Alzheimer's disease, (a disease that effects elderly people and often results in loss of memory) has been proven to have affected and damaged this area of the brain. 
+
+海马体（Hippocampus），又名海马回、海马区、大脑海马，海马体位于大脑丘脑和内侧颞叶之间，属于边缘系统的一部分，主要负责长时记忆的存储转换和定向等功能.
+
