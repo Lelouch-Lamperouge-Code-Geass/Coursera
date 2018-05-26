@@ -206,9 +206,25 @@ The Temporal Lobe mainly revolves around hearing and selective listening. It rec
 
 ### Lateralization of brain function
 
-<img src="http://images.slideplayer.com/14/4280948/slides/slide_43.jpg">
+<img src="http://slideplayer.com/slide/5363471/17/images/71/Lateralization+of+Cerebral+Functions.jpg" />
 
 The lateralization of brain function is the tendency for some neural functions or cognitive processes to be specialized to one side of the brain or the other. The medial longitudinal fissure separates the human brain into two distinct cerebral hemispheres, connected by the corpus callosum. Although the macrostructure of the two hemispheres appears to be almost identical, different composition of neuronal networks allows for specialized function that is different in each hemisphere.
 
 Lateralization of brain structures is based on general trends expressed in healthy patients; however, there are numerous counterexamples to each generalization. Each human’s brain develops differently leading to unique lateralization in individuals. This is different from specialization as lateralization refers only to the function of one structure divided between two hemispheres. Specialization is much easier to observe as a trend since it has a stronger anthropological history.[1] The best example of an established lateralization is that of Broca's and Wernicke's areas where both are often found exclusively on the left hemisphere. These areas frequently correspond to handedness, however, meaning that the localization of these areas is regularly found on the hemisphere corresponding to the dominant hand (anatomically on the opposite side). Function lateralization such as semantics, intonation, accentuation, prosody, etc. has since been called into question and largely been found to have a neuronal basis in both hemispheres.[2] Another example is that each hemisphere in the brain tends to represent one side of the body. In the cerebellum this is the same bodyside, but in the forebrain this is predominantly the contralateral side.
+
+### Broca's area
+
+<img src="https://cdn.britannica.com/700x450/32/99532-004-2B7BE4E6.jpg">
+
+Broca area, also called convolution of Broca, region of the brain that contains neurons involved in speech function. This area, located in the frontal part of the left hemisphere of the brain, was discovered in 1861 by French surgeon Paul Broca, who found that it serves a vital role in the generation of articulate speech.
+
+Damage to the frontal lobe can result in a speech disorder known as Broca aphasia, which is characterized by deliberate, telegraphic speech with very simple grammatical structure, though the speaker may be quite clear as to what he or she wishes to say and may communicate successfully.
+
+### Wernicke area
+
+<img src="https://i.ytimg.com/vi/u4QwjrE7Ji4/hqdefault.jpg">
+
+Wernicke area, region of the brain that contains motor neurons involved in the comprehension of speech. This area was first described in 1874 by German neurologist Carl Wernicke. The Wernicke area is located in the posterior third of the upper temporal convolution of the left hemisphere of the brain. Thus, it lies close to the auditory cortex. This area appears to be uniquely important for the comprehension of speech sounds and is considered to be the receptive language, or language comprehension, centre.
+
+Damage to the temporal lobe may result in a language disorder known as Wernicke aphasia. An individual with Wernicke aphasia has difficulty understanding language; speech is typically fluent but is empty of content and characterized by circumlocutions, a high incidence of vague words like “thing,” and sometimes neologisms and senseless “word salad.”
 
