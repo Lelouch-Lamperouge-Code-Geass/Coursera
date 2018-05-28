@@ -247,4 +247,46 @@ The parietal lobe carries out some very specific functions. As a part of the cor
 
 有研究表明，人的顶叶的大小在一定程度下与数学和逻辑方面能力的大小有关，一般成正比，即顶叶后区体积越大，一个人在数学，逻辑思维，发散思维等方面的能力越强（如爱因斯坦等，他的顶叶比一般人大百分之二十左右，盲人的顶叶也比一般人的大），顶叶前区越大，人的身体协调性，感觉等越发达。顶叶大小也与一个人的寿命长度和躯体平衡、协调性在一定程度上有关。
 
+### Sensory  Strips
+
+<img src="https://image.slidesharecdn.com/myers10e-ls-ch02-1-140304181623-phpapp01/95/myers10e-lsch021-54-638.jpg">
+
+The sensory strip is apart of the brain located in the parietal lobe, near the border of the frontal lobe. 
+The sensory strip is involved in registering sensation that are connected specific body parts or body functions. 
+
+It is the band of neurons that are embedded in your cerebrum or cerebral cortex .
+
+### Motor Strips
+
+Motor strips, which are located in the frontal lobeis what control all muscle movement including the ones that are necessary for speech. 
+
+### Cortical homunculus
+
+<img src="https://i.pinimg.com/originals/b3/d3/07/b3d3077e179d953ef6eb813ce31236f7.jpg">
+
+A cortical homunculus is a distorted representation of the human body, based on a neurological "map" of the areas and proportions of the human brain dedicated to processing motor functions, or sensory functions, for different parts of the body. The word homunculus is Latin for "little man", and was a term used in alchemy and folklore long before scientific literature began using it. A cortical homunculus, or "cortex man", illustrates the concept of heuristically representing the body lying within the brain. Nerve fibres from the spinal cord terminate in various areas of the parietal lobe in the cerebral cortex, which forms a representational map of the body.
+
+### Proprioception
+
+Proprioception: The ability to sense stimuli arising within the body regarding position, motion, and equilibrium. Even if a person is blindfolded, he or she knows through proprioception if an arm is above the head or hanging by the side of the body. The sense of proprioception is disturbed in many neurological disorders. It can sometimes be improved through the use of sensory integration therapy, a type of specialized occupational therapy.
+
+本体感觉是指肌、腱、关节等运动器官本身在不同状态（运动或静止）时产生的感觉（例如，人在闭眼时能感知身体各部的位置）。因位置较深，又称深部感觉。此外，在本体感觉传导通路中，还传导皮肤的精细触觉（如辨别两点距离和物体的纹理粗细等）。主要涉及躯干和四肢的本体感觉传导通路（属于顶叶功能）。
+
+### The Frontal Lobe 
+
+You use your frontal lobe nearly everyday. You use it to make decisions, such as what to eat or drink for breakfast in the morning, as well as for thinking or studying for a test. The frontal lobe is also where our personality is formed and where we can carry out higher mental processes such as planning. In addition, the frontal lobe is necessary to being able to speak fluently (without fault) and meaningfully. 
+
+The frontal lobe is located at the front of the brain and is associated with reasoning, motor skills, higher level cognition, and expressive language. At the back of the frontal lobe, near the central sulcus, lies the motor cortex. This area of the brain receives information from various lobes of the brain and utilizes this information to carry out body movements. Damage to the frontal lobe can lead to changes in sexual habits, socialization, and attention as well as increased risk-taking.
+
+额叶（Frontal Lobe）是脊椎动物的脑的一部分，位于脑的前半部（顶叶前方、颞叶上方），在人类大脑当中，比起其余脑中的“叶”，这是最大的一部分，而有些动物的脑几乎不存在额叶。
+
+这个结构和人类语语言的形成、语言表达（布若卡氏区）、自主意识以及随意肌的控制有关。额叶负责人们的思维、计划功能，还与情感相关；大脑额叶是“执行功能”之所在，“执行功能”是一种比较高级的思维，包括决策、多任务处理和提前计划。
+
+### frontal lobotomy
+
+A neurosurgical procedure wherein the connections to and from the brain’s prefrontal cortex are cut. This procedure was performed to try and neautralize the mentally ill. The man responsible for this technique was named Walter Freeman.
+
+脑叶白质切除术（lobotomy）是一种切除脑前额叶外皮的连接组织的神经外科手术，亦称脑白质切除术、脑叶切断术等。脑白质切除术在1930年~1950年主要被用来医治一些精神疾病，这亦是世界上第一种精神外科手术。治疗客体包括精神分裂症、临床抑郁症及部分忧虑紊乱症，还包括一些被人们认为有精神疾病征象（如喜怒无常、年少轻狂）的人。病人术后很可能患上精神幼稚病。
+
+现在对前脑叶白质切除术所做出的评价一般都是负面的，这主要是因为在当时的简陋条件下，对大脑所实施的手术精度很低，对术后效果的评价也没有客观、可信的标准。而且手术对象在经过手术后往往丧失精神冲动，表现出类似痴呆、弱智的迹象。一些文学和影视作品，如《飞越疯人院》，《1984》将前脑叶白质切除术描述成使人丧失反抗意识的手术。1950年左右所做出的调查表明，大约有三分之一的病例在手术后没有多少变化，另外三分之一比术前还有所恶化。而这三分之一则变得更为冲动乃至于丧失社会性且更为残暴，丧失人性。随着后来药物治疗的发展和其他更精确脑外科手术的发展，前脑叶白质切除术在20世纪70年代以后逐渐被抛弃，或者被改进以在更精确的条件下用来治疗癫痫等疾病。
 
