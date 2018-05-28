@@ -260,6 +260,14 @@ It is the band of neurons that are embedded in your cerebrum or cerebral cortex 
 
 Motor strips, which are located in the frontal lobeis what control all muscle movement including the ones that are necessary for speech. 
 
+### somatosensory map
+
+<img src="http://mybrainnotes.com/brain-homunculus.jpg">
+
+Sensory maps are areas of the brain which respond to sensory stimulation, and are spatially organized according to some feature of the sensory stimulation. In some cases the sensory map is simply a topographic representation of a sensory surface such as the skin, cochlea, or retina. In other cases it represents other stimulus properties resulting from neuronal computation and is generally ordered in a manner that reflects the periphery. An example is the somatosensory map which is a projection of the skin's surface in the brain that arranges the processing of tactile sensation. This type of somatotopic map is the most common, possibly because it allows for physically neighboring areas of the brain to react to physically similar stimuli in the periphery or because it allows for greater motor control.
+
+The somatosensory cortex is adjacent to the primary motor cortex which is similarly mapped. Sensory maps may play an important role in facilitating motor responses. Other examples of sensory map organization may be that adjacent brain regions are related through proximity of the receptors that they process as in the map of the cochlea in the brain, or that similar features are processed as in the map of the feature detectors or the retinotopic map, or that time codes are used in organization as in the maps of an owl's sense of direction via interaural time difference between ears. These examples exist in contrast to non-mapped or randomly distributed patterns of processing. An example of a non-mapped sensory processing system is the olfactory system where unrelated odorants are processed side-by-side in the olfactory bulb. In addition to non-mapped and mapped processing, stimuli may be processed under multiple maps as in the human visual system.
+
 ### Cortical homunculus
 
 <img src="https://i.pinimg.com/originals/b3/d3/07/b3d3077e179d953ef6eb813ce31236f7.jpg">
