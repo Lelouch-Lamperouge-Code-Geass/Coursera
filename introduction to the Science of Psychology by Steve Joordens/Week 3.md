@@ -290,3 +290,15 @@ A neurosurgical procedure wherein the connections to and from the brain’s pref
 
 现在对前脑叶白质切除术所做出的评价一般都是负面的，这主要是因为在当时的简陋条件下，对大脑所实施的手术精度很低，对术后效果的评价也没有客观、可信的标准。而且手术对象在经过手术后往往丧失精神冲动，表现出类似痴呆、弱智的迹象。一些文学和影视作品，如《飞越疯人院》，《1984》将前脑叶白质切除术描述成使人丧失反抗意识的手术。1950年左右所做出的调查表明，大约有三分之一的病例在手术后没有多少变化，另外三分之一比术前还有所恶化。而这三分之一则变得更为冲动乃至于丧失社会性且更为残暴，丧失人性。随着后来药物治疗的发展和其他更精确脑外科手术的发展，前脑叶白质切除术在20世纪70年代以后逐渐被抛弃，或者被改进以在更精确的条件下用来治疗癫痫等疾病。
 
+### Split-brain
+
+As you may know, the human brain has two halves; a right half and a left half. Information is able to travel from one half to the other br crossing a bridge known as the corpus callosum. However, split brain refers to the situation in which the connections between the halves of the brain are severed...basically the bridge is cut. Although there are some abilities that are lost by severing the connection between the halves, people are able to function quite well.
+
+### Corpus callosum
+
+<img src="https://study.com/cimages/multimages/16/callosumhemispheres600.png">
+
+The Corpus Callosum is the part of the mind that allows communication between the two hemispheres of the brain. It is responsible for transmitting neural messages between both the right and left hemispheres. 
+
+胼胝体（拉丁语：Corpus callosum）是哺乳动物大脑的一个重要白质带。它连接大脑的左右两个半球。胼胝体是大脑最大的白质带，其中约包含2-2.5亿个神经纤维。大脑两半球间的通信多数是通过胼胝体进行的。较为低级的脊椎动物，例如单孔目和有袋类的动物没有胼胝体。
+
