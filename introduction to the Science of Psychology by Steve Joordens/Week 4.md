@@ -73,3 +73,22 @@ Gestalt Psychology 在研究人知觉的“思维能力”的过程中，发现�
 http://graphicdesign.spokanefalls.edu/tutorials/process/gestaltprinciples/gestaltprinc.htm  
 http://www.woshipm.com/pd/251734.html    
 
+### Visual Agnosia
+
+Visual agnosia is the inability to recognize visually presented objects despite the preservation of elementary sensory functions. Visual agnosia is diagnosed by assessing the patient's ability to name, describe uses for, and pantomime the use of visually presented objects. Extensive occipital damage due to anoxic insult or severe infarction is the usual cause of this rare syndrome.144–146
+
+Theoretically, there are two forms of visual agnosia: the “apperceptive” form that is caused by impaired visual processing that results in the poor perception of the object, and the “associative” form that is caused by disorders that affect the associative cortex and results in the correctly formed visual percepts being poorly matched with previously processed sensory data and recognition.147,148 Most patients with visual agnosia present with both aspects, although one type may predominate.
+
+There appear to be multiple pathophysiological mechanisms that result in apperceptive visual agnosia. These may be related to the misperception of shapes due to defects in representing the elementary properties of curvature, surface and volume149 or failure to integrate multiple elements into a perceptual whole. Patients with severe apperceptive agnosia usually have extensive and diffuse occipital lesions and tend to have residual field defects.
+
+Closely related to the associative form of visual agnosia is optic aphasia, in which patients are unable to name visually presented objects but otherwise show relatively intact knowledge about objects and are, thereby, able to categorize and demonstrate their use through pantomime.152,153 Visual agnosia and optic aphasia may simply represent a continuum with varying deficits in knowledge retrieval.154,155 Patients typically present with large left PCA territory infarction with right homonymous hemianopia.It has been suggested that there is a functional disconnection between visual perception and language systems.
+
+视觉失认症是指患者不再能够依靠视觉来辨识或辨识不清以前曾是毫无困难就可以认出的的事情。这种视觉性的失认不是由于视力方面的问题导致的，也与患者的智能无关。
+
+弗洛伊德是早期进行失认症研究的一批学者之一。失认症的名称Agnosia就是他于1891年首先倡导采用的。不过他除了开创了这个词汇以外，在知觉的神经心理研究方面，却没有多大贡献。 
+对失认症的最为经典的早期探索是Lissauer(1890)进行的临床研究。Lissauer的主要贡献是对物体失认的症状进行了基本的划分。区分出脑损伤所导致的两种不同形式的认知障碍：一种认知障碍主要影响的是患者有意识地接受和分辨物体特性，从而导致对物体的认知困难；另一种认知障碍主要影响到患者怎样去评定主体所看到的内容，从而导致对物体的认知困难。Lissauer对失认症的这种两分法，以及关于失认的概念为日后人们对这种神经心理症状的深入研究起了一个良好的开端。 
+
+对失认症的研究直到目前为止仍然是一个相对比较薄弱的方面。这有几方面的原因。一个最主要的原因是失认症在临床上并不多见。如果同言语障碍、记忆障碍等症状比较起来，其发病率的差别是相当大的。特别是比较典型或表现充分的失认症则更是不易见到。另一个原因与认知科学的研究传统有一定关系，结合当代认知理论对失认症进行的比较深入的研究也只是近年来才得以展开。
+
+
+
