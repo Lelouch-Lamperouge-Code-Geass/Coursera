@@ -90,5 +90,56 @@ Closely related to the associative form of visual agnosia is optic aphasia, in w
 
 对失认症的研究直到目前为止仍然是一个相对比较薄弱的方面。这有几方面的原因。一个最主要的原因是失认症在临床上并不多见。如果同言语障碍、记忆障碍等症状比较起来，其发病率的差别是相当大的。特别是比较典型或表现充分的失认症则更是不易见到。另一个原因与认知科学的研究传统有一定关系，结合当代认知理论对失认症进行的比较深入的研究也只是近年来才得以展开。
 
+### prosopagnosia
 
+While most of us are guilty of forgetting the name of someone we've met before, we're generally quite good at remembering faces, and certainly recognize close friends and family at a glance. For those with the neurological disorder known as prosopagnosia (also called face blindness), those loved ones can appear to be strangers. People with prosopagnosia cannot recognize familiar faces and often cannot distinguish among the faces of strangers. They may also have trouble recognizing familiar places or objects or seeing the difference between someone's face and another object. Some people with prosopagnosia even have difficulty recognizing themselves. Researchers estimate that one in 50 people may have some form of prosopagnosia.
 
+Acquired prosopagnosia occurs in older men and women after a brain injury, stroke, or the onset of degenerative disease. Developmental prosopagnosia appears during childhood and may have genetic roots or be due to a prenatal or childhood brain abnormality or damage. Children on the autism spectrum often display some degree of prosopagnosia, which may account for their social limitations.
+
+Since there is no cure for prosopagnosia, treatment focuses on the development of compensatory skills, such as looking for cues like unique physical characteristics or voice that will help them identify their own friends, family members, and acquaintances.  People with prosopagnosia may draw inspiration from successful people who have coped with the condition, such as Oliver Sacks and Chuck Close.
+
+面部辨识能力缺乏症，又名面孔失忆症、面容失忆症，患者对别人的脸型失去辨认能力.
+
+症状表现:  
+
+1. 患者看不清别人的脸；
+2. 患者对别人的脸型失去辨认能力
+
+神经学专家对大脑如何感知面容的过程了解得还不全面，只知道从事这一工作的能力从一出生便具备，涉及大脑不同区域的广泛分布，或许反应面部对生存感知的重要性。同陌生人比起来，婴儿更喜欢看母亲的容貌，并能迅速学会如何区分男人和女人的脸。但在脸盲症患者中，那一神经路线的某些通道似乎被切断。大脑扫描显示他们的颞叶和枕骨脑叶都有损伤，而大脑的这两个区域就主要负责面部识别。
+
+### capgras delusion
+
+A person with Capgras syndrome irrationally believes that someone they know has been replaced by an imposter. In some cases, they may also believe pets or even inanimate objects are imposters.
+
+Capgras syndrome is named after Joseph Capgras, a French psychiatrist who, with a colleague, first described the disorder in 1923. It is one of several conditions classified as delusional misidentification syndromes (DMSs).
+
+Although this psychological condition can affect anyone, it is more common in women than men.
+
+Capgras syndrome can be very disturbing for the person affected, as well as for their loved ones. So, it is important for people witnessing the syndrome to seek advice from a doctor.
+
+1923年由法国的精神科医生卡普格拉（J．Capgras）首先描述，也称卡普格拉综合症（Capgras delusion），该症状通常由于视觉信息从梭状回到杏仁核到边缘系统的线路受损而产生。核心表现是患者认为一个现实的人（多数是亲属）被另外一个人所冒充或取代，这两个人同时都存在，而且长相和其他特征都是一样的，值得注意到是，通过电话联系患者还是可以辨认出来到（因为听觉信号到边缘系统的线路没有受损）。该症状在临床上比较罕见，一般被解释为精神分裂症患者。
+该症状出现后患者具有高度的不安全感，较高比例的患者具有暴力倾向。
+
+### Binocular Disparity
+
+Binocular disparity occurs because of the difference between the retinal images of our eyes and how the differing signals influence the visual image perceived by our brain. Because we have two eyes, two slightly different signals are sent to the brain due to the slight discrepancies in the retinal image. You can see how binocular disparity occurs. 
+
+The closer an object is to your eyes the more evident the disparity becomes. Hold a pencil arms length away from your face. The pencil looks normal and is sharp. Then slowly move the pencil closer to your face. As you get closer the pencil will become more blurry. This happens because of binocular disparity. 
+
+The visual cortex in the brain uses a process called stereopsis to correct binocular disparity. The two differing signals are combined by the visual cortex and a perception of depth occurs. Depth perception begins to occur around four months of age by which time the visual cortex has developed.
+
+双眼视差有时候也被称为立体视差（stereopsis），是一种深度线索。物体离观察者越近，两只眼睛所看到物体的差别也越大，这就形成了双眼视差。大脑可以利用对这种视差的测量，估计出物体到眼睛的距离。
+
+双眼视差对知觉深度和距离具有重要意义。当物体的视像落在两眼网膜的对应部位时，人们看到单一的物体；当视像落在网膜的非对应部位而差别不大时，人们将看到深度和距离；两眼视差进一步加大，人们将看到双像。双眼深度线索随距离增加而变化，当距离超过1300米时，两眼视轴平行，双眼视差为零，对判断距离便不起作用了。
+
+### Alice in Wonderland syndrome
+
+爱丽丝梦游仙境症（Alice in Wonderland Syndrome，简称AIWS），又称“视微症”，属于一种罕见眼疾，是神经学上的一种高度迷惑性现象，以致影响到人类的视觉感知。其症候表现为：长时间观察一种事物，会突然像爱丽丝漫游仙境一样，周遭的事情忽然变大，或者忽然变小。病人有时候眼前会出现马赛克的视觉效果，有的患者则会出现时空扭曲感。
+
+爱丽丝梦游仙境症状（AIWS），或者叫“视微症”，是神经学上的一种高度迷惑性现象，以致影响到人类的视觉感知。患者看其它物体时往往呈现不是真实的大小和深度。医生认为这种病症可能是由于大脑枕骨脑叶病变导致的，枕骨脑叶可控制视觉信息。此病可能发生在任何年龄，但更多地发生于儿童时期。患者有时会出现偏头痛，或者经常失眠等症状。是全球十大罕见怪病症之一。
+
+Alice in Wonderland syndrome is a disorienting neuropsychological condition that affects perception. People experience size distortion such as micropsia, macropsia, pelopsia, or teleopsia. Size distortion may occur of other sensory modalities.
+
+It is often associated with migraines, and the use of psychoactive drugs. It can also be the initial symptom of the Epstein–Barr virus (see mononucleosis). AiWS can be caused by abnormal amounts of electrical activity causing abnormal blood flow in the parts of the brain that process visual perception and texture.
+
+Anecdotal reports suggest that the symptoms are common in childhood, with many people growing out of them in their teens. It appears that AiWS is also a common experience at sleep onset, and has been known to commonly arise due to a lack of sleep.
