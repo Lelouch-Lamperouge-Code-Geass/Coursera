@@ -134,12 +134,21 @@ The visual cortex in the brain uses a process called stereopsis to correct binoc
 
 ### Alice in Wonderland syndrome
 
-爱丽丝梦游仙境症（Alice in Wonderland Syndrome，简称AIWS），又称“视微症”，属于一种罕见眼疾，是神经学上的一种高度迷惑性现象，以致影响到人类的视觉感知。其症候表现为：长时间观察一种事物，会突然像爱丽丝漫游仙境一样，周遭的事情忽然变大，或者忽然变小。病人有时候眼前会出现马赛克的视觉效果，有的患者则会出现时空扭曲感。
-
-爱丽丝梦游仙境症状（AIWS），或者叫“视微症”，是神经学上的一种高度迷惑性现象，以致影响到人类的视觉感知。患者看其它物体时往往呈现不是真实的大小和深度。医生认为这种病症可能是由于大脑枕骨脑叶病变导致的，枕骨脑叶可控制视觉信息。此病可能发生在任何年龄，但更多地发生于儿童时期。患者有时会出现偏头痛，或者经常失眠等症状。是全球十大罕见怪病症之一。
-
 Alice in Wonderland syndrome is a disorienting neuropsychological condition that affects perception. People experience size distortion such as micropsia, macropsia, pelopsia, or teleopsia. Size distortion may occur of other sensory modalities.
 
 It is often associated with migraines, and the use of psychoactive drugs. It can also be the initial symptom of the Epstein–Barr virus (see mononucleosis). AiWS can be caused by abnormal amounts of electrical activity causing abnormal blood flow in the parts of the brain that process visual perception and texture.
 
 Anecdotal reports suggest that the symptoms are common in childhood, with many people growing out of them in their teens. It appears that AiWS is also a common experience at sleep onset, and has been known to commonly arise due to a lack of sleep.
+
+
+爱丽丝梦游仙境症（Alice in Wonderland Syndrome，简称AIWS），又称“视微症”，属于一种罕见眼疾，是神经学上的一种高度迷惑性现象，以致影响到人类的视觉感知。其症候表现为：长时间观察一种事物，会突然像爱丽丝漫游仙境一样，周遭的事情忽然变大，或者忽然变小。病人有时候眼前会出现马赛克的视觉效果，有的患者则会出现时空扭曲感。
+
+爱丽丝梦游仙境症状（AIWS），或者叫“视微症”，是神经学上的一种高度迷惑性现象，以致影响到人类的视觉感知。患者看其它物体时往往呈现不是真实的大小和深度。医生认为这种病症可能是由于大脑枕骨脑叶病变导致的，枕骨脑叶可控制视觉信息。此病可能发生在任何年龄，但更多地发生于儿童时期。患者有时会出现偏头痛，或者经常失眠等症状。是全球十大罕见怪病症之一。
+
+### Cocktail party effect
+
+The cocktail party effect is the phenomenon of the brain's ability to focus one's auditory attention (an effect of selective attention in the brain) on a particular stimulus while filtering out a range of other stimuli, as when a partygoer can focus on a single conversation in a noisy room. Listeners have the ability to both segregate different stimuli into different streams, and subsequently decide which streams are most pertinent to them. Thus, it has been proposed that one's sensory memory subconsciously parses all stimuli, identifying discrete pieces of information and classifying them by salience.[5] This effect is what allows most people to "tune into" a single voice and "tune out" all others. It may also describe a similar phenomenon that occurs when one may immediately detect words of importance originating from unattended stimuli, for instance hearing one's name among a wide range of auditory input.
+
+鸡尾酒会效应（英语：cocktail party effect）是指人的一种听力选择能力，在这种情况下，注意力集中在某一个人的谈话之中而忽略背景中其他的对话或噪音。该效应揭示了人类听觉系统中令人惊奇的能力，即我们可以在噪声中谈话。
+鸡尾酒会现象是图形-背景现象的听觉版本。这里的“图形”是我们所注意或引起我们注意的声音，“背景”是其他的声音。
+
