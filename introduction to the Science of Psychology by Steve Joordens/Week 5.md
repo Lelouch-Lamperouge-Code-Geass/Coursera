@@ -95,6 +95,57 @@ In psychology and ethology, imprinting is any kind of phase-sensitive learning (
 
 印刻现象首先由英国自然主义者斯波尔丁在刚孵出的鸡雏身上发现，并且还观察到这种反应不管所追逐的能活动的生物是否自己的同类。后来，奥地利动物学家劳伦兹把动物的这种行为称作印刻，并曾用鸭子做实验，验证了这一事实。劳伦兹发现在刚孵化出的小鸭面前，像鸭子那样摆动自己的双臂，摇摇摆摆地走路，小鸭子像爱母鸭那样地爱他，在幼小时跟在他身后走，到了性成熟期，则向人类而不是自己的同类求爱。印刻现象和一般的反应不同，它只在一定的时期内发生，小鸡“母亲印刻”的发生是在出生后的10-16小时，小狗则是在出生后的3-7周。印刻发生的时期称作关键期。在关键期内形成的印刻行为作为动物的习性保存下来，并且是不可逆的，即一旦形成就不能修正和还原。倘若幼小动物的印刻过程遭到阻碍和中断，母亲与幼小动物就不会相互认识。
 
+### Operant conditioning
+
+Operant conditioning (also called "instrumental conditioning") is a learning process through which the strength of a behavior is modified by reinforcement or punishment. It is also a procedure that is used to bring about such learning.
+
+Although operant and classical conditioning both involve behaviors controlled by environmental stimuli, they differ in nature. In operant conditioning, stimuli present when a behavior is rewarded or punished come to control that behavior. For example, a child may learn to open a box to get the candy inside, or learn to avoid touching a hot stove; in operant terms, the box and the stove are "discriminative stimuli". However, in classical conditioning, stimuli that signal significant events produce reflexive behavior. For example, sight of candy may cause a child to salivate, or the sound of a door slam may signal an angry parent, causing a child to tremble. Salivation and trembling are not operants; they are not reinforced by their consequences.
+
+Thus there are a total of five basic consequences :
+
+1. Positive reinforcement (reinforcement): This occurs when a behavior (response) is rewarding or the behavior is followed by another stimulus that is rewarding, increasing the frequency of that behavior.[15] For example, if a rat in a Skinner box gets food when it presses a lever, its rate of pressing will go up. This procedure is usually called simply reinforcement.  
+2. Negative reinforcement (escape): This occurs when a behavior (response) is followed by the removal of an aversive stimulus, thereby increasing that behavior's frequency. In the Skinner box experiment, the aversive stimulus might be a loud noise continuously sounding inside the box; negative reinforcement would happen when the rat presses a lever, turning off the noise.  
+3. Positive punishment (also referred to as "punishment by contingent stimulation"): This occurs when a behavior (response) is followed by an aversive stimulus, such as pain from a spanking, which results in a decrease in that behavior. Positive punishment is a rather confusing term, and usually the procedure is simply called "punishment."  
+4. Negative punishment (penalty) (also called "punishment by contingent withdrawal"): Occurs when a behavior (response) is followed by the removal of a stimulus, such as taking away a child's toy following an undesired behavior, resulting in a decrease in that behavior.
+5. Extinction : This occurs when a behavior (response) that had previously been reinforced is no longer effective. For example, a rat is first given food many times for lever presses. Then, in "extinction", no food is given. Typically the rat continues to press more and more slowly and eventually stops, at which time lever pressing is said to be "extinguished."  
+
+操控反射（operant conditioning）是一种由刺激引起的行为改变的過程與方法，又稱為工具制約（instrumental conditioning）或工具学习。操控反射与经典条件反射（classic conditioning）有所不同，操控反射的作用對象，是個體原來就已經自愿進行的行为；而经典条件反射則是使個體產生非自願反應的作用。
+
+操控反射第一位研究者是愛德華·桑代克（1874-1949），桑代克观察他的猫试图逃出他所設計的迷箱的行为[1]。第一次猫花了很长时间才從箱子裡逃出。有了经验之后，无效的行為出現頻率逐渐减少，而成功的行為出現頻率則逐渐增加，此外猫成功逃出迷箱所用的时间也越来越少。在桑代克的效果律中解释，成功的行為产生滿足的结果，而這種結果經由经验被“印入”（stamped in），使得成功行為的出现增加。失敗的行為則产生厭惡结果，因而被剔除（stamped out），造成失敗行為的出现频率減少。簡單的說，某些結果能夠增强行为，而某些结果能夠减弱行为。斯金纳（1904-1990）以桑代克的理論作為基础，建立了關於增強、惩罚與消弱的详细的操作制約理论。
+
+通过卓有成效的研究，桑代克总结了“试误说”的三大定律：
+
+效果律：试误学习的过程中，如果其他条件相等，在学习情境作特定的反应之后能够获得满意的结果时，则其联结就会增强；而得到烦恼的结果时，其联结就会削弱。
+练习律：在试误学习的过程中，任何刺激与反应的联结，一旦练习运用，其联结的力量就逐渐增大；如果不运用，则联结的力量会逐渐减小。
+准备律：在试误学习的过程中，当刺激与反应之间的联结，事前有一种准备状态时，实现则感到满意，否则感到烦恼；反之，当此联结不准备实现时，实现则感到烦恼。应该说明的是，虽然“尝试一错误”学习模式是从动物实验中抽象概括出来的，但它对于人类学习来说，仍有很大的借鉴意义。
+
+#### 增強、懲罰與消弱
+
+增强（reinforcement）和惩罚（punishment）兩種刺激是操作制約的核心思想，另外消弱（extinction）指的是没有產生作用的刺激。增強、懲罰或是消弱不但能夠使用在實驗室中，也能夠用來形容包括人類以外其他動物的自然環境。
+
+* 增强 - 指使反應行為出現頻率增加。
+* 惩罚 - 指目的是抑制行為出現頻率的刺激。
+* 消弱 - 指生物個體對某刺激沒有產生厭惡也沒有喜愛，但會使行為出現頻率減少。
+
+正向（positive）與負向（negative）在操作制約理論中則是代表增加與減少之意。正向指在生物個體境所處環境增加刺激並產生反應；负向指在生物個體所處環境減少刺激並產生反應。並由此導出4種操作制約分類如下：
+
+* 正向增強 - 在進行某個行為之後，增加對象喜愛的（通常是愉快的）刺激，並使該行为的出現頻率增加。在斯金纳的实验中，以食物或糖水做為刺激，經由老鼠按下槓桿的行為來供給食物和糖水，造成老鼠按下槓桿的頻率增加。  
+* 负向增強 - 在進行某個行為之後，減少對象厭惡的（通常是不愉快的）刺激，並使該行為的出現頻率增加。在斯金纳的实验中，以噪音作為刺激，經由老鼠按下槓桿的行為來停止噪音，造成老鼠按下槓桿的頻率增加。  
+* 正向惩罚 - 在進行某個行為之後，增加對象厭惡的刺激，並使該行為的出現頻率減少。例如在某個行為之後，以电击或噪音作為刺激，造成該行为出現頻率減少。又稱為第一型懲罰。  
+* 负向惩罚- 在進行某個行為之後，減少對象喜愛的刺激，並使該行為的出現頻率減少。例如在小孩進行某個行為之後，以拿走小孩的玩具作為刺激，造成小孩進行该行为的頻率減少。又稱為第二型懲罰。  
+* 迴避學習(avoidance learning) - 一種學習模式，指某種行為能夠造成一些令人厭惡的刺激停止。例如在大太陽下遮住眼睛，可以避免接受刺眼的陽光。
+* 消弱(Extinction) - 原來的增強刺激不再產生效果。在斯金納的實驗中，原本老鼠能夠透過按下槓桿來獲得食物，之後當按下槓桿不再供給食物的時候，老鼠將會逐漸減少按下槓桿的行為。  
+* 非附帶增強(non-contingent reinforcement) - 是一種確認增強物效果的實驗技巧，在NCR的過程中，不論個案的行為如何，將增強物照一個固定的時間比例提供，若個案的回應頻率越高，則表示個案行為發生的前因與增強物呈現的相關性越低。（扩充内容：因為案例回應的替代行為與欲消除行為（undesired behavior、不希望對象進行的行為）競爭，當按照固定時間比例提供刺激，替代行為發生（個案回應）頻率提升，欲消除行為頻率減少。）  
+
+#### According to Operant Conditioning, what is the term for a reinforcement produced by the removal of an undesirable stimulus?
+
+The answer is negative reinforcement. It is “negative” because it involves the removal of a stimulus and it is reinforcement because it is “pleasurable” in the sense that the presence of the stimulus was causing distress -- so it’s removal was desired. For example, removing a thorn from your side would be a case of negative reinforcement. This is because the thorn would be causing pain and it’s removal would stop the pain, therefore increasing the likelihood that you will also remove any future thorns from your side.
+
+#### What principle of conditioning would you be employing if you took away a child’s toy to stop his or her undesirable behaviour?
+
+Response cost refers to the application of punishment by the removal of a desired stimulus. In this case, the child’s toy is a desirable stimulus. Removing the when the child engages in a behaviour also removes the reward associated with the possession or use of the toy and decreases the likelihood that the child will repeat the undesirable behaviour.
+
+
 
 
 
