@@ -86,6 +86,8 @@ Innate behaviors occur in all animals. However, they are less common in species 
 
 ### imprinting
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ08vsTt0vHb_X8PW4yKGdM-q11drFKPrOI6DKbz6bUJtPIltN7sw">
+
 In psychology and ethology, imprinting is any kind of phase-sensitive learning (learning occurring at a particular age or a particular life stage) that is rapid and apparently independent of the consequences of behaviour. It was first used to describe situations in which an animal or person learns the characteristics of some stimulus, which is therefore said to be "imprinted" onto the subject. Imprinting is hypothesized to have a critical period.
 
 印刻现象(imprinting)是在对动物行为进行研究时发现的，是指刚获得生命不久的小动物追逐它们最初看到的能活动的生物，并对其产生依恋之情的现象。
