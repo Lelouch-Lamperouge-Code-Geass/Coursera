@@ -67,4 +67,33 @@ The field of applied behavior analysis is considered by many to have derived fro
 
 这就是他最著名的环境影响论。虽然这段话忽视了遗传、主观能动性等重要因素，显得有失偏颇，但不可否认环境的确是个体成长的关键因素之一，环境的确能改变人！
 
+### Tabula Rasa
+
+Tabula rasa  refers to the epistemological idea that individuals are born without built-in mental content and that therefore all knowledge comes from experience or perception. Proponents of tabula rasa generally disagree with the doctrine of innatism which holds that the mind is born already in possession of certain knowledge. Generally, proponents of the tabula rasa theory also favour the "nurture" side of the nature versus nurture debate when it comes to aspects of one's personality, social and emotional behaviour, knowledge and sapience.
+
+“白板说”英文：theory of tabula rasa（“白板”拉丁文是“tabula rasa”，原指一种洁白无瑕的状态）。
+在心理学上是指儿童心灵原始状态的学说。他是在研究认识的起源问题时提出来的。“白板”一词是拉丁文的意译，本意是未经用刀和笔刻写过的白蜡板，因为古希腊罗马人亚里士多德最早用来比喻曾用蜡板做记事牌。后来，尚未接受外界事物影响或刺激的心灵。洛克在批判天赋观念之后，对白板的思想加以发挥，论证了认识起源于经验的基本原则。他认为，最初的心灵像一块没有任何记号和任何观念的白板，一切观念和记号都来自于后天的经验。。一切知识导源于经验是洛克认识论的基本原则，也是他的认识论的基础和出发点。在他看来，天赋观念论者所说的那些天赋的原则和观念，实际上也都是从经验中得来的。洛克的这一学说坚持了唯物主义反映论。不过，由于他不懂得社会实践在认识中的作用，他的反映论仍是一种机械的直观的反映论。
+
+白板说主张认识来源于经验的一种哲学思想。西方哲学家用它来比喻人类心灵的本来状态像白纸一样没有任何印迹。17世纪英国唯物主义哲学家J.洛克继承和发展了亚里士多德的蜡块说，指出：人出生时心灵像白纸或白板一样，只是通过经验的途径，心灵中才有了观念，因此，经验是观念的惟一来源。他抛弃了笛卡尔等人的天赋观念说，而认为人的心灵开始时就像一张白纸，而向它提供精神内容的是经验（即他所谓的观念）。观念分为两种：感觉(sensation)的观念和反思(reflection)的观念。感觉来源于感官感受外部世界，而反思则来自于心灵观察本身。与理性主义者不同的是，洛克强调这两种观念是知识的唯一来源。洛克还将观念划分为简单观念和复杂观念，不过并没有提供合适的区分标准。我们唯一能感知的是简单观念，而我们自己从许多简单观念中能够形成一个复杂观念.
+
+### Innate Behavior
+
+Behaviors that are closely controlled by genes with little or no environmental influence are called innate behaviors. These are behaviors that occur naturally in all members of a species whenever they are exposed to a certain stimulus. Innate behaviors do not have to be learned or practiced. They are also called instinctive behaviors. An instinct is the ability of an animal to perform a behavior the first time it is exposed to the proper stimulus. For example, a dog will drool the first time—and every time—it is exposed to food.
+
+Innate behaviors occur in all animals. However, they are less common in species with higher levels of intelligence. Humans are the most intelligent species, and they have very few innate behaviors. The only innate behaviors in humans are reflexes. A reflex is a response that always occurs when a certain stimulus is present. For example, a human infant will grasp an object, such as a finger, that is placed in its palm. The infant has no control over this reaction because it is innate. Other than reflexes such as this, human behaviors are learned–or at least influenced by experience—rather than being innate.
+
+先天性行为是由动物体内遗传物质所决定的，是本物种的一种遗传特性，不需要后天学习，生来就有的一种行为能力，这种能力在适当条件下，由神经调节或激素调节就能表现出来。如失去幼仔的母狗，它的哺育后代的本能并不消失，会把无母的小猫当作自己的后代给以抚爱、哺乳；失去蛋的企鹅会把鹅卵石当作企鹅蛋来孵化等。这种行为除特种遗传性以外，还和某些生理成熟有关，如垂体分泌催乳素等。
+
+### imprinting
+
+In psychology and ethology, imprinting is any kind of phase-sensitive learning (learning occurring at a particular age or a particular life stage) that is rapid and apparently independent of the consequences of behaviour. It was first used to describe situations in which an animal or person learns the characteristics of some stimulus, which is therefore said to be "imprinted" onto the subject. Imprinting is hypothesized to have a critical period.
+
+印刻现象(imprinting)是在对动物行为进行研究时发现的，是指刚获得生命不久的小动物追逐它们最初看到的能活动的生物，并对其产生依恋之情的现象。
+印刻现象和一般的反应不同，它只在一定的时期内发生，小鸡"母亲印刻"的发生是在出生后的10-16小时，小狗则是在出生后的3-7周。已有研究指出，2岁是口头语言发展的关键期，4岁是形状知觉形成的关键期，4-5岁是学习书面语言的关键期，少年期以前是第二语言(主要是语音方面)学习及音乐听觉训练的关键期。
+
+印刻现象首先由英国自然主义者斯波尔丁在刚孵出的鸡雏身上发现，并且还观察到这种反应不管所追逐的能活动的生物是否自己的同类。后来，奥地利动物学家劳伦兹把动物的这种行为称作印刻，并曾用鸭子做实验，验证了这一事实。劳伦兹发现在刚孵化出的小鸭面前，像鸭子那样摆动自己的双臂，摇摇摆摆地走路，小鸭子像爱母鸭那样地爱他，在幼小时跟在他身后走，到了性成熟期，则向人类而不是自己的同类求爱。印刻现象和一般的反应不同，它只在一定的时期内发生，小鸡“母亲印刻”的发生是在出生后的10-16小时，小狗则是在出生后的3-7周。印刻发生的时期称作关键期。在关键期内形成的印刻行为作为动物的习性保存下来，并且是不可逆的，即一旦形成就不能修正和还原。倘若幼小动物的印刻过程遭到阻碍和中断，母亲与幼小动物就不会相互认识。
+
+
+
+
 
