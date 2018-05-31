@@ -19,6 +19,25 @@ This concept is difficult to accept for those with a secular humanist, materiali
 
 Luigi Alyisio Galvani (September 9, 1737 – December 4, 1798) was an Italian physician and physicist who lived and died in Bologna. In 1791, he discovered that the muscles of dead frogs legs twitched when struck by a spark. This was one of the first forays into the study of bioelectricity, a field that still today studies the electrical patterns and signals of the nervous system. He was cutting the frogs' legs as an experiment trying to prove that a frog's testicles were actually in their legs. He was quickly proved wrong by other biologists at the University of Pavia.
 
+### Paul Broca
+
+Paul Broca, (born June 28, 1824, Sainte-Foy-laGrande, Fr.—died July 9, 1880, Paris), surgeon who was closely associated with the development of modern physical anthropology in France and whose study of brain lesions contributed significantly to understanding the origins of aphasia, the loss or impairment of the ability to form or articulate words. He founded the anthropology laboratory at the École des Hautes Études, Paris (1858), and the Société d’Anthropologie de Paris (1859).
+
+Much of Broca’s research concerned the comparative study of the craniums of the so-called races of mankind. Following precedents set by Samuel Morton in the United States, Broca developed numerous techniques to study the form, structure, and topography of the brain and skull in order to identify and differentiate human races. As a polygenist who considered the major human racial groups as separate species, Broca wrote influential works on “hybridization,” or the mixture of races, arguing that some mixtures of closely related races were beneficial (“eugenic”) while mixtures of greatly differing races were harmful (“dysgenic”).
+
+In 1861 he announced his discovery of the seats of articulate speech in the left frontal region of the brain, since known as the convolution of Broca. Thus, he also furnished the first anatomical proof of the localization of brain function. Founder of the Revue d’anthropologie (1872), he established the École d’Anthropologie, Paris (1876), and became its director. His writings include Mémoires d’anthropologie, 5 vol. (1871–78; “Memoirs of Anthropology”).
+
+皮埃尔·保尔·布罗卡，（Pierre Paul Broca ，1824－1880），法国外科医生、神经病理学家、人类学家，也是最早发现大脑左半球语言中枢的生理学家。1824年6月28日出生于法国南部的纪龙德省圣福瓦拉格兰德，1880年6月9日病逝于法国巴黎。
+布罗卡于1849年获巴黎大学医学学位，进入巴黎近郊一所医院，并称为当时著名的外科医生。后专攻脑外科。他第一个做环钻（开颅）以治疗脑脓肿。1861年他通过尸检证明大脑某一点（左前叶第三回）受损即丧失语言能力，这是第一次明确证明某一特定能力与大脑某一特定控制点之间有联系。其后二十年间，大脑大部分的图象都已绘制出来，并逐步找出其与身体各部的关系。以前加耳的卓见曾被引向颅相学的歧途，至此纳入正轨。
+
+如今以布罗卡命名的解剖部位、症状群以及公式不少。如脑部的布罗卡氏区、布罗卡氏间隙、布罗卡氏底角、布罗卡氏带，以及大阴唇内侧的布罗卡氏囊；症状群有布罗卡氏失语症（即运动性失语症）；测量方法有布罗卡氏颜面角，体质人类学用以计算颏部凹凸深度；以及广为人知的估计成熟男性理想体重的布罗卡氏公式，即身长减 100 厘米为理想体重公斤数。其中最为著名的是布罗卡氏区。
+
+布罗卡氏区又称布罗卡氏中枢、布罗卡氏回，即运动性言语中枢。位于主侧大脑半球额下后部靠近岛盖处，即布鲁德曼第 44、45 区。在布罗卡的发现之前，P.弗卢朗学说坚持大脑的整体功能。布罗卡氏区损害导致运动性失语症，由于有关肌肉共济失调，不能将语言以口语方式表达出来。障碍程度轻重不等。轻者找到个合适的词，重复使用有限的词汇，句子简单，语法单调，表达中有较长的停顿。重者言语功能丧失，能发音，但构成不了词句。
+
+布罗卡氏区的发现相当奇特。1831 年，在巴黎郊外的俾舍特耳疯人病院内，来了一位 21 岁的男性患者。他没有其他病症，只是不能说话。他住在俾舍特耳院内，总共 30 年，到了 1861 年 4 月 12 日，因患病而就诊于外科医生布罗卡。布罗卡细心地在患者身上作了 5 天检查，结果发现他的喉头肌肉和发音器官都不足以阻碍其正常的语言运动，也没有其他瘫痪的症候可以妨碍发音，而且患者还很聪明，他能借助符号来进行交际，其他方面也都显得正常，不至于不能说话。患者死于 4 月 17 日，布罗卡当天就进行了尸体解剖，他发现在大脑左半球的第三个前额沟回有一内伤。因此布罗卡将其脑保存于酒精之内，并向法兰西人类学学会描述了他的发现。他为此写出了轰动科学界的论文——《人是用左脑说话》。对失语症的研究使人类终于认识到了左脑和右脑。
+
+布罗卡氏区的发现是对弗卢朗的大脑功能整体学的第一次真正的挑战。布罗卡氏区的发现，不但使人想念神经系统内的机能各有其较特殊的定位，而且还找到了以脑沟回作为脑的机能分区的明确标志。以后的研究表明，言语有着非常复杂的机制，以致于无法确定一个特定的大脑区域。值得注意的是，弗卢朗和布罗卡的主张虽不相同，但他们都是根据实验和科学观察而获得结果。由于弗卢朗的切除法不能用之于人类，布罗卡所用的临床法就成了切除法的非常有用的补充
+
 #### John Locke
 
 约翰·洛克（John Locke，1632年8月29日－1704年10月28日），英国的哲学家。在知识论上，洛克与乔治·贝克莱、大卫·休谟三人被列为英国经验主义（British Empiricism）的代表人物，但他也在社会契约理论上做出重要贡献。他发展出了一套与托马斯·霍布斯的自然状态不同的理论，主张政府只有在取得被统治者的同意，并且保障人民拥有生命、自由和财产的自然权利时，其统治才有正当性。洛克相信只有在取得被统治者的同意时，社会契约才会成立，如果缺乏了这种同意，那么人民便有推翻政府的权利。
@@ -73,7 +92,21 @@ Superego: The best way to characterize the superego is to think of it as the mor
 
 Clinical psychology is an integration of science, theory and clinical knowledge for the purpose of understanding, preventing, and relieving psychologically-based distress or dysfunction and to promote subjective well-being and personal development. Central to its practice are psychological assessment, clinical formulation, and psychotherapy, although clinical psychologists also engage in research, teaching, consultation, forensic testimony, and program development and administration. In many countries, clinical psychology is a regulated mental health profession.
 
-临床心理学（clinical psychology）是根据心理学原理、知识和技术，解决人们心理问题的应用心理学科。该学科主要借助心理测验对病人的心理和行为进行评估，并通过心理咨询和心理治疗等途径调整和解决个体的心理问题。“临床心理学”这一术语由美国心理学家赖特纳·韦特默在1896年首次提出。到目前为止，临床心理学已经成为美国最大的心理学分支，从事这项工作的人很多，称之为临床心理学家或心理治疗师。临床心理学服务的人群也很广，工作范围遍布学效、医院、机关、政府、军事、商业和法律等。一般而言，临床心理学是医学心理学中的最大临床学科分支，属于应用心理学范畴，但在某些专著中，医学心理学与临床心理学的内容很接近，可将两者视为相似学科
+临床心理学（clinical psychology）是根据心理学原理、知识和技术，解决人们心理问题的应用心理学科。该学科主要借助心理测验对病人的心理和行为进行评估，并通过心理咨询和心理治疗等途径调整和解决个体的心理问题。“临床心理学”这一术语由美国心理学家赖特纳·韦特默在1896年首次提出。到目前为止，临床心理学已经成为美国最大的心理学分支，从事这项工作的人很多，称之为临床心理学家或心理治疗师。临床心理学服务的人群也很广，工作范围遍布学效、医院、机关、政府、军事、商业和法律等。一般而言，临床心理学是医学心理学中的最大临床学科分支，属于应用心理学范畴，但在某些专著中，医学心理学与临床心理学的内容很接近，可将两者视为相似学科.
+
+### William James
+
+William James (1842-1910) was a leading philosopher and psychologist at the turn of the 19th Century. Together with Charles Sanders Peirce, James founded the philosophical school of pragmatism, which holds that the meaning of an idea is to be sought in its practical effects, that the function of thought is to guide action, and that truth is to be tested by the practical consequences of belief. While this philosophy waned for most of the 20th Century, supplanted by linguistic philosophy, it is currently enjoying a renaissance, and many contemporary philosophers are returning to James as the main inspiration for new theories of perception, meaning, and belief. James has many insights concerning happiness, chief among them the idea that happiness consists in orienting yourself to a higher purpose, even if that purpose cannot be rationally proved to exist. Those who suffer from a “crisis of meaning” emerge stronger with more enthusiasm for life than those who just go through the motions and take the easy path.
+
+威廉·詹姆斯（William James，1842年—1910年），美国心理学之父，美国本土第一位哲学家和心理学家，也是教育学家、实用主义的倡导者，美国机能主义心理学派创始人之一，亦是美国最早的实验心理学家之一。1904年当选为美国心理学会主席，1906年当选为国家科学院院士。2006年被美国的权威期刊《大西洋月刊》评为影响美国的100位人物之一（第62位）.
+
+威廉·詹姆斯（William James 1842—1910），美国心理学家和哲学家，美国机能主义心理学和实用主义哲学的先驱，美国心理学会的创始人之一。1875年，建立美国第一个心理学实验室。1904年当选为美国心理学会主席，1906年当选为国家科学院院士。
+
+
+1861 年进入哈佛大学劳伦斯理学院在埃利奥特（Charles W. Eliot）指导下攻读化学，后又改学比较解剖学和生理学三年。在这期间，他的老师怀曼（Jeffies Wyman）的进化论思想对他以后的学术观点产生了直接的影响。又因听著名动物学家阿加西斯（Louis Agassiz, 1807－1873）的课，使他的兴趣从化学转向生物科学。1864 年，詹姆斯转入哈佛医学院学医，1865 年还未毕业便随同阿加西斯去巴西进行自然考察。1867 年去德国留学，在赫尔姆霍茨、冯特、微尔和的指导下学习医学、生理学和心理学。1869 年获哈佛大学医学博士学位。 1872 年开始在哈佛大学讲授解剖学和生理学，由于研究神经生理以及与心理学有关的其它生理学问题，他逐渐转向心理学的研究。1875 年他在美国第一个开设新心理学课程“生理学与心理学的关系”，并设立了一个非正式的心理学实验室。1876 年任哈佛大学生理学副教授。1880 年转任哲学副教授。1885 年升任哲学教授。1889 年转任心理学教授。次年出版两卷本着作《心理学原理》，几乎概括整个十九世纪的心理学，被翻译为法文、德文、意大利文以及俄文。该书既是当时实验心理学研究成果的基本总结，又是詹姆斯机能主义（或实用主义）心理学思想的集中体现。1892 年他把《心理学原理》改写为《心理学简编》，在美国被作为大学标准课本。
+
+他是美国心灵学研究会（1885 年成立）的主要创立者，终其一生都在探讨超个人的心理现象与超心理学，认为人的精神生活有不能以生物学概念加以解释的地方，可透过某些现象来领会某种“超越性价值”；并强调人有巨大的潜能尚待开发，人的意识只有很少一部分为人所利用。他曾参与类似禅坐的静坐活动，表示静坐是一种唤起深度意志力的方法，可以增加个人的活力与生命力，也做灵媒的实证研究。此外，詹姆斯横跨哲学、心理学与精神医学界，对超意识的自动书写很感兴趣，曾大量收集案例，并发现青少年最能借此表达内心的纠葛与人格之冲突，他还注意到自动书写有时能解开罪犯的犯罪症结，但并非人人能自动书写，必须透过催眠或其它方法。
+
 
 ### wilhelm wundt
 
@@ -99,5 +132,9 @@ The S-R Approach is the "stimulus-response" approach and is based on the premise
 刺激反应论强调儿童行为的发展是经过后天学习而形成和改变的。并认为儿童学习行为的方式，主要有以下两种途径：一是形成条件反射。由于形成条件反射时，某些行为受到奖励，而其他行为则受到惩罚。因此，儿童就学会了新的行为方式。二是观察和模仿。儿童是通过观察和模仿别人的行为而获得新的行为方式。
 至于儿童如何学习复杂的行为，刺激反应论则认为有必要将示范、教导、奖励和惩罚结合起来。
 刺激反应论采用客观方法研究儿童心理发展，为西方心理学家所称颂。但是，由于刺激反应论者否定意识，否定人的主动性，将一切归诸于条件反射和观察、模仿，则对诸多心理发展的事实，如能力的发展变化、创造性的解决问题等等就难以解释，则又为西方心理学家们所非难
+
+### Just-noticeable difference
+
+In the branch of experimental psychology focused on sense, sensation, and perception, which is called psychophysics, a just-noticeable difference or JND is the amount something must be changed in order for a difference to be noticeable, detectable at least half the time (absolute threshold).
 
 
