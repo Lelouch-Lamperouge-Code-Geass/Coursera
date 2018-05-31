@@ -1,3 +1,13 @@
+### How the Human Brain Gets Its Wrinkles?
+
+The reason our brains have that wrinkly, walnut shape may be that the rapid growth of the brain's outer brain — the gray matter — is constrained by the white matter, a new study shows.
+
+Researchers found that the particular pattern of the ridges and crevices of the brain's convoluted surface, which are called gyri and sulci, depends on two simple geometric parameters: the gray matter's growth rate and its thickness. The development of the brain's wrinkles can be mimicked in a lab using a double-layer gel, according to the study published today (Aug. 18) in the journal Proceedings of the National Academy of Sciences.
+
+The researchers noted that along with these physical constraints, genes also have a role in determining the brain's shape, because they regulate how neurons proliferate and migrate to their destinations.
+
+https://www.livescience.com/47421-human-brain-wrinkles.html  
+
 ### gyrus(gyri)
 
 <img src="http://www.fullfrontalanatomy.com/images/F13/NS/Brain_SC/gyri_sulci2.jpg">
@@ -61,6 +71,14 @@ Grey Matter is defined as the major component of the human brain that has differ
 * Grey matter occupy 40% of the brain while white matter occupies 60%  
 * Gray matter reaches it highest point of development in a person furing their twenties, the white matter  develop throughout your twenties and peaks in middle age.  
 
+### Dendrite
+
+These structures branch out in treelike fashion and serve as the main apparatus for receiving signals from other nerve cells. They function as an "antennae" of the neuron and are covered by thousands of synapses. The dendritic membrane under the synapse (the post-synaptic membrane) has many specialized protein molecules called receptors that detect the neurotransmitters in the synaptic cleft. A nerve cell can have many dendrites which branch many times, their surface is irregular and covered in dendritic spines which are where the synaptic input connections are made. 
+
+树突，是细胞突起的一种。细胞突起是由细胞体延伸出来的细长部分，又可分为树突和轴突。细胞体的伸延部分产生的分枝称为树突,树突是接受从其它神经元传入的信息的入口。
+
+细胞体的伸延部分产生的分枝称为树突,树突是接受从其它神经元传入的信息的入口。树突接受上一个神经的轴突释放的化学物质（递质）使该神经产生电位差形成电流传递信息.每个神经元可以有一或多个树突,可以接受刺激并将兴奋传入细胞体。由于神经递质只存在于突触前膜的突触小泡中，只能由突触的前膜释放，然后作用于突触后膜上，因此神经元之间兴奋的传递是单方向的。同时树突不一定是神经传入的唯一通道。还可以是胞体膜。
+
 ### Neuron
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Neuron.svg/1280px-Neuron.svg.png">
@@ -97,6 +115,16 @@ There are many billions of nerve cells, also called neurons, in the nervous syst
 
 The nervous system has two parts, called the central nervous system and the peripheral nervous system due to their location in the body. The central nervous system (CNS) includes the nerves in the brain and spinal cord. It is safely contained within the skull and vertebral canal of the spine. All of the other nerves in the body are part of the peripheral nervous system (PNS).
 
+中枢神经系统（Central Nervous System）由脑和脊髓的组成，（脑和脊髓是各种反射弧的中枢部分）是人体神经系统的最主体部分。中枢神经系统接受全身各处的传入信息，经它整合加工后成为协调的运动性传出，或者储存在中枢神经系统内成为学习、记忆的神经基础。人类的思维活动也是中枢神经系统的功能。
+
+中枢神经系统（central nervous system=CNS）是神经系统的主要部分，包括位于椎管内的脊髓和位于颅腔内的脑；其位置常在动物体的中轴，由明显的脑神经节、神经索或脑和脊髓以及它们之间的连接成分组成。在中枢神经系统内大量神经细胞聚集在一起，有机地构成网络或回路；其主要功能是传递、储存和加工信息，产生各种心理活动，支配与控制动物的全部行为。
+
+脊椎动物的中枢神经系统：脊椎动物的脑位于颅腔内，脊髓位于椎管内。脊椎动物的中枢神经系统从胚胎时身体背侧的神经管发育而成。神经管的头端演变成脑，尾端成为脊髓。神经管腔在脑内的部分发展演变成为脑室，在脊髓部分演变成为中央管。脑在开始时是3个脑：前脑泡、中脑和菱脑泡，以后又衍化成为端脑、间脑、中脑、小脑、脑桥和延髓。
+
+脊椎动物的中枢神经系统内许多神经纤维是有髓鞘的，它们聚集在一起时，肉眼观呈白色，称白质。相反，神经细胞体集中的部位，肉眼观呈灰色，由大量神经细胞体和树突上大量突触组成，称灰质。中枢神经系统内由功能相同的神经细胞体集聚组成的，具有明确范围的灰质团块叫做神经核。在脊髓中进行的神经活动，主要是按节段进行的反射性活动；但脊椎动物的许多活动都带有整体性，这有赖于脑与脊髓之间联系来完成。在中枢神经系统内出现了许多纵向走行的神经纤维束。在脑和脊髓的左、右两侧之间也有许多连合纤维，其中最粗大的是大脑两半球之间的胼胝体。
+
+
+
 ### peripheral nervous system
 
 <img src="https://www.nf2is.org/nf_img/cnspns.png">
@@ -111,6 +139,10 @@ The peripheral nervous system itself is divided into two parts:
 * The autonomic nervous system
 
 Each of these components plays a critical role in how the peripheral nervous system operates.  
+
+外周神经系统（peripheral nervous system），也称周围神经系统，神经系统的一部分。包括脑神经、脊神经和自主神经。脑神经共 12 对，由脑干发出，将运动信息传至头、面、颈部，或将这些部位的感觉信息经脑干传至大脑皮层。脊神经 31 对，是感觉和运动的混合神经纤维。其中感觉神经纤维进入脊髓背根，感觉信息由这里传向脊髓与脑；运动神经纤维从脊髓腹根离开，支配躯体肌肉活动。自主神经是离开中枢神经系统的运动神经元，通过脊神经或脑神经支配脏腑器官和腺体活动，包括交感神经和副交感神经。
+
+外周神经系统，是神经系统的外周部分，它一端与中枢神经系统的脑或脊髓相连，另一端通过各种末梢装置与机体其他器官、系统相联系。它同脑相连的部分叫脑神经，共12对；它与脊髓相连的部分叫脊神经，共31对。外周神经系统又可根据其功能的不同，分为传入神经和传出神经两种：传入神经（也叫感觉神经）为将外周感受器上发生的神经冲动传到中枢的神经纤维；传出神经（也叫运动神经）为将中枢发出的神经冲动传至外周效应器的神经纤维。传出神经又可根据其支配对象而进一步分为支配骨骼肌的躯体运动神经和支配内脏器官的植物性神经。植物性神经系统又分为交感神经和副交感神经两部分.
 
 ### The Somatic Nervous System
 
