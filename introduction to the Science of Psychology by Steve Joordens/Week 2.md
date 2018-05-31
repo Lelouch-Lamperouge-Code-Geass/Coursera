@@ -15,6 +15,10 @@ This concept is difficult to accept for those with a secular humanist, materiali
 
 二元论是本体论的一支，它认为世界的本原是意识和物质两个实体，试图调和唯物主义和唯心主义的根源对立哲学观点。二元论主张世界有精神和物质两个独立本原的哲学学说，它和一元论相对立。二元论实际上坚持意识脱离物质独立存在，同时又承认物质的客观存在，因此有区别于唯物主义和唯心主义。
 
+### Luigi Galvani
+
+Luigi Alyisio Galvani (September 9, 1737 – December 4, 1798) was an Italian physician and physicist who lived and died in Bologna. In 1791, he discovered that the muscles of dead frogs legs twitched when struck by a spark. This was one of the first forays into the study of bioelectricity, a field that still today studies the electrical patterns and signals of the nervous system. He was cutting the frogs' legs as an experiment trying to prove that a frog's testicles were actually in their legs. He was quickly proved wrong by other biologists at the University of Pavia.
+
 #### John Locke
 
 约翰·洛克（John Locke，1632年8月29日－1704年10月28日），英国的哲学家。在知识论上，洛克与乔治·贝克莱、大卫·休谟三人被列为英国经验主义（British Empiricism）的代表人物，但他也在社会契约理论上做出重要贡献。他发展出了一套与托马斯·霍布斯的自然状态不同的理论，主张政府只有在取得被统治者的同意，并且保障人民拥有生命、自由和财产的自然权利时，其统治才有正当性。洛克相信只有在取得被统治者的同意时，社会契约才会成立，如果缺乏了这种同意，那么人民便有推翻政府的权利。
