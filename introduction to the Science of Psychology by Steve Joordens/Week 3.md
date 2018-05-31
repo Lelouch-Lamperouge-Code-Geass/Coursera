@@ -8,11 +8,27 @@ Brain weighs about three pounds which is about 2% of our total body weight.  Now
 
 White matter is usually found in the deeper tissues of the brain and contains those nerve fibers that have extensions of the nerve cell. These nerve cells have a covering around them to protect the axons, and the reason behind white colour is due to the myelin sheath that not only acts as a coating but also gives the uniqueness to such matter. It increases the speed of transmission and helps the brains move stronger whenever a minor or major injury takes place. It also comes with some basic damage precautions; mostly it happens in people at a young age and gets known as the white matter disorders. Diagnosing of this issue can be helped by MRI scans which tell about the problem and different tissue levels. The most basic caution of something not going well is that the myelin sheath is not grown properly so it does help to protect the parts of brain.  At earlier stages, people thought that it does not have any especial concern in the brain and that is why no research was done to know the exact issue. Among the two matters present in the spinal cord this one is the fastest and help in connecting others parts, so they stay in touch.
 
+白质是中枢神经系统中主要的三个组成元素之一，与灰质、黑质并列。大脑剖面中的白质组织是由大量的髓磷脂（脂质）组成，在裸视观察下呈现白色。
+白质由被髓鞘包覆着的神经轴突组成，控制着神经元共享的讯号，协调脑区之间的正常运作。人类到了约二十岁时，白质才会在不同脑区逐渐发育完全，而其生长的时机与成熟程度，会影响到学习、自我控制与精神疾病，例如精神分裂、自闭症与病态性说谎，青少年的“年少轻狂”的原因之一也是由于白质未发育完全。
+神经元间轴突传输讯息的速度，有髓鞘绝缘的要比没有髓鞘的快。寡突细胞制造的脂质，会缠绕轴突10~150层。有许多因子可以刺激髓鞘的形成，例如星状细胞常会“监听”轴突传送的讯号，并将化学讯息送达寡突细胞。
+
+白质还可以让人有很好的空间方位感，男人与女人大脑的差异大部分是白质
+2005年，名钢琴家乌兰与同事利用DTI来研究职业钢琴家的脑部，发现职业钢琴家的某些白质区远比非音乐家来得发达，而这些白质区所连结的大脑皮质部位，是那些协调手指运动的重要脑区，以及与创造音乐有关的其他认知脑区。乌兰还发现，每日练琴时间越长的钢琴家，这些白质束的DTI讯号就越强，轴突髓鞘越厚越紧密 [1]  。
+辛辛那提儿童医院的神经科学家许密得霍斯特（Vincent J. Schmithorst）进行的另一项DTI研究似乎也与上述研究相呼应。他比较5~18岁孩童的白质之后，发现高度发展的白质构造与高IQ有直接关系。
+乌兰的研究还有另一项发现：越早学习乐器的人，整个脑子的白质构造越是高度发展。青春期之后才学习乐器的人，只会增加前脑白质的发育程度，因为只剩前脑还在形成髓鞘。这个发现意味着，在某种程度上，神经纤维的髓鞘绝缘，限定了学习新技巧的年龄，这是进行或起玛是轻易进行某种学习的机会之窗或关键期
+
 ### Grey Matter
 
 Grey Matter is defined as the major component of the human brain that has different nucleon bodies, neuropil, and some other parts that help in working on different body parts. Grey matter is more important of two matters present in brain and comes with different functions. It has become the focus of advanced research and that is why few new things are coming up. The type of fat that is present within the myelin sheath but for the grey matter, the actual colour produced from the cell structures of neurons and the brain cells that are called as glial cells. These types of cells provide energy and nutrition to the neurons, that’s how grey colour became part of the system. Most of the times it gets known as the neurons and other different cells present in the central nervous system and is part of brain, brainstem, cerebellum and inside the spinal cord.
 
+灰质是一种神经组织，是中枢神经系统的重要组成部分，由大量的神经元胞体及其树突聚集在一起形成。灰质内形态和功能相似的神经元胞体及其树突集合在一起称为神经核。
+中枢神经系统的另一个重要组成部分为白质。
+
+灰质是中枢神经系统中大量神经元聚集的部位。在典型的灰质，例如大脑皮质中，神经元之间存在大量化学突触或电突触作为通信途径，形成极其复杂的神经回路，实现多种多样的感觉，运动或中间信息处理。所以，灰质是中枢神经系统对信息进行深入处理的部位。灰质包含大部分大脑神经元的细胞体。所涉及的大脑灰质包括区域的肌肉控制,和视听等感官知觉,记忆,情绪,言论、决策、和自我控制 。相比之下，白质由神经元的轴突组成，所以本身不具有处理信息的功能，仅仅在不同灰质之间或者灰质与外周器官之间传递信息。
+
 ### White matter vs Grey matter
+
+脊髓的内部结构由灰质和白质组成，灰质位于中央，从横断面看呈左右对称的蝴蝶形，由各种神经细胞组成，脊髓灰质分为脊髓前角、侧角和后角，前角内有大量的运动神经细胞，侧角内含有交感神经细胞，而后角内含有感觉神经细胞；白质位于灰质的四周，由纵行的传导神经纤维组成，其主要的成分是由从大脑传达到脊髓的运动神经传导纤维组成的皮质脊髓束，以及从脊髓传达到大脑的感觉神经纤维组成的脊髓丘脑束组成
 
 <img src="https://medlineplus.gov/ency/images/ency/fullsize/18117.jpg">
 
