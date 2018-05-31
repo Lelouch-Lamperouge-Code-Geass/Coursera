@@ -227,6 +227,14 @@ The brainstem houses many of the control centres for vital body functions, such 
 
 The cerebellum is one of the most identifiable parts of the brain due to its unique shape and location. It is extremely important for being able to perform everyday voluntary (done with purpose and intent) tasks such as walking and writing. It is also essential to being able to stay balanced and upright. Patients who have suffered from damaged cerebellums often struggle with keeping their balance and maintaining proper muscle coordination.
 
+小脑（cerebellum，指「大腦後下方的腦」）是位于后颅窝的脑组织。小脑在感觉感知、协调性，和运动控制中扮演重要角色；它也和注意、语言等很多认知功能相关，亦能调控恐惧和欢乐等反应[1]，其中最为人们确知的是其运动相关功能。小脑不會主動发起动作，但會接收來自脊髓感覺系統和其他腦區的訊號，影响运动协调、精确度和准确的时机控制。小脑通过丘脑等通路与大脑皮层相连，从而起到支配运动协调性的作用；下小脑接受来自脊髓小腦徑以及下橄榄核等结构的输入，整合多方面的信息，来微调运动的准确性，协调性和连贯性[2]。正由于小脑的功能是“微调”运动技能，所以小脑的损伤不会带来诸如瘫痪的严重症状，但是会导致精细动作技能、平衡能力、姿势和动作学习方面的症状。18世纪的科学研究表明，小脑受损的病人表现出运动协调性障碍；19世纪的小脑研究则主要基于动物损伤实验。这类实验发现，动物的小脑受损以后，表现出动作异常、步态笨拙，以及肌肉无力。这些观察最终使学者得出结论：小脑的主要功能是运动控制。不过，现代生物医学研究表明，除了运动以外，小脑还有许多其他功能，例如认知功能，注意力和语言处理，音乐处理，在时机控制方面也有重要作用。
+
+小脑, 脑的一部分。位于大脑的后下方，颅后窝内，延髓和脑桥的背面。可分为中间的蚓部和两侧膨大的小脑半球。小脑表面有许多大致平行的浅沟，沟间为一个叶片。表面的灰质为小脑皮层、深部为白质，也称髓质。白质内有数对核团，称中央核。小脑是运动的重要调节中枢，有大量的传入和传出联系。大脑皮质发向肌肉的运动信息和执行运动时来自肌肉和关节等的信息，都可传入小脑。小脑经常对这两种传来的神经冲动进行整合，并通过传出纤维调整和纠正各有关肌肉的运动，使随意运动保持协调。此外，小脑在维持身体平衡上也起着重要作用。它接受来自前庭器官的信息，通过传出联系，改变躯体不同部分肌肉的张力，使肌体在重力作用下，作加速或旋转运动时保持姿势平衡。
+
+我们的脑部主要由大脑及小脑两部分组成，小脑位于大脑底部，虽然容量只占脑容量的10%，但是神经元却占整个脑部的50%，负责把信息从大脑皮层传送至身体各个区域，是最繁忙的信息交换区。       在传统认识中，小脑主要起着能够维持身体平衡、调解肌张力、协调躯体运动的作用，但是，近年大量的科学研究证明小脑还参与语言、认知、记忆、注意、情绪等信息的处理。也就是说：如果大脑是我们的“思想中心”，小脑就是我们的“技能中心”。       我们的小脑在学习过程中其实特别活跃。例如学开车，在新手驾驶阶段，我们必须想着下一步怎么做，脚要踩哪里，方向盘要转几圈……但只要学会后，我们不必再一一回想每个步骤，就能自然地将车开得很顺畅。也就是说，开车已成为一项自动化的技能。许多日常的生活技能在我们重复运动后，会成为自动化的反应，不假思索就可以直接做了，而这都是小脑的功劳。因此，小脑在我们的学习过程及我们一般身体技能的自动化上是发挥很大的作用的，但是我们每个人的小脑的运作效率也会有所差异。  　   因为一些原因，小脑会出现发育迟缓，功能低于常人。这时候，人从学习中领悟到转变成自动化及不假思索就能完成工作的功能（例如：骑自行车、看书等）就会受到影响。当小脑的学习效率低时，虽然大脑智力是正常的，但大脑为了补小脑的不足，需要更多的运作，这样相对就吃力一些——一些普通人不假思索就能做到的事情，小脑发育缓慢的人群却需要用更多脑力及时间去完成。由于这部分人群失去自动化的功能，每次学习都要重新适应及努力，这对学习的成果就会大打折扣。即使是平常人很容易做到的事情，他们都要加几倍的努力才可完成。长此以往，对学习的兴趣也会渐渐减退。而如果被诊断出有读写困难、动作协调困难、 注意力缺失过动症或有相关症状，也很可能就是小脑发展迟缓造成的。    
+导儿中心(Dore Centre)根据这个原理，透过精密的科学仪器检测与评估，来了解脑部发展状况。然后，根据评估结果，设计个人化量身订作的导儿方案。         导儿方案的原理简单而言，就是通过运动进行小脑刺激。也就是说，导儿方案是直接针对造成学习困难的问题根源——小脑发育迟缓，以运动刺激小脑的自动化机制，改善脑部管理阅读、书写、注意力、动作协调等特定区域的效率，而且一旦改善后，就不会退步，这种脑部生理特性改变的可能性，称为“脑神经细胞的可塑性(Neuroplasticity)”。         因此，非药物、高效的导儿方案是根据个体量身定做的，利用小脑具有处理大量信息的功能和脑神经具有可塑性原理，针对小脑无法有效处理信息，用逐渐增进的运动方式对特定的小脑区域，给予适当的感觉刺激，扩充脑神经通路并促进连结，提高小脑处理信息的效率，使人们不再受学习困难之苦。
+
+
 ### limbic system
 
 <img src="https://image.slidesharecdn.com/2-170324150315/95/anatomy-of-limbic-system-3-638.jpg">
@@ -242,6 +250,21 @@ The limbic system is also associated with the subcortical nuclei, which includes
 <img src="http://pegasus.cc.ucf.edu/~Brainmd1/brmodelc.gif">
 
 The Corpus Callosum is the part of the mind that allows communication between the two hemispheres of the brain. It is responsible for transmitting neural messages between both the right and left hemispheres. 
+
+### pons
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Brain_bulbar_region.PNG/250px-Brain_bulbar_region.PNG">
+
+The Pons serves as a message station between several areas of the brain. It helps relay messages from the cortex and the cerebellum. Without the pons, the brain would not be able to function because messages would not be able to be transmitted, or passed along. It also plays a key role in sleep and dreaming, where REM sleep, or the sleeping state where dreaming is most likely to occur, has been proven to originate here, in the pons.
+
+脑桥（pons）是指脑干上位于中脑与延髓之间的一个部分，为小脑所覆盖。其背侧部的被盖为延髓背侧部分的延续，包括部分网状结构和若干脑神经核。腹侧部称为脑桥基底，主要由纵横纤维束组成，纤维间有许多细胞团块，称为桥核。脑桥只见于哺乳动物，尤以人最为发达，许多传导信息的神经纤维束在此通过，或以此为中继站，如皮层延髓束、皮层脊髓束、皮层桥束、皮层小脑束、皮层桥小脑束等。脑桥的神经纤维将左右小脑半球联系起来，也将小脑与大脑联系在一起，使随意运动得以协调进行。脑桥部位有许多脑神经及其核， 如位听神经、面神经、外展神经、三叉神经，对维持机体的生命活动起重要作用。 [1] 
+
+### medulla
+
+The medulla is easily the most important part of the brain. It's functions are involuntary, or done without thought.  We would not be able to live without the medulla because of the myriad of crucial tasks it performs including regulating blood pressure and breathing. As a part of the brain stem, it also helps transfer neural messages from the brain to the spinal cord.
+
+延髓（medulla oblongata）也叫延脑。居于脑的最下部，与脊髓相连，上接脑桥；其主要功能为控制基本生命活动，如控制呼吸、心跳、消化等。 延髓向下经枕骨大孔连结脊髓，随着脑各部的发育，胚胎时期的神经管就在脑的各部内部形成一个连续的脑室系统。 延髓是心血管的基本中枢，在延髓以上的脑干部分以及小脑和大脑中，都存在与心血管活动有关的神经元.
+
 
 ### amygdala
 
@@ -281,8 +304,23 @@ The lateralization of brain function is the tendency for some neural functions o
 
 Lateralization of brain structures is based on general trends expressed in healthy patients; however, there are numerous counterexamples to each generalization. Each human’s brain develops differently leading to unique lateralization in individuals. This is different from specialization as lateralization refers only to the function of one structure divided between two hemispheres. Specialization is much easier to observe as a trend since it has a stronger anthropological history.[1] The best example of an established lateralization is that of Broca's and Wernicke's areas where both are often found exclusively on the left hemisphere. These areas frequently correspond to handedness, however, meaning that the localization of these areas is regularly found on the hemisphere corresponding to the dominant hand (anatomically on the opposite side). Function lateralization such as semantics, intonation, accentuation, prosody, etc. has since been called into question and largely been found to have a neuronal basis in both hemispheres.[2] Another example is that each hemisphere in the brain tends to represent one side of the body. In the cerebellum this is the same bodyside, but in the forebrain this is predominantly the contralateral side.
 
-### Broca's area
+### Primary visual cortex
 
+The primary visual cortex is found in the occipital lobe in both cerebral hemispheres. It surrounds and extends into a deep sulcus called the calcarine sulcus. The primary visual cortex makes up a small portion of the visible surface of the cortex in the occipital lobe, but because it stretches into the calcarine sulcus, it makes up a significant portion of cortical surface overall. The primary visual cortex is sometimes also called the striate cortex due to the presence of a large band of myelinated axons that runs along the eges of the calcarine sulcus. These axons, referred to as the line of Gennari in reference to the first researcher who made note of their presence in the late 1700s, make the primary visual cortex appear striped (striate comes from Latin and implies a striped appearance).
+
+The primary visual cortex is the first cortical area of the visual system that receives information from the external visual world. Neurons in the primary visual cortex have small receptive fields and respond to basic elements of the visual scene. Recent findings, however, show that the primary visual cortex is also involved in cognitive processes, such as visual perception and working memory. These neural correlates are expressed in the late part of the neural response to a visual stimulus. These new observations provide a neural link between the perception of a visual object and the subsequent storage of the visual information in working memory. The inability to store the information and poor perception contribute to the impairment of visual working memory.
+
+Working memory, or short-term memory, is a cognitive system for the maintenance of behaviorally relevant information. This retention of information is a selective process, ie, not all of the sensory information that enters the brain is maintained, and only a limited amount of information is stored into memory. In vision, the storage of information in working memory is understood in terms of complete objects rather than the individual elements of the object.
+
+If you damage a certain part of your primary visual cortex, you develop a local blindness, as though you had destroyed the corresponding part of your retina.
+ 
+初级视皮层（V1）位于Brodmann 17区，其输出信息有两条通道，分别为背侧流（Dorsal Stream）和腹侧流（Ventral Stream）。
+
+大脑皮层中主要负责处理视觉信息的部分是视觉皮层（Visual Cortex），其位于枕叶的距状裂周围，是一种典型的感觉型粒状皮层（Koniocortex Cortex），接受来自丘脑外侧膝状体的视觉信息输入。人类的视觉皮层包括初级视皮层（V1，也称作纹状皮层（Striate Cortex））和纹外皮层（Extrastriate Cortex，如V2，V3，V4，V5等）
+
+
+
+### Broca's area
 
 
 <img src="https://cdn.britannica.com/700x450/32/99532-004-2B7BE4E6.jpg">
