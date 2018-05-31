@@ -5,6 +5,14 @@
 
 勒内·笛卡尔（又译作热奈·笛卡尔），1596年3月31日生于法国安德尔-卢瓦尔省的图赖讷（现笛卡尔，因笛卡尔得名），1650年2月11日逝世于瑞典斯德哥尔摩，是世界著名的法国哲学家、数学家、物理学家。他对现代数学的发展做出了重要的贡献，因将几何坐标体系公式化而被认为是解析几何之父。他还是西方现代哲学思想的奠基人，是近代唯物论的开拓者且提出了“普遍怀疑”的主张。黑格尔称他为“现代哲学之父”。他的哲学思想深深影响了之后的几代欧洲人，开拓了所谓“欧陆理性主义”哲学。堪称17世纪的欧洲哲学界和科学界最有影响的巨匠之一，被誉为“近代科学的始祖”。
 
+### Epistemology
+
+Epistemology ; from Greek ἐπιστήμη, epistēmē, meaning 'knowledge', and λόγος, logos, meaning 'logical discourse') is the branch of philosophy concerned with the theory of knowledge.
+
+Epistemology studies the nature of knowledge, justification, and the rationality of belief. Much of the debate in epistemology centers on four areas: (1) the philosophical analysis of the nature of knowledge and how it relates to such concepts as truth, belief, and justification,various problems of skepticism, (3) the sources and scope of knowledge and justified belief, and (4) the criteria for knowledge and justification. Epistemology addresses such questions as "What makes justified beliefs justified?", "What does it mean to say that we know something?" and fundamentally "How do we know that we know?"
+
+The term "epistemology" was first used by Scottish philosopher James Frederick Ferrier in 1854. However, according to Brett Warren, King James VI of Scotland had previously personified this philosophical concept as the character Epistemon in 1591.
+
 #### Cartesian Dualism 
 
 Dualism is an ancient concept that was deeply rooted in Greek thought. However, long before that, the ancient scriptures taught that mankind was made in God’s image and that Adam needed the spirit breathed into him before becoming a living soul. Almost 2000 years after Plato and Aristotle reasoned that the human mind or soul could not be identified with the physical body, Rene Descartes reinforced this concept and gave it a name, dualism. The word “Cartesius” is simply the Latin form of the name Descartes. Consequently, Cartesian dualism is simply Descartes concept of dualism. 
@@ -108,7 +116,7 @@ William James (1842-1910) was a leading philosopher and psychologist at the turn
 他是美国心灵学研究会（1885 年成立）的主要创立者，终其一生都在探讨超个人的心理现象与超心理学，认为人的精神生活有不能以生物学概念加以解释的地方，可透过某些现象来领会某种“超越性价值”；并强调人有巨大的潜能尚待开发，人的意识只有很少一部分为人所利用。他曾参与类似禅坐的静坐活动，表示静坐是一种唤起深度意志力的方法，可以增加个人的活力与生命力，也做灵媒的实证研究。此外，詹姆斯横跨哲学、心理学与精神医学界，对超意识的自动书写很感兴趣，曾大量收集案例，并发现青少年最能借此表达内心的纠葛与人格之冲突，他还注意到自动书写有时能解开罪犯的犯罪症结，但并非人人能自动书写，必须透过催眠或其它方法。
 
 
-### wilhelm wundt
+### Wilhelm Wundt
 
 Wilhelm Maximilian Wundt ( 16 August 1832 – 31 August 1920) was a German physician, physiologist, philosopher, and professor, known today as one of the founding figures of modern psychology. Wundt, who noted psychology as a science apart from philosophy and biology, was the first person ever to call himself a psychologist. He is widely regarded as the "father of experimental psychology". In 1879, Wundt founded the first formal laboratory for psychological research at the University of Leipzig. This marked psychology as an independent field of study. By creating this laboratory he was able to establish psychology as a separate science from other topics. He also formed the first academic journal for psychological research, Philosophische Studien (from 1881 to 1902), set up to publish the Institute's research.
 
@@ -137,4 +145,12 @@ The S-R Approach is the "stimulus-response" approach and is based on the premise
 
 In the branch of experimental psychology focused on sense, sensation, and perception, which is called psychophysics, a just-noticeable difference or JND is the amount something must be changed in order for a difference to be noticeable, detectable at least half the time (absolute threshold).
 
+### Empiricism
 
+In philosophy, empiricism is a theory that states that knowledge comes only or primarily from sensory experience. It is one of several views of epistemology, the study of human knowledge, along with rationalism and skepticism. Empiricism emphasises the role of empirical evidence in the formation of ideas, over the idea of innate ideas or traditions. However, empiricists may argue that traditions (or customs) arise due to relations of previous sense experiences.
+
+Empiricism in the philosophy of science emphasises evidence, especially as discovered in experiments. It is a fundamental part of the scientific method that all hypotheses and theories must be tested against observations of the natural world rather than resting solely on a priori reasoning, intuition, or revelation.
+
+Empiricism, often used by natural scientists, says that "knowledge is based on experience" and that "knowledge is tentative and probabilistic, subject to continued revision and falsification".[4] Empirical research, including experiments and validated measurement tools, guides the scientific method.
+
+经验主义是一种形而下学的思想方法和工作作风。其特点是在观察和处理问题的时候，从狭隘的个人经验出发，不是采取联系、发展、全面的观点，而是采取孤立、静止、片面的观点。
