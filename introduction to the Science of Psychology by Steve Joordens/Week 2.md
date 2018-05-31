@@ -154,3 +154,11 @@ Empiricism in the philosophy of science emphasises evidence, especially as disco
 Empiricism, often used by natural scientists, says that "knowledge is based on experience" and that "knowledge is tentative and probabilistic, subject to continued revision and falsification".[4] Empirical research, including experiments and validated measurement tools, guides the scientific method.
 
 经验主义是一种形而下学的思想方法和工作作风。其特点是在观察和处理问题的时候，从狭隘的个人经验出发，不是采取联系、发展、全面的观点，而是采取孤立、静止、片面的观点。
+
+### inferential statistics
+
+With inferential statistics, you are trying to reach conclusions that extend beyond the immediate data alone. For instance, we use inferential statistics to try to infer from the sample data what the population might think. Or, we use inferential statistics to make judgments of the probability that an observed difference between groups is a dependable one or one that might have happened by chance in this study. Thus, we use inferential statistics to make inferences from our data to more general conditions; we use descriptive statistics simply to describe what's going on in our data.
+
+推论统计(inferential statistics)是借助抽样调查，从局部推断总体，以对不肯定的事物做出决策的一种统计。有总体参数估计与假设检验两种。前者以一次性抽样实验为依据，对整个总体的某个数字特征做出估计。后者则是对某种假设进行检验，根据计算结果推断所做的假设是否可以接受。如平均数、标准差、相关系数、回归系数等特征的总体估计及差异显著性检验。推断统计的理论基础是概率论，它更多地需要借助抽样理论与方法.
+
+
