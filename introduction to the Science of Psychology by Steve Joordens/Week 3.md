@@ -1,3 +1,24 @@
+### gyrus(gyri)
+
+<img src="http://www.fullfrontalanatomy.com/images/F13/NS/Brain_SC/gyri_sulci2.jpg">
+
+A gyrus (plural: gyri) is a ridge on the surface of the brain. Each ridge is surrounded by fissures known as sulci (singular: sulcus). Gyri are unique structures that have an important evolutionary function; they increase the surface area of the brain up to an impressive 2000 centimeters squared.
+
+This large surface area gives us better cognition without having to increase the size of the brain, which is of course trapped within the skull and hence limited by size.
+
+There are many specific gyri which are important to the brain’s functions. For example, the superior temporal gyrus contains the Wernicke’s area, which is vital in the computation of language, while the precentral gyrus acts as the primary motor center of the brain.
+
+As gyri are important brain structures, they have a great deal of clinical significance, with various abnormalities leading to disorders such as epilepsy.
+
+脑回：大脑的表面凹凸不平，凸起的被称为脑回
+(凹下的依其深度称为沟或裂).
+
+### fissure
+
+In anatomy, a fissure (Latin fissura, plural fissurae) is a groove, natural division, deep furrow, elongated cleft, or tear in various parts of the body also generally called a sulcus, or in the brain a sulcus.
+
+大脑的神秘吸引着一代代的科学家去研究探索。在中国，尽管主流的观点是精神来源于心，但是还是有少数人持正确的认识。如秦代《黄帝内经∙素问》里说，“头者，精神之府”。明代李时珍也指出：“脑为元神之府”。两种学说都有支持者，争论持续了一千多年，但谁都拿不出有力的证据。这种混乱的情况最终由古罗马的希腊医师Galen用最为有力的证据证实。他分别对动物的心脏和脑进行夹捏刺激，发现夹捏心脏表现为呼吸急促，四肢挣扎等，而夹捏脑却出现了感觉丧失，很快昏迷，进入无意识状态，失去了全身各种有意识的活动。因此，结论很明显了，感觉思维和随意活动都是由脑产生的。同时Galen从羊脑解剖中看到了脑室，支持了当时流行的理论：机体功能依赖于4种重要的液体或体液平衡；感知被大脑所记录，运动被大脑所启动，都是由体液通过神经到达脑室和离开脑室的流动而实现；当时人们认为神经是一种类似于血管的中空管道。到18世纪，部分科学家挣脱了Galen的脑室中心论这一传统观念。解剖学家、医生等已经能够完整分离出神经系统，从而其细致的结构也被详尽地描绘叙述出来，科学家的注意力离开了脑室，而转到脑本身的白质和灰质；同时在此时期有着对脑功能重大的突破——脑回（gyri，大脑表面的隆起）及脑沟或脑裂（sulci和fissure，大脑表面的凹槽）被发现，脑回及脑沟在大脑表面组装成了叶（lobe），成为不同的脑回行使不同的大脑功能这一假设的理论基础，开创了脑功能定位研究的新时代，即特定的功能，定位在不同的脑区。直到今天神经科学已发展出许多分支，按照复杂性的递增排序有，分子神经科学，细胞神经科学，系统神经科学，行为神经科学以及认知神经科学。
+
 ### Brain
 
 <img src="http://thefactfile-lxh7vfdm.stackpathdns.com/wp-content/uploads/2015/10/Brain-facts-Infographics-1.png">
