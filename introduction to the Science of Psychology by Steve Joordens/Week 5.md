@@ -151,7 +151,35 @@ The answer is negative reinforcement. It is “negative” because it involves t
 
 Response cost refers to the application of punishment by the removal of a desired stimulus. In this case, the child’s toy is a desirable stimulus. Removing the when the child engages in a behaviour also removes the reward associated with the possession or use of the toy and decreases the likelihood that the child will repeat the undesirable behaviour.
 
+### Fixed-Ratio Schedule
 
+In operant conditioning, a fixed-ratio schedule is a schedule of reinforcement where a response is reinforced only after a specified number of responses. Essentially, the subject provides a set number of responses and then the trainer offers a reward. One advantage of this type of schedule is that it produces a high, steady rate of responding with only a brief pause after the delivery of the reinforcer.
+
+
+If you recall, operant conditioning involves strengthening or weakening behaviors via rewards and punishments. This type of associative learning involves changing behavior based upon that behavior's consequences. In other words, if a behavior is followed by a desirable consequence, then that behavior is more likely to occur again in the future. If, on the other hand, an action is followed by an undesirable consequence, then the action becomes less likely to take place again in the future.
+
+Behaviorist B.F. Skinner observed that the rate at which a behavior was reinforced, or the schedule of reinforcement, had an impact on the frequency and strength of the response. The fixed-ratio schedule is just one of the schedules that Skinner identified.
+
+#### Characteristics of the Fixed-Ratio Schedule
+
+So what impact does the fixed-ratio schedule have on response rates?
+
+* Results in high, steady responding until the reinforcement is delivered
+* Best used when learning a new behavior
+* Leads to a brief response pause after reinforcement, but responding quickly resumes
+
+Typically, the FR schedule leads to very high rates of response that follow a burst-pause-burst pattern. Subjects will respond at a high rate until the reinforcement is delivered, at which point there will be a brief pause. However, responding will resume once again at a high rate.
+
+One of the advantages of a fixed-ratio schedule is that it leads to a fairly high rate of responding, albeit there is usually a short pause after a reward is delivered. One possible disadvantage is that subjects may quickly become exhausted from such a high response rate or they may become satiated after a number of reinforcements have been given.
+
+#### Some Examples of Fixed-Ratio Schedules
+
+* Production Line Work: Workers at a widget factory are paid for every 15 widgets they make. This results in a high production rate and workers tend to take few breaks. It can, however, lead to burnout and lower-quality work.  
+* Collecting Tokens in a Video Game: In many video games, you have to collect so many tokens, object, or points in order to receive some type of reward.  
+* Sales Commissions: A worker earns a commission for every third sale that they make.  
+* Grades: A child is offered a reward after they earn five A’s on her homework assignments. After her fifth A on a homework assignment, she gets to pick out a new toy.  
+* Piecework: Jobs that require X amount of responses in order to receive compensation. For example, a worker receives X amount of dollars for every 100 envelopes they stuff or every 100 fliers they stick on windshields.  
+* Farm work: Farm workers are paid X amount of dollars for every basket of fruit that they pick.  
 
 
 
