@@ -181,6 +181,66 @@ One of the advantages of a fixed-ratio schedule is that it leads to a fairly hig
 * Piecework: Jobs that require X amount of responses in order to receive compensation. For example, a worker receives X amount of dollars for every 100 envelopes they stuff or every 100 fliers they stick on windshields.  
 * Farm work: Farm workers are paid X amount of dollars for every basket of fruit that they pick.  
 
+### discriminative stimulus 
 
+Discriminative stimulus is a term used in classical conditioning as a part of the process known as operant conditioning. A discriminative stimulus is a type of stimulus that is used consistently to gain a specific response and that increases the possibility that the desired response will occur. For example, in an experiment where a rat is being taught to navigate a maze it is easiest to train the rat with a highly desirable treat (such as peanut butter) rather than a less desirable reward such as a piece of broccoli.
 
+辨别刺激是表明反应能否被强化的刺激。
+在操作性条件反射过程中，一个辨别刺激表示行为何时受到奖赏，例如，可以训练鸽子只有在出现红灯时才啄按钮来获取食物，其他灯出现时，啄按钮就得不到食物，动物就学会了刺激与反应之间的此类关联性。可以说，辨别刺激能为一些反应“设置舞台”、“提供机会”。操作性条件反射的一个最基本任务就是利用刺激控制来引发一定的反应。当一个机体在辨别刺激出现的情况下能作出准确一致的反应，而辨别刺激未出现时则没有这些反应，我们就说它是在刺激的控制之下。
 
+# What Is a Schedule of Reinforcement?
+
+__Operant conditioning__ is a learning process in which new behaviors are acquired and modified though their association with consequences. Reinforcing a behavior increases the likelihood it will occur again in the future, while punishing a behavior decreases the likelihood that it will be repeated. In operant conditioning, schedules of reinforcement are an important component of the learning process.
+
+When and how often we reinforce a behavior can have a dramatic impact on the strength and rate of the response.
+
+### What Is a Schedule of Reinforcement?
+
+So what exactly is a schedule of reinforcement and how does it work in the conditioning process? A schedule of reinforcement is basically a rule stating which instances of a behavior will be reinforced. In some cases, a behavior might be reinforced every time it occurs.
+
+Sometimes, a behavior might not be reinforced at all.
+
+Either positive reinforcement or negative reinforcement might be used, depending on the situation. In both cases, the goal of reinforcement is always to strengthen the behavior and increase the likelihood that it will occur again in the future.
+
+You can get a better feel for how reinforcement schedules operate by thinking about how learning takes place in both naturally occurring learning situations as well as more structured training situations.
+
+In real-world settings, behaviors are probably not going to be reinforced each and every time they occur. For situations where you are purposely trying to train and reinforce an action, such as in the classroom, in sports, or in animal training, you might opt to follow a specific reinforcement schedule.
+
+As you'll see below, some schedules are best suited to certain types of training situations. In some cases, training might call for starting out with one schedule and switching to another once the desired behavior has been taught. Certain schedules of reinforcement may be more effective in specific situations.
+
+There are two types of reinforcement schedules:
+
+### Continuous Reinforcement Schedules
+
+In continuous reinforcement, the desired behavior is reinforced every single time it occurs. This schedule is best used during the initial stages of learning in order to create a strong association between the behavior and the response.
+
+For example, imagine that you are trying to teach a dog to shake your hand. During the initial stages of learning, you would probably stick to a continuous reinforcement schedule in order to teach and establish the behavior. You might start by grabbing the animal's paw, performing the shaking motion, saying "Shake," and then offering a reward each and every time you perform this sequence of steps. Eventually, the dog will start to perform the action on his own, and you might opt to continue reinforcing every single correct response until the behavior is well established.
+
+Once the response if firmly attached, reinforcement is usually switched to a partial reinforcement schedule.
+
+artial Reinforcement Schedules
+In partial or intermittent reinforcement, the response is reinforced only part of the time. Learned behaviors are acquired more slowly with partial reinforcement, but the response is more resistant to extinction.
+
+For example, think of our earlier example where you were training a dog to shake. While you initially used a continuous schedule, reinforcing every single instance of the behavior may not always be realistic. Eventually, you might decide to switch to a partial schedule where you provide reinforcement after so many responses occur or after so much time has elapsed.
+
+There are four schedules of partial reinforcement:
+
+__Fixed-ratio schedules__ are those where a response is reinforced only after a specified number of responses. This schedule produces a high, steady rate of responding with only a brief pause after the delivery of the reinforcer. An example of a fixed-ratio schedule would be delivering a food pellet to a rat after it presses a bar five times.
+
+__Variable-ratio schedules__ occur when a response is reinforced after an unpredictable number of responses. This schedule creates a high steady rate of responding. Gambling and lottery games are good examples of a reward based on a variable ratio schedule. In a lab setting, this might involve delivering food pellets to a rat after one bar press, again after four bar presses, and a third pellet after two bar presses.
+
+__Fixed-interval schedules__ are those where the first response is rewarded only after a specified amount of time has elapsed. This schedule causes high amounts of responding near the end of the interval, but much slower responding immediately after the delivery of the reinforcer. An example of this in a lab setting would be reinforcing a rat with a lab pellet for the first bar press after a 30-second interval has elapsed.
+
+__Variable-interval schedules__ occur when a response is rewarded after an unpredictable amount of time has passed. This schedule produces a slow, steady rate of response. An example of this would be delivering a food pellet to a ​rat after the first bar press following a one-minute interval, another pellet for the first response following a five-minute interval, and a third food pellet for the first response following a three-minute interval.
+
+### How Do You Choose a Schedule of Reinforcement?
+
+Deciding when to reinforce a behavior can depend on a number of factors. In cases where you are specifically trying to teach a new behavior, a continuous schedule is often a good choice.
+
+Once the behavior has been learned, switching to a partial schedule is often preferable.
+
+In daily life, partial schedules of reinforcement occur much more frequently than do continuous ones. For example, imagine if you received some type of reward every time you showed up to work on time. Instead, such rewards are usually doled out on a much less predictable partial reinforcement schedule. Not only are these schedules much more realistic and easier to implement, they also tend to produce higher response rates while being less susceptible to extinction.
+
+Realistically, reinforcing a behavior every single time it occurs can be difficult and requires a great deal of attention and resources. Partial schedules not only tend to lead to behaviors that are more resistant to extinction, they also reduce the risk that the subject will become satiated. If the reinforcer being used is no longer desired or rewarding, the subject may stop performing the desired behavior.
+
+For example, imagine that you are trying to teach a dog to sit. If you are using food as a reward, the dog might stop performing the action once he is full. In such instances, something like praise or attention might be a more effective reinforcer.
