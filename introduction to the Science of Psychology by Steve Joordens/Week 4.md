@@ -21,6 +21,14 @@ As a part of the retina, bipolar cells exist between photoreceptors (rod cells a
 
 Bipolar cells are so-named as they have a central body from which two sets of processes arise. They can synapse with either rods or cones (rod/cone mixed input BCs have been found in teleost fish but not mammals), and they also accept synapses from horizontal cells. The bipolar cells then transmit the signals from the photoreceptors or the horizontal cells, and pass it on to the ganglion cells directly or indirectly (via amacrine cells). Unlike most neurons, bipolar cells communicate via graded potentials, rather than action potentials.
 
+### ganglion cells
+
+Ganglion cells are a type of neuron located near the inner surface of the retina and are the final output neurons of the vertebrate retina. Ganglion cells collect visual information in their dendrites from bipolar cells and amacrine cells and transmit it to the brain through out their axon to the brain. Retinal ganglion cells vary significantly in terms of their size, connections, and responses to visual stimulation. Based on their projections and functions, there are at least five main classes of retinal ganglion cells: Parasol (Magnocellular, or M pathway). Midget (Parvocellular, or P pathway). Bistratified (Koniocellular, or K pathway). Photosensitive ganglion cells (melanopsin ganglion cells). Ganglion cells projecting to the Superior Colliculus for eye movements (saccades).
+
+神经节细胞（视网膜的）ganglion cell 位于视网膜最终段的神经细胞，其轴索为视神经纤维，纤维在眼球内，分布于网膜的表面，集于视束（视神经）乳头，由眼球出来之后，经过视束交叉，止于外侧膝状体。此神经节细胞的受纳区域，多种动物都大致呈圆形，对其中心用光照射，峰值放电出现在照射开始（on反应）；照射周边则在照射终止之后（off反应）；如果再照射其中间时，将出现光照射的两时期（on－off反应）。但这种性质并不是固定的，由于动物不同、波长不同，以及明暗适应的情况不同，而有很大的变化。
+
+
+
 ### Iris & Pupil
 
 <img src="https://www.visionweb.com/vwweb/images/content/consumers/illustrations/about%20the%20eye_anatomy_iris.jpg">
