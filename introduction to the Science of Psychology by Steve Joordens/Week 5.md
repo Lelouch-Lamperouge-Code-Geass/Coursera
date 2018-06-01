@@ -95,6 +95,12 @@ In psychology and ethology, imprinting is any kind of phase-sensitive learning (
 
 印刻现象首先由英国自然主义者斯波尔丁在刚孵出的鸡雏身上发现，并且还观察到这种反应不管所追逐的能活动的生物是否自己的同类。后来，奥地利动物学家劳伦兹把动物的这种行为称作印刻，并曾用鸭子做实验，验证了这一事实。劳伦兹发现在刚孵化出的小鸭面前，像鸭子那样摆动自己的双臂，摇摇摆摆地走路，小鸭子像爱母鸭那样地爱他，在幼小时跟在他身后走，到了性成熟期，则向人类而不是自己的同类求爱。印刻现象和一般的反应不同，它只在一定的时期内发生，小鸡“母亲印刻”的发生是在出生后的10-16小时，小狗则是在出生后的3-7周。印刻发生的时期称作关键期。在关键期内形成的印刻行为作为动物的习性保存下来，并且是不可逆的，即一旦形成就不能修正和还原。倘若幼小动物的印刻过程遭到阻碍和中断，母亲与幼小动物就不会相互认识。
 
+### Habituation
+
+Habituation is a psychological learning process wherein there is a decrease in response to a stimulus after being repeatedly exposed to it. This concept states that an animal or a human may learn to ignore a stimulus because of repeated exposure to it.
+
+When we enter a room, we may feel distracted about the noisy sound produced by an old air conditioning unit. But when we spend more time inside the room, we tend to ignore the annoying and sound although it is still present. This situation is an effect of habituation. It does not require the animal or person to be aware of this process; it may occur naturally and unconsciously.
+
 ### Operant conditioning
 
 Operant conditioning (also called "instrumental conditioning") is a learning process through which the strength of a behavior is modified by reinforcement or punishment. It is also a procedure that is used to bring about such learning.
