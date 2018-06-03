@@ -3,7 +3,26 @@
 
 #### Rene Descartes 
 
+René Descartes, (born March 31, 1596, La Haye, Touraine, France—died February 11, 1650, Stockholm, Sweden), French mathematician, scientist, and philosopher. Because he was one of the first to abandon scholastic Aristotelianism, because he formulated the first modern version of mind-body dualism, from which stems the mind-body problem, and because he promoted the development of a new science grounded in observation and experiment, he has been called the father of modern philosophy. Applying an original system of methodical doubt, he dismissed apparent knowledge derived from authority, the senses, and reason and erected new epistemic foundations on the basis of the intuition that, when he is thinking, he exists; this he expressed in the dictum “I think, therefore I am” . He developed a metaphysical dualism that distinguishes radically between mind, the essence of which is thinking, and matter, the essence of which is extension in three dimensions. Descartes’s metaphysics is rationalist, based on the postulation of innate ideas of mind, matter, and God, but his physics and physiology, based on sensory experience, are mechanistic and empiricist.
+
 勒内·笛卡尔（又译作热奈·笛卡尔），1596年3月31日生于法国安德尔-卢瓦尔省的图赖讷（现笛卡尔，因笛卡尔得名），1650年2月11日逝世于瑞典斯德哥尔摩，是世界著名的法国哲学家、数学家、物理学家。他对现代数学的发展做出了重要的贡献，因将几何坐标体系公式化而被认为是解析几何之父。他还是西方现代哲学思想的奠基人，是近代唯物论的开拓者且提出了“普遍怀疑”的主张。黑格尔称他为“现代哲学之父”。他的哲学思想深深影响了之后的几代欧洲人，开拓了所谓“欧陆理性主义”哲学。堪称17世纪的欧洲哲学界和科学界最有影响的巨匠之一，被誉为“近代科学的始祖”。
+
+### Metaphysics
+
+Metaphysics is a branch of philosophy that explores the nature of being, existence, and reality. Metaphysics seeks to answer, in a "suitably abstract and fully general manner", the questions:
+
+1. What is there?
+2. And what is it like?
+
+Topics of metaphysical investigation include existence, objects and their properties, space and time, cause and effect, and possibility.
+
+Like mathematics, metaphysics is a non-empirical study which is conducted using logical thought alone. Like foundational mathematics (which is sometimes considered a special case of metaphysics applied to the existence of number), it tries to give a coherent account of the structure of the world, capable of explaining our everyday and scientific perception of the world, and being free from contradictions. In mathematics, there are many different ways to define numbers; similarly in metaphysics there are many different ways to define objects, properties, concepts, and other entities which are claimed to make up the world. While metaphysics may, as a special case, study the entities postulated by fundamental science such as atoms and superstrings, its core topic is the set of categories such as object, property and causality which those scientific theories assume. For example: claiming that "electrons have charge" is a scientific theory; while exploring what it means for electrons to be (or at least, to be perceived as) "objects", charge to be a "property", and for both to exist in a topological entity called "space" is the task of metaphysics.
+
+形而上学（英语：Metaphysics）是指研究存在和事物本质的学问。形而上学是哲学研究中的一个范畴，被视为“第一哲学”和“哲学的基本问题”。它指通过理性的推理和逻辑去研究不能直接透过感知所得到答案的问题，它是人类理性对于事物最普遍的面相和终极的原因的探索的一门学科。
+
+形而上学的主要问题包括：根本上有什么存在？（What is ultimately there?）它是什么样的？（What is it like?）
+
+形而上学家们试图阐明人们用以理解世界的基本概念（范畴），例如存在、客体（objects）及其性质、空间和时间、因果和可能性。形而上学的主要分支学科之一是本体论，即对基本范畴及其相互关连的研究。另一个形而上学的主要分支是宇宙论，即对本源（如果有的话）、基本结构、本性（nature）、宇宙动力学的研究
 
 ### Epistemology
 
@@ -12,6 +31,14 @@ Epistemology ; from Greek ἐπιστήμη, epistēmē, meaning 'knowledge', an
 Epistemology studies the nature of knowledge, justification, and the rationality of belief. Much of the debate in epistemology centers on four areas: (1) the philosophical analysis of the nature of knowledge and how it relates to such concepts as truth, belief, and justification,various problems of skepticism, (3) the sources and scope of knowledge and justified belief, and (4) the criteria for knowledge and justification. Epistemology addresses such questions as "What makes justified beliefs justified?", "What does it mean to say that we know something?" and fundamentally "How do we know that we know?"
 
 The term "epistemology" was first used by Scottish philosopher James Frederick Ferrier in 1854. However, according to Brett Warren, King James VI of Scotland had previously personified this philosophical concept as the character Epistemon in 1591.
+
+知识论是探讨知识的本质、起源和范围的一个哲学分支。目前知识论和认识论之间的关系存在争议，有人认为它们是同一个概念，而也有人认为它们其实是存在一些密切联系的两个不同概念.
+
+知识即被确证（justified，亦作证成）的真实的信仰。关于知识最有影响力的作品是柏拉图的《泰阿泰德篇》，书中他发展了知识的定义。我们知道，想要被定义为知识，它必须是真的，并且必须被相信是真的。苏格拉底认为这还不够，人们还必须为之找到理由或证明。
+柏拉图将知识定义为被确证的真实的信仰（被相信的事物）。
+这个定义暗示我们不能因为相信一件事并且那件事是真实的便说我们知道这件事。一个没有任何医学知识的病人相信他很快会康复，即便日后事实如此，我们不能说这个病人知道他会好，因为他的相信在当时缺乏确证。
+因此知识由于确证而区别于人们所相信并且真实的事。认识论所解决的问题就是怎样恰当地确证真实的相信。人们有时将这称为证实理论。
+《泰阿泰德篇》中的定义认为我们可以相信一件事而不去知道它。它暗示我们可以相信一切我们所知道的事。这样，我们知道的事是我们相信的事的子集。（《柏拉图全集》）
 
 #### Cartesian Dualism 
 
@@ -27,15 +54,22 @@ This concept is difficult to accept for those with a secular humanist, materiali
 
 Luigi Alyisio Galvani (September 9, 1737 – December 4, 1798) was an Italian physician and physicist who lived and died in Bologna. In 1791, he discovered that the muscles of dead frogs legs twitched when struck by a spark. This was one of the first forays into the study of bioelectricity, a field that still today studies the electrical patterns and signals of the nervous system. He was cutting the frogs' legs as an experiment trying to prove that a frog's testicles were actually in their legs. He was quickly proved wrong by other biologists at the University of Pavia.
 
+意大利医生和动物学家。1737年9月9日诞生于意大利的波洛尼亚。他从小接受正规教育，1756年进入博洛尼亚大学学习医学和哲学。1759年从医，开展解剖学研究，还在大学开设医学讲座。1766年任大学解剖学陈列室示教教师。1768年任讲师。1782年任博洛尼亚大学教授。1791年他把自己长期从事蛙腿痉挛的研究成果发表，这个新奇发现，引起科学界大为震惊。
+
+1786年有一天，加尔瓦尼在实验室解剖青蛙，把剥了皮的蛙腿，用刀尖碰蛙腿上外露的神经时，蛙腿剧烈地痉挛，同时出现电火花。经过反复实验，他认为痉挛起因于动物体上本来就存在的电，他还把这种电叫做“动物电”。
+
+加尔瓦尼的一个偶然发现，引出伏打电池的发明和电生理学的建立，这在科学史上一直传为佳话。伏打(伏特）真诚地赞扬说，加尔瓦尼的工作“在物理学和化学史上，是足以称得上划时代的伟大发现之一。”为了纪念加尔瓦尼，伏打还把伏打电池叫做加尔瓦尼电池，引出的电流称为加尔瓦尼电流。
+
 ### Paul Broca
 
-Paul Broca, (born June 28, 1824, Sainte-Foy-laGrande, Fr.—died July 9, 1880, Paris), surgeon who was closely associated with the development of modern physical anthropology in France and whose study of brain lesions contributed significantly to understanding the origins of aphasia, the loss or impairment of the ability to form or articulate words. He founded the anthropology laboratory at the École des Hautes Études, Paris (1858), and the Société d’Anthropologie de Paris (1859).
+Paul Broca,, surgeon who was closely associated with the development of modern physical anthropology in France and whose study of brain lesions contributed significantly to understanding the origins of aphasia, the loss or impairment of the ability to form or articulate words. He founded the anthropology laboratory in Paris (1858).
 
 Much of Broca’s research concerned the comparative study of the craniums of the so-called races of mankind. Following precedents set by Samuel Morton in the United States, Broca developed numerous techniques to study the form, structure, and topography of the brain and skull in order to identify and differentiate human races. As a polygenist who considered the major human racial groups as separate species, Broca wrote influential works on “hybridization,” or the mixture of races, arguing that some mixtures of closely related races were beneficial (“eugenic”) while mixtures of greatly differing races were harmful (“dysgenic”).
 
-In 1861 he announced his discovery of the seats of articulate speech in the left frontal region of the brain, since known as the convolution of Broca. Thus, he also furnished the first anatomical proof of the localization of brain function. Founder of the Revue d’anthropologie (1872), he established the École d’Anthropologie, Paris (1876), and became its director. His writings include Mémoires d’anthropologie, 5 vol. (1871–78; “Memoirs of Anthropology”).
+In 1861 he announced his discovery of the seats of articulate speech in the left frontal region of the brain, since known as the convolution of Broca. Thus, he also furnished the first anatomical proof of the localization of brain function. Founder of the Revue d’anthropologie (1872), he established the École d’Anthropologie, Paris (1876), and became its director. His writings include  “Memoirs of Anthropology”.
 
 皮埃尔·保尔·布罗卡，（Pierre Paul Broca ，1824－1880），法国外科医生、神经病理学家、人类学家，也是最早发现大脑左半球语言中枢的生理学家。1824年6月28日出生于法国南部的纪龙德省圣福瓦拉格兰德，1880年6月9日病逝于法国巴黎。
+
 布罗卡于1849年获巴黎大学医学学位，进入巴黎近郊一所医院，并称为当时著名的外科医生。后专攻脑外科。他第一个做环钻（开颅）以治疗脑脓肿。1861年他通过尸检证明大脑某一点（左前叶第三回）受损即丧失语言能力，这是第一次明确证明某一特定能力与大脑某一特定控制点之间有联系。其后二十年间，大脑大部分的图象都已绘制出来，并逐步找出其与身体各部的关系。以前加耳的卓见曾被引向颅相学的歧途，至此纳入正轨。
 
 如今以布罗卡命名的解剖部位、症状群以及公式不少。如脑部的布罗卡氏区、布罗卡氏间隙、布罗卡氏底角、布罗卡氏带，以及大阴唇内侧的布罗卡氏囊；症状群有布罗卡氏失语症（即运动性失语症）；测量方法有布罗卡氏颜面角，体质人类学用以计算颏部凹凸深度；以及广为人知的估计成熟男性理想体重的布罗卡氏公式，即身长减 100 厘米为理想体重公斤数。其中最为著名的是布罗卡氏区。
