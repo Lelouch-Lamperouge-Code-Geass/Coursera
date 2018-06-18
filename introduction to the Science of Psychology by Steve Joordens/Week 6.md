@@ -33,3 +33,7 @@ Some examples of tasks dependent upon procedural memory:
 
 Working memory is a cognitive system with a limited capacity that is responsible for temporarily holding information available for processing.[1] Working memory is important for reasoning and the guidance of decision-making and behavior. Working memory is often used synonymously with short-term memory, but some theorists consider the two forms of memory distinct, assuming that working memory allows for the manipulation of stored information, whereas short-term memory only refers to the short-term storage of information. Working memory is a theoretical concept central to cognitive psychology, neuropsychology, and neuroscience.
 
+# Mere-exposure effect
+
+The mere-exposure effect is a psychological phenomenon by which people tend to develop a preference for things merely because they are familiar with them. In social psychology, this effect is sometimes called the familiarity principle. The effect has been demonstrated with many kinds of things, including words, Chinese characters, paintings, pictures of faces, geometric figures, and sounds. In studies of interpersonal attraction, the more often a person is seen by someone, the more pleasing and likeable that person appears to be.
+
