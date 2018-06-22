@@ -36,6 +36,19 @@ In everyday situations, people obey orders because they want to get rewards, bec
 * People don’t want to be rude or offend the authority.  
 * People obey easy commands first and then feel compelled to obey more and more difficult commands. This process is called entrapment, and it illustrates the foot-in-the-door phenomenon.  
 
+### Self-Serving Bias
+
+The common human tendency to attribute one’s successes to personal characteristics, and one’s failures to factors beyond one’s control. The reason people tend to personalize success is because it helps their self-esteem levels. Most people demonstrate this behavior on a regular basis. It is human nature to take credit for things like an A on a test or a job well done at work. It is also human nature to avoid responsibility entirely for mistakes or problems.
+
+This behavior can rob people of opportunities to learn and improve. If we address our weaknesses and listen to critique we can improve. If we avoid them and blame them on factors like the teacher, the car we took a driving test with etc, then we remain stagnant as far as skill levels.
+
+Example: A star quarterback discusses the hard work and team-mindedness of his fellow players when asked to explain a big win. A few weeks later, after his team loses a game, the same quarterback explains that “it just wasn’t our night”.
+
+自我服务偏向最有名的例子是把成功归因于内部因素(如能力和努力)、把失败归因于外部因素(如运气和任务难度)的倾向。
+Allport (1937)把人类认知中存在的积极性探索称为“本性的最古老法则(nature’s eldest law)”—— 个体保护脆弱的自我免受现实打击的方法。
+Miller和Ross (1975)把这种将成功归因为自我因素, 把失败归因为外部因素的倾向称作自我服务偏向。后来, Bradley (1978)在此基础上对这种归因偏向的系统阐述进行了扩展, 认为自我服务归因不仅对个人形象的提升起作用, 还可以提高和维持他人对自己的认识。也就是说, 这种偏向可以通过维持和提高个体的公众形象(public image), 达到保护和提升个体自尊的目的。这就解释了为什么人们有时更多地把失败而不是成功归咎于自己, 因为如果偶尔承认而非否定失败的责任, 可能会得到他人更多的喜爱。 Miller (1978)肯定了Bradley (1978)对自我服务偏向界定的贡献, 并补充认为, 对积极结果和消极结果的归因不是对因果关系认知的曲解就是对因果关系描述(description)的曲解。
+Gibbs 将这种自我服务的认知曲解(distortion)进一步区分为原发性(primary)的和继发性的(secondary)。他们认为原发性曲解是指自我中心的态度和信念：自己的观点、期望、需要、权利、当前的感受和欲望非常重要, 而那些合理的观点、期望等可以不被考虑或完全忽略; 继发性曲解是指一种犯罪后的合理化：使良心、潜在的同情心以及内疚感等丧失, 这样在个体出现反社会行为后不会毁坏自我形象。
+
 ### just-world hypothesis
 
 The just-world hypothesis or just-world fallacy is the cognitive bias (or assumption) that a person's actions are inherently inclined to bring morally fair and fitting consequences to that person, to the end of all noble actions being eventually rewarded and all evil actions eventually punished. In other words, the just-world hypothesis is the tendency to attribute consequences to—or expect consequences as the result of—a universal force that restores moral balance. This belief generally implies the existence of cosmic justice, destiny, divine providence, desert, stability, or order, and has high potential to result in fallacy, especially when used to rationalize people's misfortune on the grounds that they "deserve" it.
