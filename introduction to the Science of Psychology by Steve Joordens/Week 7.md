@@ -1,4 +1,4 @@
-### What is Conformity?
+# What is Conformity?
 
 Conformity is a type of social influence involving a change in belief or behavior in order to fit in with a group.
 This change is in response to real (involving the physical presence of others) or imagined (involving the pressure of social norms / expectations) group pressure.
@@ -7,7 +7,7 @@ Conformity can also be simply defined as “yielding to group pressures” (Crut
 
 The term conformity is often used to indicate an agreement to the majority position, brought about either by a desire to ‘fit in’ or be liked (normative) or because of a desire to be correct (informational), or simply to conform to a social role (identification).
 
-### Obedience and Authority
+# Obedience and Authority
 
 Obedience is compliance with commands given by an authority figure. In the 1960s, the social psychologist Stanley Milgram did a famous research study called the obedience study. It showed that people have a strong tendency to comply with authority figures.
 
@@ -35,4 +35,30 @@ In everyday situations, people obey orders because they want to get rewards, bec
 * People define the behavior that’s expected of them as routine.  
 * People don’t want to be rude or offend the authority.  
 * People obey easy commands first and then feel compelled to obey more and more difficult commands. This process is called entrapment, and it illustrates the foot-in-the-door phenomenon.  
+
+### just-world hypothesis
+
+The just-world hypothesis or just-world fallacy is the cognitive bias (or assumption) that a person's actions are inherently inclined to bring morally fair and fitting consequences to that person, to the end of all noble actions being eventually rewarded and all evil actions eventually punished. In other words, the just-world hypothesis is the tendency to attribute consequences to—or expect consequences as the result of—a universal force that restores moral balance. This belief generally implies the existence of cosmic justice, destiny, divine providence, desert, stability, or order, and has high potential to result in fallacy, especially when used to rationalize people's misfortune on the grounds that they "deserve" it.
+
+The hypothesis popularly appears in the English language in various figures of speech that imply guaranteed negative reprisal, such as: "you got what was coming to you", "what goes around comes around", "chickens come home to roost", and "you reap what you sow". 
+
+社会心理学上有个词汇叫做“Just-world phenomenon”(aka. Just-world hypothesis/fallacy, blaming the victims)，翻译做“公平世界假设”，也叫公平世界谬误，责怪受害者是最常见的表现。
+
+这是一种非常常见的现象，尤其在强奸案件中，我们常常看到受害者（无论性别），总会有一些人说：“受害者穿成这样活该。”“不该喝酒。”“平时太浪荡。”诸如此类的话语。
+
+同样的情况在之前女司机被打的事件中亦有出现，某些人特意去人肉了女司机的私生活（开房记录等）以证明这个女人不是什么好人（此处涉及男权社会常见的荡妇羞辱，不多提了），活该被打。
+
+而在家暴案件中我们又屡屡看见指责受害者性格不好，不够善解人意等等。
+
+### Locus of control
+
+In personality psychology, locus of control is the degree to which people believe that they have control over the outcome of events in their lives, as opposed to external forces beyond their control. Understanding of the concept was developed by Julian B. Rotter in 1954, and has since become an aspect of personality studies. A person's "loci" (plural of "locus", Latin for "place" or "location") are conceptualized as internal (a belief that one's life can be controlled) or external (a belief that life is controlled by outside factors which they cannot influence, or that chance or fate controls their lives).[1]
+
+Individuals with a strong internal locus of control believe events in their life derive primarily from their own actions: for example, when receiving exam results, people with an internal locus of control tend to praise or blame themselves and their abilities. People with a strong external locus of control tend to praise or blame external factors such as the teacher or the exam.
+
+Locus of control is one of the four dimensions of core self-evaluations – one's fundamental appraisal of oneself – along with neuroticism, self-efficacy, and self-esteem.
+
+控制点(Locus of control)这一概念，最初是由美国社会学习理论家的朱利安·罗特(Julian Bernard Rotter)于1954年提出的一种个体归因倾向的理论，旨在对个体的归因差异进行说明和测量。罗特发现，个体对自己生活中发生的事情及其结果的控制源有不同的解释。对某些人来说，个人生活中多数事情的结果取决于个体在做这些事情时的努力程度，所以这种人相信自己能够对事情的发展与结果进行控制。此类人的控制点在个体的内部，称为内控者。对另外一些人，个体生活中多数事情的结果是个人不能控制的各种外部力量作用造成的，他们相信社会的安排，相信命运和机遇等因素决定了自己的状况，认为个人的努力无济于事。这种人倾向于放弃对自己生活的责任，他们的控制点在个体的外部，称为外控者。
+
+由于内控者与外控者理解的控制点来源不同，因而他们对待事物的态度与行为方式也不相同。内控者相信自己能发挥作用，面对可能的失败也不怀疑未来可能会有所改善，面对困难情境，能付出更大努力，加大工作投入。他们的态度与行为方式是符合社会期待的。而外控者看不到个人努力与行为结果的积极关系，面对失败与困难，往往推卸责任于外部原因，不去寻找解决问题的办法，而是企图寻求救援或是赌博式的碰运气。他们倾向于以无助、被动的方式面对生活。显然这种态度与行为方式是不可取的。
 
