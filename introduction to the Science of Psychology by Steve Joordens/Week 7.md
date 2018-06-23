@@ -75,3 +75,44 @@ Locus of control is one of the four dimensions of core self-evaluations – one'
 
 由于内控者与外控者理解的控制点来源不同，因而他们对待事物的态度与行为方式也不相同。内控者相信自己能发挥作用，面对可能的失败也不怀疑未来可能会有所改善，面对困难情境，能付出更大努力，加大工作投入。他们的态度与行为方式是符合社会期待的。而外控者看不到个人努力与行为结果的积极关系，面对失败与困难，往往推卸责任于外部原因，不去寻找解决问题的办法，而是企图寻求救援或是赌博式的碰运气。他们倾向于以无助、被动的方式面对生活。显然这种态度与行为方式是不可取的。
 
+### Stanford prison experiment
+
+The Stanford prison experiment was a 1971 experiment that attempted to investigate the psychological effects of perceived power, focusing on the struggle between prisoners and prison officers. It was conducted at Stanford University between August 14–20, 1971, by a research group led by psychology professor Philip Zimbardo using college students. In the study, volunteers were randomly assigned to be either "guards" or "prisoners" in a mock prison, with Zimbardo himself serving as the superintendent. Two of the "prisoners" left mid-experiment, and the whole experiment was abandoned after six days. The results seemed to show that the students quickly embraced their assigned roles, with some guards enforcing authoritarian measures and ultimately subjecting some prisoners to psychological torture, while many of the prisoners passively accepted psychological abuse and, by the officers' request, actively harassed other prisoners who tried to stop it. The experiment is one of the most famous psychological experiments of all time, and is covered in most introductory social psychology textbooks.
+
+The experiment was funded by the U.S. Office of Naval Research[3] as an investigation into the causes of difficulties between guards and prisoners in the United States Navy and United States Marine Corps. Certain portions of it were filmed, and excerpts of footage are publicly available.
+
+Some of the experiment's findings have been called into question, and the experiment has been criticized for unethical[4][5] and unscientific practices. Critics have noted that Zimbardo instructed the "guards" to exert psychological control over the "prisoners", and that some of the participants behaved in a way that would help the study, so that, as one "guard" later put it, "the researchers would have something to work with." The experiment has also been criticized for its small sample size and unrepresentative sample population, especially given that flyers recruiting people for the experiment advertised it as dealing with "prison life". The results of the experiment have never been successfully replicated.
+
+斯坦福监狱实验也许是整个20世纪最有名也最受争议的心理学实验。
+
+在这项研究中，大学生们被指派在模拟监狱里扮演“囚犯”或“狱警”。实验开始不久之后，“狱警”就开始虐待“囚犯”了，这意味着外部环境会催生邪恶。这项研究的作者，斯坦福大学心理学教授菲利普·津巴多在结论中指出，如果将无辜的人放到特定环境中，给予他们超过他人的权力，这些无辜的人会开始滥用权力。而如果把人放进没有权力的环境下，他们会被迫屈服，甚至疯癫。
+
+斯坦福监狱实验的结果多年来一直在受到仔细审查，许多人认为，比起严谨的科学，这更像是戏剧化的展示，是学术界的真人秀。（何况，这个实验进行到一半就中断了。）现在，这一新的曝光又激起千层浪：抛开其中的欺骗成分不谈，这也足以让实验原本的结论变得无效。它不再能证明权力位置本身可以导致残忍，而是表明权威人士如果想要残忍行为，可以说服别人听从他。
+
+“底线是：服从并不是天然的、盲目的、无可避免的。”社会心理学家杰·巴维尔（Jay Van Bavel）发推说。“津巴多不但把这一点搞错了，而且他的公开言论还误导了成百上千万人。”
+
+“我们必须停止颂扬这项研究了。”人格心理学家辛明·瓦沙（Simine Vazire）发推表示，“这完全是反科学的，把它从教科书里删除吧。”
+
+很多其他心理学家也表达了类似观点。
+
+### bystander effect
+
+The term bystander effect refers to the phenomenon in which the greater the number of people present, the less likely people are to help a person in distress. When an emergency situation occurs, observers are more likely to take action if there are few or no other witnesses. Being part of a large crowd makes it so no single person has to take responsibility for an action (or inaction).
+
+旁观者效应也称为责任分散效应，是指对某一件事来说，如果是单个个体被要求单独完成任务，责任感就会很强，会作出积极的反应。但如果是要求一个群体共同完成任务，群体中的每个个体的责任感就会很弱，面对困难或遇到责任往往会退缩。因为前者独立承担责任，后者期望别人多承担点儿责任。“责任分散”的实质就是人多不负责，责任不落实。
+
+### Diffusion of responsibility
+
+Diffusion of responsibility is a sociopsychological phenomenon whereby a person is less likely to take responsibility for action or inaction when others are present. Considered a form of attribution, the individual assumes that others either are responsible for taking action or have already done so. Assumption of responsibility tends to decrease when the potential helping group is larger, resulting in little aiding behavior demonstrated by the bystander(s). Causes range from psychological effects of anonymity to differences in gender. Implication of behaviors related to diffusion of responsibility can be threatening as there have been increases in moral disengagement and helping behavior. The infamous rape case of Kitty Genovese and increased murders in WWII can be attributed to diffusion of responsibility.
+
+责任分散效应（Diffusion of responsibility）也称为旁观者效应，是指对某一件事来说，如果是单个个体被要求单独完成任务，责任感就会很强，会作出积极的反应。
+
+但如果是要求一个群体共同完成任务，群体中的每个个体的责任感就会很弱，面对困难或遇到责任往往会退缩.
+
+对于责任分散效应形成的原因，心理学家进行了大量的实验和调查，结果发现这种现象不能仅仅说是众人的冷酷无情，或道德日益沦丧的表现。因为在不同的场合，人们的援助行为确实是不同的。当一个人遇到紧急情境时，如果只有他一个人能提供帮助，他会清醒地意识到自己的责任，对受难者给予帮助。如果他见死不救会产生罪恶感、内疚感，这需要付出很高的心理代价。而如果有许多人在场的话，帮助求助者的责任就由大家来分担，造成责任分散，每个人分担的责任很少，旁观者甚至可能连他自己的那一份责任也意识不到，从而产生一种"我不去救，由别人去救"的心理，造成"集体冷漠"的局面。如何打破这种局面，这是心理学家正在研究的一个重要课题。
+
+#### Murder of Kitty Genovese
+
+https://en.wikipedia.org/wiki/Murder_of_Kitty_Genovese  
+
+
