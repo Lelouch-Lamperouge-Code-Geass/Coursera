@@ -115,4 +115,14 @@ Diffusion of responsibility is a sociopsychological phenomenon whereby a person 
 
 https://en.wikipedia.org/wiki/Murder_of_Kitty_Genovese  
 
+### Realistic conflict theory
+
+Realistic conflict theory (initialized RCT), also known as realistic group conflict theory (initialized RGCT), is a social psychological model of intergroup conflict. The theory explains how intergroup hostility can arise as a result of conflicting goals and competition over limited resources, and it also offers an explanation for the feelings of prejudice and discrimination toward the outgroup that accompany the intergroup hostility. Groups may be in competition for a real or perceived scarcity of resources such as money, political power, military protection, or social status.
+
+Feelings of resentment can arise in the situation that the groups see the competition over resources as having a zero-sums fate, in which only one group is the winner (obtained the needed or wanted resources) and the other loses (unable to obtain the limited resource due to the "winning" group achieving the limited resource first). The length and severity of the conflict is based upon the perceived value and shortage of the given resource. According to RCT, positive relations can only be restored if superordinate goals are in place.
+
+现实群体冲突理论，解释偏见的理论。这个理论认为，在现实生活中，像产品、工作、金钱和地位等常常因不够分配或分配不合理而不能使每个人满意。当人们过多追求自己需要的满足时，人与人之间、群体之间往往会为取得更多有价值的东西而发生竞争，甚至产生偏见、冲突。这一理论认为，在群体间竞争中， 人们对对手的评价会越来越坏，他们互相把对方看作“敌人”，认为自己组的成员一切都正确、合理，开始仅仅是竞争，后来会导致根深蒂固的偏见或冲突。 
+
+谢里夫及其同事早期所进行的“群体间冲突的合作”实验曾发现，小组间的冲突会加强团体内的合作，并会引起对外团体的敌视。布莱克和穆顿研究了一些在竞争小组中工作的经理，发现他们很快都对对方作出极坏的评价。但这种冲突在一定条件下，如创设一种使各群体只有通过合作才能实现更大目标的情境，加强沟通等，也可得到消除。
+
 
