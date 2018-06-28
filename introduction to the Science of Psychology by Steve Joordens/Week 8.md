@@ -99,3 +99,33 @@ Although bipolar disorder can occur at any age, typically it's diagnosed in the 
 双相障碍属于心境障碍的一种类型，英文名称为Bipolar Disorder（BP），英文别名Bipolar Affective Disorder，指既有躁狂发作又有抑郁发作的一类疾病。
 因未明，生物、心理与社会环境诸多方面因素参与其发病过程，目前强调遗传与环境或应激因素之间的交互作用、以及这种交互作用的出现时点在双相障碍发生过程中具有重要的影响，临床表现按照发作特点可以分为抑郁发作、躁狂发作或混合发作。
 
+### Schizophrenia
+
+Schizophrenia is a chronic and severe mental disorder that affects how a person thinks, feels, and behaves. People with schizophrenia may seem like they have lost touch with reality. Although schizophrenia is not as common as other mental disorders, the symptoms can be very disabling.
+
+Symptoms of schizophrenia usually start between ages 16 and 30. In rare cases, children have schizophrenia too.
+
+The symptoms of schizophrenia fall into three categories: positive, negative, and cognitive.
+
+Positive symptoms: “Positive” symptoms are psychotic behaviors not generally seen in healthy people. People with positive symptoms may “lose touch” with some aspects of reality. Symptoms include:
+
+* Hallucinations
+* Delusions
+* Thought disorders (unusual or dysfunctional ways of thinking)
+* Movement disorders (agitated body movements)
+
+Negative symptoms: “Negative” symptoms are associated with disruptions to normal emotions and behaviors. Symptoms include:
+
+* “Flat affect” (reduced expression of emotions via facial expression or voice tone)
+* Reduced feelings of pleasure in everyday life
+* Difficulty beginning and sustaining activities
+* Reduced speaking
+
+Cognitive symptoms: For some patients, the cognitive symptoms of schizophrenia are subtle, but for others, they are more severe and patients may notice changes in their memory or other aspects of thinking. Symptoms include:
+
+* Poor “executive functioning” (the ability to understand information and use it to make decisions)
+* Trouble focusing or paying attention
+* Problems with “working memory” (the ability to use information immediately after learning it)
+
+精神分裂症是一组病因未明的重性精神病，多在青壮年缓慢或亚急性起病，临床上往往表现为症状各异的综合征，涉及感知觉、思维、情感和行为等多方面的障碍以及精神活动的不协调。患者一般意识清楚，智能基本正常，但部分患者在疾病过程中会出现认知功能的损害。病程一般迁延，呈反复发作、加重或恶化，部分患者最终出现衰退和精神残疾，但有的患者经过治疗后可保持痊愈或基本痊愈状态。
+
