@@ -75,4 +75,27 @@ The dissociative disorders listed in the American Psychiatric Association's DSM-
 
 个体的发展有赖于儿童时期将各种复杂的信息和经验成功地整合.当儿童获得对自己和周围人统一而复杂的认识后,他们将顺利渡过那些不同的知觉和情感分离的阶段.每个发育时期都产生有不同自我,同时并不是每个经受童年虐待和创伤的人都发展成多重人格.多重人格病人容易被催眠,而这一特质与分离性素质密切相联,同时它被认为是分离性障碍的患病因素之一.当然,绝大多数具有这些特质的儿童还是具有正常的适应能力,并且能够在成人的保护和抚慰下,不会发展成分离性身份障碍.
 
+### Bipolar Disorder
+
+Bipolar disorder, formerly called manic depression, is a mental health condition that causes extreme mood swings that include emotional highs (mania or hypomania) and lows (depression).
+
+When you become depressed, you may feel sad or hopeless and lose interest or pleasure in most activities. When your mood shifts to mania or hypomania (less extreme than mania), you may feel euphoric, full of energy or unusually irritable. These mood swings can affect sleep, energy, activity, judgment, behavior and the ability to think clearly.
+
+Episodes of mood swings may occur rarely or multiple times a year. While most people will experience some emotional symptoms between episodes, some may not experience any.
+
+Although bipolar disorder is a lifelong condition, you can manage your mood swings and other symptoms by following a treatment plan. In most cases, bipolar disorder is treated with medications and psychological counseling (psychotherapy).
+
+There are several types of bipolar and related disorders. They may include mania or hypomania and depression. Symptoms can cause unpredictable changes in mood and behavior, resulting in significant distress and difficulty in life.
+
+* Bipolar I disorder. You've had at least one manic episode that may be preceded or followed by hypomanic or major depressive episodes. In some cases, mania may trigger a break from reality (psychosis).
+* Bipolar II disorder. You've had at least one major depressive episode and at least one hypomanic episode, but you've never had a manic episode.
+* Cyclothymic disorder. You've had at least two years — or one year in children and teenagers — of many periods of hypomania symptoms and periods of depressive symptoms (though less severe than major depression).
+* Other types. These include, for example, bipolar and related disorders induced by certain drugs or alcohol or due to a medical condition, such as Cushing's disease, multiple sclerosis or stroke.
+
+Bipolar II disorder is not a milder form of bipolar I disorder, but a separate diagnosis. While the manic episodes of bipolar I disorder can be severe and dangerous, individuals with bipolar II disorder can be depressed for longer periods, which can cause significant impairment.
+
+Although bipolar disorder can occur at any age, typically it's diagnosed in the teenage years or early 20s. Symptoms can vary from person to person, and symptoms may vary over time.
+
+双相障碍属于心境障碍的一种类型，英文名称为Bipolar Disorder（BP），英文别名Bipolar Affective Disorder，指既有躁狂发作又有抑郁发作的一类疾病。
+因未明，生物、心理与社会环境诸多方面因素参与其发病过程，目前强调遗传与环境或应激因素之间的交互作用、以及这种交互作用的出现时点在双相障碍发生过程中具有重要的影响，临床表现按照发作特点可以分为抑郁发作、躁狂发作或混合发作。
 
