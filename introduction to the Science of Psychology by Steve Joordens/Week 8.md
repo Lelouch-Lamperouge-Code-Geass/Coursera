@@ -129,3 +129,101 @@ Cognitive symptoms: For some patients, the cognitive symptoms of schizophrenia a
 
 精神分裂症是一组病因未明的重性精神病，多在青壮年缓慢或亚急性起病，临床上往往表现为症状各异的综合征，涉及感知觉、思维、情感和行为等多方面的障碍以及精神活动的不协调。患者一般意识清楚，智能基本正常，但部分患者在疾病过程中会出现认知功能的损害。病程一般迁延，呈反复发作、加重或恶化，部分患者最终出现衰退和精神残疾，但有的患者经过治疗后可保持痊愈或基本痊愈状态。
 
+# Personality Disorder
+
+#### What is “Personality?”
+
+Personality refers to a distinctive set of traits, behavior styles, and patterns that make up our character or individuality. How we perceive the world, our attitudes, thoughts, and feelings are all part of our personality. People with healthy personalities are able to cope with normal stresses and have no trouble forming relationships with family, friends, and co-workers.
+
+#### What is a Personality Disorder?
+
+Those who struggle with a personality disorder have great difficulty dealing with other people. They tend to be inflexible, rigid, and unable to respond to the changes and demands of life. Although they feel that their behavior patterns are “normal” or “right,” people with personality disorders tend to have a narrow view of the world and find it difficult to participate in social activities.
+
+#### Recognizing a Personality Disorder
+
+A personality disorder must fulfill several criteria. A deeply ingrained, inflexible pattern of relating, perceiving, and thinking serious enough to cause distress or impaired functioning is a personality disorder. Personality disorders are usually recognizable by adolescence or earlier, continue throughout adulthood, and become less obvious throughout middle age.
+
+#### What Causes a Personality Disorder?
+
+Some experts believe that events occurring in early childhood exert a powerful influence upon behavior later in life. Others indicate that people are genetically predisposed to personality disorders. In some cases, however, environmental facts may cause a person who is already genetically vulnerable to develop a personality disorder.
+
+#### Types of Personality Disorders
+
+There are many formally identified personality disorders, each with their own set of behaviors and symptoms. Many of these fall into three different categories or clusters:
+
+* Cluster A: Odd or eccentric behavior
+* Cluster B: Dramatic, emotional or erratic behavior
+* Cluster C: Anxious fearful behavior
+
+Since there are too many identified types of personality disorders to explain in this context, we will only review a few in each cluster.
+
+##### Cluster A:
+
+* Schizoid Personality Disorder. Schizoid personalities are introverted, withdrawn, solitary, emotionally cold, and distant. They are often absorbed with their own thoughts and feelings and are fearful of closeness and intimacy with others. For example, a person suffering from schizoid personality is more of a daydreamer than a practical action taker.
+* Paranoid Personality Disorder. The essential feature for this type of personality disorder is interpreting the actions of others as deliberately threatening or demeaning. People with paranoid personality disorder are untrusting, unforgiving, and prone to angry or aggressive outbursts without justification because they perceive others as unfaithful, disloyal, condescending or deceitful. This type of person may also be jealous, guarded, secretive, and scheming, and may appear to be emotionally “cold” or excessively serious.
+* Schizotypal Personality Disorder. A pattern of peculiarities best describes those with schizotypal personality disorder. People may have odd or eccentric manners of speaking or dressing. Strange, outlandish or paranoid beliefs and thoughts are common. People with schizotypal personality disorder have difficulties forming relationships and experience extreme anxiety in social situations. They may react inappropriately or not react at all during a conversation or they may talk to themselves. They also display signs of “magical thinking” by saying they can see into the future or read other people’s minds.
+
+#### Cluster B:
+
+* Antisocial Personality Disorder. People with antisocial personality disorder characteristically act out their conflicts and ignore normal rules of social behavior. These individuals are impulsive, irresponsible, and callous. Typically, the antisocial personality has a history of legal difficulties, belligerent and irresponsible behavior, aggressive and even violent relationships. They show no respect for other people and feel no remorse about the effects of their behavior on others. These people ware at high risk for substance abuse, especially alcoholism, since it helps them to relieve tension, irritability and boredom.
+* Borderline Personality Disorder. People with borderline personality disorder are unstable in several areas, including interpersonal relationships, behavior, mood, and self-image. Abrupt and extreme mood changes, stormy interpersonal relationships, an unstable and fluctuating self-image, unpredictable and self-destructive actions characterize the person with borderline personality disorder. These individuals generally have great difficulty with their own sense of identity. They often experience the world in extremes, viewing others as either “all good” or “all bad.” A person with borderline personality may form an intense personal attachment with someone only to quickly dissolve it over a perceived slight. Fears of abandonment may lead to an excessive dependency on others. Self-multilation or recurrent suicidal gestures may be used to get attention or manipulate others. Impulsive actions, chronic feelings of boredom or emptiness, and bouts of intense inappropriate anger are other traits of this disorder, which is more common among females.
+* Narcissistic Personality Disorder. People with narcissistic personality have an exaggerated sense of self-importance, are absorbed by fantasies of unlimited success, and seek constant attention. The narcissistic personality is oversensitive to failure and often complains of multiple somatic symptoms. Prone to extreme mood swings between self-admiration and insecurity, these people tend to exploit interpersonal relationships.
+
+#### Cluster C:
+
+* Avoidant Personality Disorder. Avoidant personalities are often hypersensitive to rejection and are unwilling to become involved with others unless they are sure of being liked. Excessive social discomfort, timidity, fear of criticism, avoidance of social or work activities that involve interpersonal contact are characteristic of the avoidant personality. They are fearful of saying something considered foolish by others; worry they will blush or cry in front of others; and are very hurt by any disapproval by others. People with avoidant personality disorder may have no close relationships outside of their family circle, although they would like to, and are upset at their inability to relate well to others.
+* Dependent Personality Disorder. People with dependent personality disorder may exhibit a pattern of dependent and submissive behavior, relying on others to make decisions for them. They require excessive reassurance and advice, and are easily hurt by criticism or disapproval. They feel uncomfortable and helpless if they are alone, and can be devastated when a close relationship ends. They have a strong fear of rejection. Typically lacking in self-confidence, the dependent personality rarely initiates projects or does things independently. This disorder usually begins by early adulthood and is diagnosed more frequently in females than males.
+* Obsessive-Compulsive Personality Disorder. Compulsive personalities are conscientious and have high levels of aspiration, but they also strive for perfection. Never satisfied with their achievements, people with compulsive personality disorder take on more and more responsibilities. They are reliable, dependable, orderly, and methodical, but their inflexibility often makes them incapable of adapting to changed circumstances. People with compulsive personality are highly cautious, weigh all aspects of a problem, and pay attention to every detail, making it difficult for them to make decisions and complete tasks. When their feelings are not under strict control, events are unpredictable, or they must rely on others, compulsive personalities often feel a sense of isolation and helplessness.
+
+#### How are Personality Disorders Treated?
+
+When these characteristics are carried to an extreme, when they endure over time and when they interfere with healthy functioning, a diagnostic evaluation with a licensed physician or mental health professional is recommended.
+
+There are many types of help available for the different personality disorders. Treatment may include individual, group, or family psychotherapy. Medications, prescribed by a patient’s physician, may also be helpful in relieving some of the symptoms of personality disorders, including problems with anxiety and perceptions.
+
+Psychotherapy for patients with personality disorders focuses on helping them see the unconscious conflicts that are contributing to or causing their symptoms. It also helps people become more flexible and is aimed at reducing the behavior patterns that interfere with everyday living.
+
+In psychotherapy, people with personality disorders can better recognize the effects of their behavior on others. Behavior and cognitive therapies focus on resolving symptoms or traits that are characteristic of the disorder, such as the inability to make important life decisions or the inability to initiate relationships.
+
+# Antisocial Personality Disorder
+
+Antisocial personality disorder is a disorder that is characterized by a long-standing pattern of disregard for other people’s rights, often crossing the line and violating those rights. A person with antisocial personality disorder (APD) often feels little or no empathy toward other people, and doesn’t see the problem in bending or breaking the law for their own needs or wants. The disorder usually begins in childhood or as a teen and continues into a person’s adult life.
+
+Antisocial personality disorder is often referred to as psychopathy or sociopathy in popular culture. However, neither psychopathy nor sociopathy are recognized professional labels used for diagnosis.
+
+Individuals with antisocial personality disorder frequently lack empathy and tend to be callous, cynical, and contemptuous of the feelings, rights, and sufferings of others. They may have an inflated and arrogant self-appraisal (e.g., feel that ordinary work is beneath them or lack a realistic concern about their current problems or their future) and may be excessively opinionated, self-assured, or cocky. They may display a glib, superficial charm and can be quite voluble and verbally facile (e.g., using technical terms or jargon that might impress someone who is unfamiliar with the topic).
+
+Lack of empathy, inflated self-appraisal, and superficial charm are features that have been commonly included in traditional conceptions of psychopathy and may be particularly distinguishing of antisocial personality disorder in prison or forensic settings where criminal, delinquent, or aggressive acts are likely to be nonspecific. These individuals may also be irresponsible and exploitative in their sexual relationships.
+
+A personality disorder is an enduring pattern of inner experience and behavior that deviates from the norm of the individual’s culture. The pattern is seen in two or more of the following areas: cognition; affect; interpersonal functioning; or impulse control. The enduring pattern is inflexible and pervasive across a broad range of personal and social situations. It typically leads to significant distress or impairment in social, professional, or other areas of functioning. The pattern is stable and of long duration, and its onset can be traced back to early adulthood or adolescence.
+
+### Symptoms of Antisocial Personality Disorder
+
+Antisocial personality disorder is diagnosed when a person’s pattern of antisocial behavior has occurred since age 15 (although only adults 18 years or older can be diagnosed with this disorder) and consists of the majority of these symptoms:
+
+* Failure to conform to social norms with respect to lawful behaviors as indicated by repeatedly performing acts that are grounds for arrest
+* Deceitfulness, as indicated by repeated lying, use of aliases, or conning others for personal profit or pleasure
+* Impulsivity or failure to plan ahead
+* Irritability and aggressiveness, as indicated by repeated physical fights or assaults
+* Reckless disregard for safety of self or others
+* Consistent irresponsibility, as indicated by repeated failure to sustain consistent work behavior or honor financial obligations
+
+There should also be evidence of conduct disorder in the individual as a child, whether or not it was ever formally diagnosed by a professional.
+
+Because personality disorders describe long-standing and enduring patterns of behavior, they are most often diagnosed in adulthood. It is uncommon for them to be diagnosed in childhood or adolescence, because a child or teen is under constant development, personality changes, and maturation. According to the DSM-5, antisocial personality disorder cannot be diagnosed in people younger than 18 years old.
+
+Antisocial personality disorder is 70 percent more prevalent in males than females. According to research, the 12-month prevalence rate of this disorder is between 0.2 and 3.3 percent in the general population.
+
+Like most personality disorders, antisocial personality disorder typically will decrease in intensity with age, with many people experiencing few of the disorder’s symptoms by the time they are in their 40s or 50s.
+
+反社会型人格障碍（antisocial personality disorder）又称无情型人格障碍（affectionless personality disorder）或社会性病态（sociopathy），是对社会影响最为严重的类型。患病率在发达的国家为4.3-9.4%，我国台湾地区为0.3% 。反社会型人格障碍的特征是高度攻击性，缺乏羞惭感，不能从经历中取得经验教训，行为受偶然动机驱使，社会适应不良等，然而这些均属相对的。
+
+“反社会”一语虽系政治社会用语，但也从这一侧面突出反映了他们对社会的危害，这类人在监狱和劳教机构占相当大比率（40%-78%），不少是累犯或惯犯，往往因发生反应状态而送精神病机构要求医学鉴定。
+反社会人格障碍虽然经常发生违纪行为，但与一般犯罪是有区别的，尽管二者对所犯罪行为均负有完全责任能力，司法精神科医生和司法工作者应区分反社会人格犯罪和不法分子作案：①一般犯罪者往往有计划和有预谋地达成犯罪，反社会人格多不能；②犯罪者违法目的明显，反社会人格多受情感冲动支配，犯罪动机较模糊；③犯罪者在他人受害时作案手法隐蔽和狡诈，企图逃避罪责，反社会人格害人害己，而对自己的危害尤大；④具有反社会人格的人较少造成凶杀或其他严重案件以致判处极刑；⑤一般犯罪的人格固然是有缺陷的，但未达到人格障碍程度，而反社会人格则在心理活动的各个方面都有沉重的影响，反映在生活的各个侧面出现持续和长期的行为障碍。
+
+### psychopath vs sociopath
+
+https://www.healthyplace.com/personality-disorders/psychopath/psychopath-vs-sociopath-what-s-the-difference  
+
+
+Lack of remorse, as indicated by being indifferent to or rationalizing having hurt, mistreated, or stolen from another
