@@ -37,6 +37,20 @@ Working memory is a cognitive system with a limited capacity that is responsible
 
 The mere-exposure effect is a psychological phenomenon by which people tend to develop a preference for things merely because they are familiar with them. In social psychology, this effect is sometimes called the familiarity principle. The effect has been demonstrated with many kinds of things, including words, Chinese characters, paintings, pictures of faces, geometric figures, and sounds. In studies of interpersonal attraction, the more often a person is seen by someone, the more pleasing and likeable that person appears to be.
 
+#### Central executive
+
+The central executive is a flexible system responsible for the control and regulation of cognitive processes. It directs focus and targets information, making working memory and long term memory work together. It can be thought of as a supervisory system that controls cognitive processes making sure short term store is actively working and intervenes when they go astray and prevents distractions.
+
+#### Phonological loop
+
+The phonological loop (or "articulatory loop") as a whole deals with sound or phonological information. It consists of two parts: a short-term phonological store with auditory memory traces that are subject to rapid decay and an articulatory rehearsal component (sometimes called the articulatory loop) that can revive the memory traces.
+
+Any auditory verbal information is assumed to enter automatically into the phonological store. Visually presented language can be transformed into phonological code by silent articulation and thereby be encoded into the phonological store. This transformation is facilitated by the articulatory control process. The phonological store acts as an "inner ear", remembering speech sounds in their temporal order, whilst the articulatory process acts as an "inner voice" and repeats the series of words (or other speech elements) on a loop to prevent them from decaying. The phonological loop may play a key role in the acquisition of vocabulary, particularly in the early childhood years.[9] It may also be vital for learning a second language.
+
+#### Visuo-spatial working memory
+
+VSWM manipulates the visual  information stored in the brain to process information. Visual-spatial working memory skills involve the ability to recall shapes and colors as well as their locations and movements. These skills aid children in letter/number recognition, reading, writing, and math. Each of these tasks typically involve some level of visualization in order to follow along in a story or complete complex math problems. It is important for parents and teachers to remember that working memory difficulties are not directly linked to general intelligence.
+
 ### Amnesias
 
 Amnesia is the general term for a condition in which memory (either stored memories or the process of committing something to memory) is disturbed or lost, to a greater extent than simple everyday forgetting or absent-mindedness. Amnesia may result either from organic or neurological causes (damage to the brain through physical injury, neurological disease or the use of certain drugs), or from functional or psychogenic causes (psychological factors, such as mental disorder, post-traumatic stress or psychological defence mechanisms).
