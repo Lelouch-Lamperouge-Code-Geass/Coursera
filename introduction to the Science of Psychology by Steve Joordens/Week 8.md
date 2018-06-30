@@ -287,3 +287,36 @@ Before beginning systematic desensitization, you need to have mastered relaxatio
 Systematic desensitization begins with imaginary exposure to feared situations. Use your anxiety hierarchy to break down the feared situation into manageable components.
 
 For example, let’s say you fear going into large stores. You may have the least anxiety walking into the store. As you get further from the exit doors, your anxiety intensifies. Standing in the checkout line represents your highest fear response. You would start the process by focusing on the action that causes the least amount of distress and work your way up. The result is that you will gradually, or systematically, become desensitized to shopping in large stores.
+
+### Neurotransmitter
+
+A neurotransmitter is defined as a chemical messenger that carries, boosts, and balances signals between neurons, or nerve cells, and other cells in the body. These chemical messengers can affect a wide variety of both physical and psychological functions including heart rate, sleep, appetite, mood, and fear. Billions of neurotransmitter molecules work constantly to keep our brains functioning, managing everything from our breathing to our heartbeat to our learning and concentration levels.
+
+#### How Neurotransmitters Work
+
+In order for neurons to send messages throughout the body, they need to be able to communicate with one another to transmit signals. However, neurons are not simply connected to one another. At the end of each neuron is a tiny gap called a synapse and in order to communicate with the next cell, the signal needs to be able to cross this small space. This occurs through a process known as neurotransmission.
+
+In most cases, a neurotransmitter is released from what's known as the axon terminal after an action potential has reached the synapse, a place where neurons can transmit signals to each other.
+
+When an electrical signal reaches the end of a neuron, it triggers the release of small sacs called vesicles that contain the neurotransmitters. These sacs spill their contents into the synapse, where the neurotransmitters then move across the gap toward the neighboring cells. These cells contain receptors where the neurotransmitters can bind and trigger changes in the cells.
+
+
+After release, the neurotransmitter crosses the synaptic gap and attaches to the receptor site on the other neuron, either exciting or inhibiting the receiving neuron depending on what the neurotransmitter is.  The neurotransmitters act like a key and the receptor site act like a lock. It takes the right key to open specific locks. If the neurotransmitter is able to work on the receptor site, it triggers changes in the receiving cell.
+
+
+Sometimes neurotransmitters can bind to receptors and cause an electrical signal to be transmitted down the cell (excitatory). In other cases, the neurotransmitter can actually block the signal from continuing, preventing the message from being carried on (inhibitory).
+
+
+So what happens to a neurotransmitter after its job is complete? Once the neurotransmitter has had the designed effect, its activity can be stopped by different mechanisms.
+
+* It can be degraded or deactivated by enzymes
+* It can drift away from the receptor
+* It can be taken back up by the axon of the neuron that released it in a process known as reuptake
+
+Neurotransmitters can be classified by their function:
+
+* Excitatory neurotransmitters: These types of neurotransmitters have excitatory effects on the neuron, meaning they increase the likelihood that the neuron will fire an action potential. Some of the major excitatory neurotransmitters include epinephrine and norepinephrine.  
+* Inhibitory neurotransmitters: These types of neurotransmitters have inhibitory effects on the neuron; they decrease the likelihood that the neuron will fire an action potential. Some of the major inhibitory neurotransmitters include serotonin and gamma-aminobutyric acid (GABA).  
+
+Some neurotransmitters, such as acetylcholine and dopamine, can create both excitatory and inhibitory effects depending upon the type of receptors that are present.
+
