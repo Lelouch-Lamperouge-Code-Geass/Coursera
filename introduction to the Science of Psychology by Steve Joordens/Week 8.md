@@ -276,3 +276,14 @@ Client-centered therapy operates according to three basic principles that reflec
 2. The therapist provides the client with unconditional positive regard.  
 3. The therapist shows empathetic understanding to the client.  
 
+### Systematic desensitization
+
+Joseph Wolpe, a pioneer of behavioral therapy, developed a technique called systematic desensitization for the treatment of anxiety-related disorders and phobias. This technique is based on the principles of classical conditioning and the premise that what has been learned (conditioned) can be unlearned. Ample research shows that systematic desensitization is effective in reducing anxiety and panic attacks associated with fearful situations.
+
+Systematic desensitization usually starts with imagining yourself in a progression of fearful situations and using relaxation strategies that compete with anxiety. Once you can successfully manage your anxiety while imagining fearful events, you can use the technique in real life situations. The goal of the process is to become gradually desensitized to the triggers that are causing your distress.
+
+Before beginning systematic desensitization, you need to have mastered relaxation training and developed a hierarchy (from least feared to most feared) list of your feared situations. If you have difficulty getting to a state of relaxation or identifying your anxiety hierarchy, you should consult with a professional who will be able to provide you with guidance.
+
+Systematic desensitization begins with imaginary exposure to feared situations. Use your anxiety hierarchy to break down the feared situation into manageable components.
+
+For example, let’s say you fear going into large stores. You may have the least anxiety walking into the store. As you get further from the exit doors, your anxiety intensifies. Standing in the checkout line represents your highest fear response. You would start the process by focusing on the action that causes the least amount of distress and work your way up. The result is that you will gradually, or systematically, become desensitized to shopping in large stores.
