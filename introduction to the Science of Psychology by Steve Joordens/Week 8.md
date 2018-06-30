@@ -227,3 +227,52 @@ https://www.healthyplace.com/personality-disorders/psychopath/psychopath-vs-soci
 
 
 Lack of remorse, as indicated by being indifferent to or rationalizing having hurt, mistreated, or stolen from another
+
+### Insight therapy
+
+Insight therapy is a type of therapy that helps you see the reasons for your negative behaviors, thoughts, beliefs, and feelings. The idea is that once you see that you are the one controlling your behaviors, thoughts, beliefs, and feelings, that you will be able to make the changes needed. Believe it or not, Sigmund Freud is the one who began using insight therapy back in the early 1900s at the Psychoanalyst School of Psychology. The therapist may try to get to the root of your issues by talking about your past or your childhood to determine what may be the trigger to these feelings.
+
+This is an indirect type of therapy that lets you do most of the talking rather than having the therapist ask the questions and lead you to where he or she thinks the problems may be, like with behavior therapy. Insight therapy is more like a friendly chat rather than a therapy session and many people feel most comfortable with this type of therapy. Even though it is still a form of psychotherapy, it lets you discover how your past influences your current actions and behaviors.
+
+### Humanistic Therapy
+
+#### What Is Humanistic Therapy?
+
+Also known as humanism, humanistic therapy is a positive approach to psychotherapy that focuses on a person’s individual nature, rather than categorizing groups of people with similar characteristics as having the same problems. Humanistic therapy looks at the whole person, not only from the therapist’s view but from the viewpoint of individuals observing their own behavior. The emphasis is on a person’s positive traits and behaviors, and the ability to use their personal instincts to find wisdom, growth, healing, and fulfillment within themselves.
+
+#### When It's Used
+
+Humanistic therapy is used to treat depression, anxiety, panic disorders, personality disorders, schizophrenia, addiction, and relationship issues, including family relationships. People with low self-esteem, who are having trouble finding their purpose or reaching their true potential, who lack feelings of “wholeness,” who are searching for personal meaning, or who are not comfortable with themselves as they are, may also benefit from humanistic therapy.
+
+#### What to Expect
+
+Humanistic therapy is talk therapy that encompasses a gestalt approach, exploring how a person feels in the here and now, rather than trying to identify past events that led to these feelings. Additionally, the humanistic therapist provides an atmosphere of support, empathy, and trust that allows the individual to share their feelings without fear of judgment. The therapist does not act as an authority figure; rather, the relationship between client and the therapist is one of equals.
+
+#### How It Works
+
+In the late 1950s, humanism grew out of a need to address what some psychologists saw as the limitations and negative theories of behavioral and psychoanalytic schools of therapy. This was a new, more holistic approach that focused less on pathology, past experiences, and environmental influences on a person’s behavior, and more on the positive side of human nature. Around this time, psychotherapist Abraham Maslow developed a human hierarchy of needs and motivations, and fellow therapist Carl Rogers developed his person-centered approach. Humanistic therapy evolved from these theories. Humanistic therapists believe people are inherently motivated to fulfill their internal needs and their individual potential to become self-actualized. Self-actualization can take many forms, including creative endeavors, spiritual enlightenment, a pursuit of wisdom, or altruism.
+
+### Client-Centered Therapy
+
+One major difference between humanistic counselors and other therapists is that they refer to those in therapy as 'clients', not 'patients'.  This is because they see the therapist and client as equal partners rather than as an expert treating a patient. 
+
+Unlike other therapies the client is responsible for improving his or her life, not the therapist.  This is a deliberate change from both psychoanalysis and behavioral therapies where the patient is diagnosed and treated by a doctor.  Instead, the client consciously and rationally decides for themselves what is wrong and what should be done about it.  The therapist is more of a friend or counselor who listens and encourages on an equal level.
+
+One reason why Rogers (1951) rejected interpretation was that he believed that, although symptoms did arise from past experience, it was more useful for the client to focus on the present and future than on the past.  Rather than just liberating clients from their past, as psychodynamic therapists aim to do, Rogerians hope to help their clients to achieve personal growth and eventually to self-actualize.
+
+There is an almost total absence of techniques in Rogerian psychotherapy due to the unique character of each counseling relationship.  Of utmost importance, however, is the quality of the relationship between client and therapist.
+
+If there are any techniques they are listening, accepting, understanding and sharing, which seem more attitude-orientated than skills-orientated.  In Corey's (1991) view 'a preoccupation with using techniques is seen [from the Rogerian standpoint] as depersonalizing the relationship'.  The Rogerian client-centered approach puts emphasis on the person coming to form an appropriate understanding of their world and themselves.
+
+A person enters person centered therapy in a state of incongruence.  It is the role of the therapists to reverse this situation.  Rogers (1959) called his therapeutic approach client-centered or person-centered therapy because of the focus on the person’s subjective view of the world.
+
+Rogers regarded everyone as a “potentially competent individual” who could benefit greatly from his form of therapy.  The purpose of Roger’s humanistic therapy is to increase a person’s feelings of self-worth, reduce the level of incongruence between the ideal and actual self, and help a person become more of a fully functioning person.
+
+#### Core Conditions
+
+Client-centered therapy operates according to three basic principles that reflect the attitude of the therapist to the client:
+
+1. The therapist is congruent with the client.  
+2. The therapist provides the client with unconditional positive regard.  
+3. The therapist shows empathetic understanding to the client.  
+
