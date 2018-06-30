@@ -320,3 +320,55 @@ Neurotransmitters can be classified by their function:
 
 Some neurotransmitters, such as acetylcholine and dopamine, can create both excitatory and inhibitory effects depending upon the type of receptors that are present.
 
+### Drug Therapy
+
+Because research has shown that many psychiatric illnesses are biological in origin, drug therapy is often the prescribed treatment. Drug therapy is used to treat a variety of psychological disorders, including attention deficit/hyperactivity disorder (ADHD), major depression, schizophrenia, Tourette's syndrome, anxiety disorders, autism, panic attacks, and obsessive-compulsive disorder, among many others. Drug therapy can be very effective when the patient shows a high level of compliance to the recommended course of treatment. The effectiveness of various medications has enabled many people to lead a full and active life, or at a higher level of functioning than would otherwise be possible without drug therapy.
+
+Along with the benefits derived from drug therapy, however, medications can also evoke side effects such as irritability, agitation, nausea, and headaches. The stimulants used to control ADHD, for example, can suppress growth, particularly weight gain. Schizophrenia is treated with antipsychotic agents such as chlorpromazine, thioridazine, haloperidol, and thiothlxene. Long-term use can produce tardive dyskinesia, an involuntary tongue and mouth movement disorder, stiffness, and tremors. Clomipramime, an antidepressant effective in the treatment of obsessive-compulsive disorder, can produce dry mouth, blurred vision, constipation, rapid heartbeat, and urinary retention. Muscle stiffness often accompanies the drug haloperidol when it is taken for Tourette's syndrome. Antidepressants such as nortripty-line (brand name Pamelor), imipramine (Tofranil), desipramine (Norpramin), fluoxetine (Prozac), sertraline (Zoloft), and paroxetine (Paxil) all carry a small risk of triggering a manic or hypomanic episode. When a person considers taking medication for a psychological condition, it is important to be aware of the possible side effects, as well as knowing the proper dosage, and any harmful drug interactions.
+
+When drug therapy was first introduced, many people, including some mental health professionals, considered medication a simple solution to controlling undesirable behaviors. Research has shown, however, that drug therapy is most effective when used in conjunction with traditional therapy. In the early history of drug therapy, patients in psychiatric hospitals were often medicated, sometimes without receiving any other sort of treatment. Today, it is more common for patients to participate in a range of activities and therapies, such as group therapy and music therapy, while they are on medication. Indeed, sometimes medication makes it possible for some patients to participate in the therapeutic process at all.
+
+### Dopamine
+
+Dopamine plays a critical role in the way our brain controls our movements and is thought to be a crucial part of the basal ganglia motor loop. Thus, shortage of dopamine, particularly the death of dopamine neurons in the nigrostriatal pathway, is a cause of Parkinson's disease, in which a person loses the ability to execute smooth, controlled movements.
+
+In the frontal lobes, dopamine plays a role in controlling the flow of information from other areas of the brain. Dopamine disorders in the frontal lobes can cause a decline in neurocognitive function, particularly those linked to the frontal lobes, such as memory, attention and problem solving. This function is particularly related to the mesocortical dopamine pathway.
+
+Dopamine is commonly associated with the 'pleasure system' of the brain, providing feelings of enjoyment and reinforcement to motivate us to do, or continue doing, certain activities. Certainly dopamine is released (particularly in areas such as the nucleus accumbens and striatum) by naturally rewarding experiences such as food, sex, abuse of drugs and neutral stimuli that become associated with them. This theory is often discussed in terms of drugs (such as cocaine) which seem to directly produce dopamine release in these areas, and in relation to neurobiological theories of addiction, which argue that these dopamine pathways are pathologically altered in addicted persons.
+
+However, the idea that dopamine is the 'reward chemical' of the brain now seems too simple as more evidence has been gathered. Dopamine is known to be released when unpleasant or aversive stimuli are encountered, suggesting that it is not only associated with 'rewards' or pleasure. Also, the firing of dopamine neurons occur when a pleasurable activity is expected, regardless of whether it actually happens or not. This suggests that dopamine may be involved in desire rather than pleasure. Drugs that are known to reduce dopamine activity (e.g. antipsychotics) have been shown to reduce people's desire for pleasurable stimuli, despite the fact that they will rate them as just as pleasurable when they actually encounter or consume them. It seems that these drugs reduce the 'wanting' but not the 'liking', providing more evidence for the desire theory.
+
+Other theories suggest that the crucial role of dopamine may be in predicting pleasurable activity. Related theories argue that dopamine function may be involved in the salience ('noticeableness') of perceived objects and events, with potentially important stimuli (including rewarding things, but also things which may be dangerous or a threat) appearing more noticeable or more important. This theory argues that dopamine's role is to assist decision making by influencing the priority of such stimuli to the person concerned.
+
+
+一直以来，各种媒体都把多巴胺描述成人类愉悦感的来源，多巴胺意味着快乐，是大脑感到幸福的根源。各种文章把多巴胺形容成生活值得一过的终极意义所在，也是我们享受每一个快乐时刻的本质，每一个人企图通过药物、运动、食物、性或者地位来追求的高潮体验。但是事实上，脑科学研究真正告诉我们的是，多巴胺并不是媒体所渲染的，快乐分子，或者快乐的根源。多巴胺的作用其实非常简单。对于多巴胺的准确的本质描述，一个是多巴胺作用于我们的奖赏系统，让我们产生欲望；另外一个作用是，让大脑预期奖赏，从而指导相应的行为。简单的来说，多巴胺的作用，就是“让你想要”，和让你选择能得到更多奖励的行为。多巴胺和快乐，其实关系并不大。就像高晓松说的：很多人分不清理想和欲望。理想就是当你想它时，你是快乐的；欲望就是当你想它时，你是痛苦的。这个欲望，就是多巴胺的分泌。 在1978年，Roy Wise发表了一篇关于多巴胺的研究论文，他用抗精神疾病药物清空了小老鼠大脑中的多巴胺神经递质，接着小老鼠变得对美味的食物或者一些会导致成瘾的药物变得无欲无求，不会再作出任何努力来获得这些奖励。在之后几十年的研究中，科学家们一再重复观察到了类似的现象。大家也一直以为多巴胺和愉悦、快乐的感觉有关。但是之后密歇根大学的神经科学家Kent C. Berridge的研究，发现好像并不是这么回事。首先，他的多年观察研究发现，当动物感到开心的时候，通常会舔嘴唇，比如很饿的时候吃到特别好吃的东西，或者很渴的时候终于喝到了水。这个舔嘴唇现象在老鼠、猩猩和人类小婴儿中都有。然后Terry Robinson的同事用神经毒素损毁了小老鼠的多巴胺分泌中枢，想看看他们对美味的食物是不是不再会有愉快的舔嘴唇反应。结果恰恰出乎他们意料，小老鼠在没有了多巴胺之后，不再主动寻找食物，但是当他们看到好吃的东西喂到眼前，还是会舔嘴唇表示很开心。然后相反，科学家通过电刺激给小老鼠增加多巴胺水平，结果小老鼠会拼命地找吃的，并且吃很多东西，但是他们的快乐的舔嘴唇并不会增加，而且即使食物变难吃了，这些多巴胺过剩的小老鼠还是会吃很多。这个结果意味着，多巴胺并不产生愉悦感，而是产生欲望。所以，你很想要某样东西或者做某件事，并不代表这样东西或者这件事就一定会给你带来快乐。想要和需要，想要和快乐，其实是分立的两件事，两个系统。多巴胺带给人想要的感觉，让人一直孜孜不倦地追求，而快乐，则指的是“被满足”，这个和多巴胺并没什么太大关系，这两者之间是有差别的。一样东西、一件事情，可能你并不需要他，但是多巴胺会让你一直想要做这件事、获得这个东西，而最后即使获得了，其实也并不会给你带来更多的快乐。
+
+### Electroconvulsive therapy
+
+Electroconvulsive therapy (ECT) is a procedure, done under general anesthesia, in which small electric currents are passed through the brain, intentionally triggering a brief seizure. ECT seems to cause changes in brain chemistry that can quickly reverse symptoms of certain mental illnesses.
+
+ECT often works when other treatments are unsuccessful and when the full course of treatment is completed, but it may not work for everyone.
+
+Much of the stigma attached to ECT is based on early treatments in which high doses of electricity were administered without anesthesia, leading to memory loss, fractured bones and other serious side effects.
+
+ECT is much safer today. Although ECT still causes some side effects, it now uses electric currents given in a controlled setting to achieve the most benefit with the fewest possible risks.
+
+#### Why it's done
+
+Electroconvulsive therapy (ECT) can provide rapid, significant improvements in severe symptoms of several mental health conditions. ECT is used to treat:
+
+Severe depression, particularly when accompanied by detachment from reality (psychosis), a desire to commit suicide or refusal to eat.
+
+Treatment-resistant depression, a severe depression that doesn't improve with medications or other treatments.
+Severe mania, a state of intense euphoria, agitation or hyperactivity that occurs as part of bipolar disorder. Other signs of mania include impaired decision-making, impulsive or risky behavior, substance abuse, and psychosis.
+
+Catatonia, characterized by lack of movement, fast or strange movements, lack of speech, and other symptoms. It's associated with schizophrenia and certain other psychiatric disorders. In some cases, catatonia is caused by a medical illness.
+
+Agitation and aggression in people with dementia, which can be difficult to treat and negatively affect quality of life.
+ECT may be a good treatment option when medications aren't tolerated or other forms of therapy haven't worked. 
+
+电休克治疗（electroconvulsive therapy，ECT)，也称电抽搐治疗，又称电痉挛疗法，是以一定量的电流通过大脑，引起意识丧失和痉挛发作，从而达到治疗目的的一种方法。目前在国外，发达国家均已对传统电痉挛治疗进行改良，即在电痉挛治疗前加用静脉麻醉药和肌肉松弛剂，使病人抽搐明显减轻和无恐惧感。由于其适应症广、安全性高、并发症少，因此已作为标准治疗，我国一般称之为改良的电痉挛治疗。
+
+电休克疗法（ECT）在1930年后问世，是在原来认为在癫痫和精神分裂症之间不能同时发作的错误观念之上发展的，似乎用人工诱导癫痫发作的方法来改善精神分裂症的症状。然而，试行后的结果却是，改善最明显的不是精神分裂症而是严重的抑郁症。起初，诱发抽搐是采用药物成四氮或用电流在脑内通过。时至今日用电流刺激诱发抽搐已成为常规。近年来又出现了附加的简单麻醉和应用肌肉松弛剂，使得现今的治疗更为安全和可接受。
+2014年荷兰研究者发现，电休克疗法(ECT)将可用于清除大脑中的痛苦回忆。这项发现为治疗创伤后应激障碍症(PTSD)带来了新的希望。
+
