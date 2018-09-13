@@ -72,4 +72,6 @@ Example:
 
 > The cocktail party effect is the phenomenon of the brain's ability to focus one's auditory attention (an effect of selective attention in the brain) on a particular stimulus while filtering out a range of other stimuli, as when a partygoer can focus on a single conversation in a noisy room. Listeners have the ability to both segregate different stimuli into different streams, and subsequently decide which streams are most pertinent to them. Thus, it has been proposed that one's sensory memory subconsciously parses all stimuli, identifying discrete pieces of information and classifying them by salience. This effect is what allows most people to "tune into" a single voice and "tune out" all others. It may also describe a similar phenomenon that occurs when one may immediately detect words of importance originating from unattended stimuli, for instance hearing one's name among a wide range of auditory input.
 
+### Hypothesis vs. Theory
 
+A hypothesis is either a suggested explanation for an observable phenomenon, or a reasoned prediction of a possible causal correlation among multiple phenomena.	In science, a theory is a tested, well-substantiated, unifying explanation for a set of verified, proven factors. A theory is always backed by evidence; a hypothesis is only a suggested possible outcome, and is testable and falsifiable.
