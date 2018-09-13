@@ -75,3 +75,24 @@ Example:
 ### Hypothesis vs. Theory
 
 A hypothesis is either a suggested explanation for an observable phenomenon, or a reasoned prediction of a possible causal correlation among multiple phenomena.	In science, a theory is a tested, well-substantiated, unifying explanation for a set of verified, proven factors. A theory is always backed by evidence; a hypothesis is only a suggested possible outcome, and is testable and falsifiable.
+
+### Predictive modelling
+
+Predictive modelling uses statistics to predict outcomes. Most often the event one wants to predict is in the future, but predictive modelling can be applied to any type of unknown event, regardless of when it occurred. For example, predictive models are often used to detect crimes and identify suspects, after the crime has taken place.
+
+In many cases the model is chosen on the basis of detection theory to try to guess the probability of an outcome given a set amount of input data, for example given an email determining how likely that it is spam.
+
+Models can use one or more classifiers in trying to determine the probability of a set of data belonging to another set, say spam or 'ham'.
+
+Depending on definitional boundaries, predictive modelling is synonymous with, or largely overlapping with, the field of machine learning, as it is more commonly referred to in academic or research and development contexts. When deployed commercially, predictive modelling is often referred to as predictive analytics.
+
+### Cost function
+
+In artificial neural networks, the cost function is a function that the network wants to minimize. This is often represented as the difference between the target and the network's output. (e.g. mean absolute error, mean square error). Different cost functions implement different notions of "distance" between the target and the network output (e.g. softmax cross-entropy, Kullback-Leibler divergence), but the general idea remains the same: the cost function gives a distance metric, and the network tries to make the distance negligible.
+
+### Gradient descent
+
+Gradient descent is a first-order iterative optimization algorithm for finding the minimum of a function. To find a local minimum of a function using gradient descent, one takes steps proportional to the negative of the gradient (or approximate gradient) of the function at the current point. If instead one takes steps proportional to the positive of the gradient, one approaches a local maximum of that function; the procedure is then known as gradient ascent.
+
+Gradient descent is also known as steepest descent. However, gradient descent should not be confused with the method of steepest descent for approximating integrals.
+
