@@ -112,4 +112,6 @@ In linear algebra, the identity matrix, or sometimes ambiguously called a unit m
 
 A square matrix that is not invertible is called __singular__ or __degenerate__. A square matrix is singular if and only if its determinant is 0. ... However, in some cases such a matrix may have a left inverse or right inverse.
 
+### Transpose of a Matrix
 
+转置矩阵, 将矩阵的行列互换得到的新矩阵称为转置矩阵，转置矩阵的行列式不变。
