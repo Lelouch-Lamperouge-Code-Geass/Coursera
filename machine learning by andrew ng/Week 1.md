@@ -109,3 +109,7 @@ In linear algebra, the identity matrix, or sometimes ambiguously called a unit m
 ### Invertible matrix
 
 矩阵A为n阶方阵，若存在n阶矩阵B，使得矩阵A、B的乘积为单位阵，则称A为可逆阵，B为A的逆矩阵。若方阵的逆阵存在，则称为可逆矩阵或非奇异矩阵，且其逆矩阵唯一。
+
+A square matrix that is not invertible is called __singular__ or __degenerate__. A square matrix is singular if and only if its determinant is 0. ... However, in some cases such a matrix may have a left inverse or right inverse.
+
+
